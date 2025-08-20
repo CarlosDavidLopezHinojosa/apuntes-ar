@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[AR]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>AR</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 04 Jul 2024 18:10:24 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 04 Jul 2024 18:10:06 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[2. Generalidades]]></title><description><![CDATA[ 
+ <br><br>
+<br>Origen o emisor. 
+<br>Destino o receptor. 
+<br>Canal o medio de transmisión. 
+<br>Mensaje a trasmitir.
+<br><img alt="Captura de pantalla de 2024-06-23 20-20-34.png" src="tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-20-34.png"><br><br>
+<br>Dispositivos 
+<br>Medios 
+<br>Servicios
+<br><br>Se distinguen dos tipos, terminales e intermedios: <br>
+<br>
+Dispositivos terminales: Es el punto donde un mensaje se origina o se recibe. Los datos se originan con un dispositivo final, fluyen por la red y llegan a un dispositivo final. Los dispositivos finales también se denominan hosts. Estos a su vez suelen tener dos roles:
+
+<br>
+Dispositivos intermedios: Interconectan dispositivos terminales en una red. Entre los ejemplos, se incluyen los siguientes: switches, puntos de acceso inalámbricos, routers y firewalls.
+
+<br><br><img alt="Captura de pantalla de 2024-06-23 20-24-45.png" src="tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-24-45.png"><br><br><a data-href="3. Redes basadas en distancias" href="tema-1-introducción-a-las-redes/3.-redes-basadas-en-distancias.html" class="internal-link" target="_self" rel="noopener">3. Redes basadas en distancias</a><br>
+<a data-href="4. Redes basadas en hasta donde llegan las comunicaciones" href="tema-1-introducción-a-las-redes/4.-redes-basadas-en-hasta-donde-llegan-las-comunicaciones.html" class="internal-link" target="_self" rel="noopener">4. Redes basadas en hasta donde llegan las comunicaciones</a><br>
+<a data-href="5. Redes basadas en tipos de servicios" href="tema-1-introducción-a-las-redes/5.-redes-basadas-en-tipos-de-servicios.html" class="internal-link" target="_self" rel="noopener">5. Redes basadas en tipos de servicios</a>]]></description><link>tema-1-introducción-a-las-redes/2.-generalidades.html</link><guid isPermaLink="false">Tema 1 - Introducción a las Redes/2. Generalidades.md</guid><pubDate>Sun, 23 Jun 2024 18:33:37 GMT</pubDate><enclosure url="tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-20-34.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-20-34.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Redes basadas en distancias]]></title><description><![CDATA[ 
+ <br><br>
+<br>Personal Area Network (PAN). 
+<br>Local Area Network (LAN). 
+<br>Metropolitan Area Network (MAN). 
+<br>Wide Area Network (WAN). 
+<br>Internet
+]]></description><link>tema-1-introducción-a-las-redes/3.-redes-basadas-en-distancias.html</link><guid isPermaLink="false">Tema 1 - Introducción a las Redes/3. Redes basadas en distancias.md</guid><pubDate>Sun, 23 Jun 2024 18:32:02 GMT</pubDate></item><item><title><![CDATA[4. Redes basadas en hasta donde llegan las comunicaciones]]></title><description><![CDATA[ 
+ <br>
+<br>
+Intranet: Conjunto privado de redes LAN y WAN internas a una organización al que solo pueden acceder los miembros de la organización u otras personas con autorización. 
+
+<br>
+Extranet: Proporcionan un acceso seguro a una red privada por parte de personas que trabajan para otra organización y que necesitan tener acceso a sus datos en su red.
+
+<br><img alt="Captura de pantalla de 2024-06-23 20-29-22.png" src="tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-29-22.png">]]></description><link>tema-1-introducción-a-las-redes/4.-redes-basadas-en-hasta-donde-llegan-las-comunicaciones.html</link><guid isPermaLink="false">Tema 1 - Introducción a las Redes/4. Redes basadas en hasta donde llegan las comunicaciones.md</guid><pubDate>Sun, 23 Jun 2024 18:33:00 GMT</pubDate><enclosure url="tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-29-22.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-29-22.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[5. Redes basadas en tipos de servicios]]></title><description><![CDATA[ 
+ <br>Redes clientes-servidor y redes entre pares P2P.<br><img alt="Captura de pantalla de 2024-06-23 20-34-26.png" src="tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-34-26.png"><br><br>
+<br>
+Servidores: los proveedores de un recurso o servicio. 
+
+<br>
+Clientes: los solicitantes del servicio. 
+
+<br>
+Los clientes no comparten ninguno de sus recursos. 
+
+<br>
+Ventajas: 
+
+<br>Sistema centralizado con todos los datos en un único lugar. 
+<br>Rentable, requiere menos costes de mantenimiento y permite la recuperación de datos. 
+<br>Escalable. 
+
+
+<br>
+Desventajas: 
+
+<br>Clientes propensos a virus, troyanos y gusanos, etc. 
+<br>Servidores propensos a ataques DOS. 
+<br>Los datos pueden ser suplantados o modificados durante la transmisión.
+
+
+<br><br>
+<br>
+Cuando en las pequeñas empresas o en las casas, es común que un cliente también cumpla la función de servidor. 
+
+<br>
+Ventajas: 
+
+<br>Es fácil de configurar. 
+<br>Es menos compleja. 
+<br>Cuesta menos. 
+
+
+<br>
+Desventajas: 
+
+<br>Menos segura. 
+<br>No cuenta con administración centralizada. 
+<br>No es escalable. 
+<br>Tiene un rendimiento más lento.
+
+
+]]></description><link>tema-1-introducción-a-las-redes/5.-redes-basadas-en-tipos-de-servicios.html</link><guid isPermaLink="false">Tema 1 - Introducción a las Redes/5. Redes basadas en tipos de servicios.md</guid><pubDate>Sun, 23 Jun 2024 18:38:52 GMT</pubDate><enclosure url="tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-34-26.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-34-26.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 1 - Introducción a las Redes]]></title><description><![CDATA[ 
+ <br><a data-href="2. Generalidades" href="tema-1-introducción-a-las-redes/2.-generalidades.html" class="internal-link" target="_self" rel="noopener">2. Generalidades</a><br>
+<a data-href="3. Redes basadas en distancias" href="tema-1-introducción-a-las-redes/3.-redes-basadas-en-distancias.html" class="internal-link" target="_self" rel="noopener">3. Redes basadas en distancias</a><br>
+<a data-href="4. Redes basadas en hasta donde llegan las comunicaciones" href="tema-1-introducción-a-las-redes/4.-redes-basadas-en-hasta-donde-llegan-las-comunicaciones.html" class="internal-link" target="_self" rel="noopener">4. Redes basadas en hasta donde llegan las comunicaciones</a><br>
+<a data-href="5. Redes basadas en tipos de servicios" href="tema-1-introducción-a-las-redes/5.-redes-basadas-en-tipos-de-servicios.html" class="internal-link" target="_self" rel="noopener">5. Redes basadas en tipos de servicios</a>]]></description><link>tema-1-introducción-a-las-redes/tema-1-introducción-a-las-redes.html</link><guid isPermaLink="false">Tema 1 - Introducción a las Redes/Tema 1 - Introducción a las Redes.md</guid><pubDate>Sun, 23 Jun 2024 18:39:24 GMT</pubDate></item><item><title><![CDATA[2. Modelo OSI]]></title><description><![CDATA[ 
+ <br>Estandar de Iure.
+Copy<br><img alt="Captura de pantalla de 2024-07-01 17-32-44.png" src="tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-32-44.png"><br>
+<br>
+Capa Física (Layer 1):
+
+<br>Transmisión de bits a través de medios físicos (cables, fibra óptica, etc.).
+
+
+<br>
+Capa de Enlace de Datos (Layer 2):
+
+<br>Transferencia de datos fiable entre nodos adyacentes. Manejo de errores de la capa física.
+
+
+<br>
+Capa de Red (Layer 3):
+
+<br>Determinación de rutas y encaminamiento de paquetes. Uso de direcciones lógicas (IP).
+
+
+<br>
+Capa de Transporte (Layer 4):
+
+<br>Transferencia de datos confiable y control de flujo entre sistemas finales (TCP/UDP).
+
+
+<br>
+Capa de Sesión (Layer 5):
+
+<br>Establecimiento, gestión y terminación de sesiones (conexiones).
+
+
+<br>
+Capa de Presentación (Layer 6):
+
+<br>Traducción, cifrado y compresión de datos.
+
+
+<br>
+Capa de Aplicación (Layer 7):
+- Interacción con el software de aplicación y servicios de red (HTTP, FTP, SMTP).
+Copy
+<a data-href="4. Diferencias entre el los modelos OSI y TCP-IP" href="tema-2-modelos-de-redes/4.-diferencias-entre-el-los-modelos-osi-y-tcp-ip.html" class="internal-link" target="_self" rel="noopener">4. Diferencias entre el los modelos OSI y TCP-IP</a>
+
+]]></description><link>tema-2-modelos-de-redes/2.-modelo-osi.html</link><guid isPermaLink="false">Tema 2 - Modelos de Redes/2. Modelo OSI.md</guid><pubDate>Mon, 01 Jul 2024 15:41:38 GMT</pubDate><enclosure url="tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-32-44.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-32-44.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Modelo TCP-IP]]></title><description><![CDATA[ 
+ <br>Estandar de facto.
+Copy<br><img alt="Captura de pantalla de 2024-07-01 17-38-30.png" src="tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-38-30.png"><br>
+<br>Capa de Acceso a la Red (Network Interface Layer):
+
+<br>Manejo de hardware de red y medios físicos. Equivale a las capas Física y de Enlace de Datos del modelo OSI.
+
+
+<br>Capa de Internet (Internet Layer):
+
+<br>Encaminamiento de paquetes y uso de direcciones IP.
+
+
+<br>Capa de Transporte (Transport Layer):
+
+<br>Transferencia de datos fiable y control de flujo entre sistemas finales (TCP/UDP).
+
+
+<br>Capa de Aplicación (Application Layer):
+- Protocolo de alto nivel para aplicaciones y servicios de red (HTTP, FTP, SMTP, etc.).
+Copy
+<a data-href="4. Diferencias entre el los modelos OSI y TCP-IP" href="tema-2-modelos-de-redes/4.-diferencias-entre-el-los-modelos-osi-y-tcp-ip.html" class="internal-link" target="_self" rel="noopener">4. Diferencias entre el los modelos OSI y TCP-IP</a>
+]]></description><link>tema-2-modelos-de-redes/3.-modelo-tcp-ip.html</link><guid isPermaLink="false">Tema 2 - Modelos de Redes/3. Modelo TCP-IP.md</guid><pubDate>Mon, 01 Jul 2024 15:41:26 GMT</pubDate><enclosure url="tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-38-30.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-38-30.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4. Diferencias entre el los modelos OSI y TCP-IP]]></title><description><![CDATA[ 
+ <br><img alt="Captura de pantalla de 2024-07-01 17-42-40.png" src="tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-42-40.png"><br>El número de capas: siete (OSI) frente a cuatro (TCP/IP).<br>
+<br>OSI es un modelo conceptual para explicar el comportamiento a diferentes niveles de las aplicaciones de comunicación y arquitectura de redes.
+<br>El modelo TCP/IP es más abstracto que OSI al disponer de menos capas y en sí el propio modelo es un protocolo de comunicación.
+<br>OSI es un modelo más genérico que TCP/IP.
+]]></description><link>tema-2-modelos-de-redes/4.-diferencias-entre-el-los-modelos-osi-y-tcp-ip.html</link><guid isPermaLink="false">Tema 2 - Modelos de Redes/4. Diferencias entre el los modelos OSI y TCP-IP.md</guid><pubDate>Mon, 01 Jul 2024 15:43:40 GMT</pubDate><enclosure url="tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-42-40.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-42-40.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[5. Problemas de Ambos Modelos]]></title><description><![CDATA[ 
+ <br><br><br><img alt="Captura de pantalla de 2024-07-01 17-46-58.png" src="tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-46-58.png"><br>
+<br>Modelo y protocolos no del todo perfectos.
+<br>Ignora servicios y protocolos sin conexión.
+<br>Modelo complejo.
+<br>Capas que carecen de utilidad (sesión y presentación).
+<br>Presión gubernamental.
+<br><br>
+<br>Fronteras difusas: No distingue entre servicios, interfaces y protocolos.
+<br>No es un modelo general.
+<br>No hay distinción entre capa física y enlace.
+<br>Protocolos muy usados pero difícilmente reemplazables.
+]]></description><link>tema-2-modelos-de-redes/5.-problemas-de-ambos-modelos.html</link><guid isPermaLink="false">Tema 2 - Modelos de Redes/5. Problemas de Ambos Modelos.md</guid><pubDate>Mon, 01 Jul 2024 15:47:50 GMT</pubDate><enclosure url="tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-46-58.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-46-58.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 2 - Modelos de Redes]]></title><description><![CDATA[ 
+ <br><a data-href="2. Modelo OSI" href="tema-2-modelos-de-redes/2.-modelo-osi.html" class="internal-link" target="_self" rel="noopener">2. Modelo OSI</a><br>
+<a data-href="3. Modelo TCP-IP" href="tema-2-modelos-de-redes/3.-modelo-tcp-ip.html" class="internal-link" target="_self" rel="noopener">3. Modelo TCP-IP</a><br>
+<a data-href="4. Diferencias entre el los modelos OSI y TCP-IP" href="tema-2-modelos-de-redes/4.-diferencias-entre-el-los-modelos-osi-y-tcp-ip.html" class="internal-link" target="_self" rel="noopener">4. Diferencias entre el los modelos OSI y TCP-IP</a><br>
+<a data-href="5. Problemas de Ambos Modelos" href="tema-2-modelos-de-redes/5.-problemas-de-ambos-modelos.html" class="internal-link" target="_self" rel="noopener">5. Problemas de Ambos Modelos</a>]]></description><link>tema-2-modelos-de-redes/tema-2-modelos-de-redes.html</link><guid isPermaLink="false">Tema 2 - Modelos de Redes/Tema 2 - Modelos de Redes.md</guid><pubDate>Mon, 01 Jul 2024 17:20:36 GMT</pubDate></item><item><title><![CDATA[2. Medios Guiados]]></title><description><![CDATA[ 
+ <br>
+<br>
+Cualquier medio que se encuentre confinado dentro de un camino físico. Normalmente suele ser un medio sólido.
+
+<br>
+Medios eléctricos y de transmisión de señales de luz principalmente.
+
+<br><br>
+<br>Par trenzado.
+<br>Coaxial.
+<br>Fibra óptica.
+<br><img alt="Captura de pantalla de 2024-07-01 17-56-02.png" src="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-17-56-02.png"><br><a data-href="2.1 Par Trenzado" href="tema-3-nivel-físico-herramientas-de-transmisión/2.1-par-trenzado.html" class="internal-link" target="_self" rel="noopener">2.1 Par Trenzado</a><br>
+<a data-href="2.2 Coaxial" href="tema-3-nivel-físico-herramientas-de-transmisión/2.2-coaxial.html" class="internal-link" target="_self" rel="noopener">2.2 Coaxial</a><br>
+<a data-href="2.3 Fibra Óptica" href="tema-3-nivel-físico-herramientas-de-transmisión/2.3-fibra-óptica.html" class="internal-link" target="_self" rel="noopener">2.3 Fibra Óptica</a>]]></description><link>tema-3-nivel-físico-herramientas-de-transmisión/2.-medios-guiados.html</link><guid isPermaLink="false">Tema 3 - Nivel Físico - Herramientas de Transmisión/2. Medios Guiados.md</guid><pubDate>Mon, 01 Jul 2024 16:12:20 GMT</pubDate><enclosure url="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-17-56-02.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-17-56-02.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.1 Par Trenzado]]></title><description><![CDATA[ 
+ <br><br>
+<br>El par trenzado es un tipo de cable compuesto por dos alambres conductores aislados entre sí con un revestimiento externo. 
+<br>Uno de los hilos actúa como referencia. Dependiendo de la categoría (CAT), estos cables pueden tener diferentes niveles de trenzado y prestaciones específicas para distintas aplicaciones. 
+<br>Pueden ser de tipos apantallados (STP) o sin apantallar (UTP), entre otros. Tanto el trenzado como el apantallado ayudan a reducir las interferencias electromagnéticas entre pares cercanos (diafonía). 
+<br>Los conectores típicos incluyen el RJ11 (para teléfonos) y el RJ45, disponibles en versiones apantalladas y sin apantallar.
+<br>Nomenclaturas dependiendo del apantallamiento<br><img alt="Captura de pantalla de 2024-07-01 18-02-12.png" src="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-02-12.png">]]></description><link>tema-3-nivel-físico-herramientas-de-transmisión/2.1-par-trenzado.html</link><guid isPermaLink="false">Tema 3 - Nivel Físico - Herramientas de Transmisión/2.1 Par Trenzado.md</guid><pubDate>Mon, 01 Jul 2024 16:04:14 GMT</pubDate><enclosure url="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-02-12.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-02-12.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.2 Coaxial]]></title><description><![CDATA[ 
+ <br>Se compone de diferentes partes:<br>
+<br>Un hilo conductor interno (núcleo) y uno conductor externo (malla).
+<br>Separación entre el núcleo interno y la malla externa mediante dieléctrico o aislante.
+<br>Cobertura plástica exterior.
+<br><img alt="Captura de pantalla de 2024-07-01 18-06-13.png" src="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-06-13.png"><br>
+<br>Categorizados según su RG (Radio Government). 
+<br>Cada categoría de RG tiene sus características propias de impedancia y requisitos específicos para determinadas aplicaciones.
+<br><img alt="Captura de pantalla de 2024-07-01 18-07-35.png" src="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-07-35.png">]]></description><link>tema-3-nivel-físico-herramientas-de-transmisión/2.2-coaxial.html</link><guid isPermaLink="false">Tema 3 - Nivel Físico - Herramientas de Transmisión/2.2 Coaxial.md</guid><pubDate>Mon, 01 Jul 2024 16:07:44 GMT</pubDate><enclosure url="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-06-13.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-06-13.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.3 Fibra Óptica]]></title><description><![CDATA[ 
+ <br>Se compone de diferentes partes:<br>
+<br>Núcleo (Core).
+<br>Revestimiento (Cladding) con un índice de refracción diferente al del núcleo.
+<br>Recubrimiento (Coating).
+<br>Refuerzo.
+<br>Cobertura plástica exterior.
+<br><img alt="Captura de pantalla de 2024-07-01 18-09-20.png" src="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-09-20.png"><br><br>Monomodo<br><img alt="Captura de pantalla de 2024-07-01 18-10-06.png" src="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-10-06.png"><br><br>Multimodo<br><img alt="Captura de pantalla de 2024-07-01 18-10-36.png" src="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-10-36.png">]]></description><link>tema-3-nivel-físico-herramientas-de-transmisión/2.3-fibra-óptica.html</link><guid isPermaLink="false">Tema 3 - Nivel Físico - Herramientas de Transmisión/2.3 Fibra Óptica.md</guid><pubDate>Mon, 01 Jul 2024 16:10:45 GMT</pubDate><enclosure url="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-09-20.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-09-20.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Medios No Guiados]]></title><description><![CDATA[ 
+ <br>
+<br>Cualquier medio no confinado como puede ser la atmósfera, el aire, el vacío, el agua, etc.
+<br>Normalmente se usan antenas, las cuales suelen ser más importantes que el propio medio.
+<br>Transmisiones de información que ocurren en medios no confinados.<br>
+<br>La transmisión y recepción se logran mediante antenas.
+
+<br>Antena emisora: Emite energía electromagnética al medio.
+<br>Antena receptora: Captura energía de las ondas del medio circundante.
+
+
+<br>Las dimensiones de las antenas dependen principalmente de la longitud de onda de la señal (), y también de las aplicaciones específicas.
+<br>Dos tipos: <br>
+<br>Isotrópica/Omnidireccional. 
+<br>Unidireccional.
+<br><a data-href="3.1 Antena Isotrópica o Omnidireccional" href="tema-3-nivel-físico-herramientas-de-transmisión/3.1-antena-isotrópica-o-omnidireccional.html" class="internal-link" target="_self" rel="noopener">3.1 Antena Isotrópica o Omnidireccional</a><br>
+<a data-href="3.2 Antena Unidireccional" href="tema-3-nivel-físico-herramientas-de-transmisión/3.2-antena-unidireccional.html" class="internal-link" target="_self" rel="noopener">3.2 Antena Unidireccional</a><br>Dependen de la frecuencia en la que trabajen:<br>
+<br>30 MHz - 1 GHz: Ondas de radio. (Omnidireccional - Difusión)
+<br>1 GHz - 40 GHz: Microondas. (Unidireccional - Alta Frecuencias)
+<br>300 GHz - 200 THz: Infrarrojos. (Unidireccional - Alta Frecuencia)
+<br><img alt="Captura de pantalla de 2024-07-01 18-22-17.png" src="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-22-17.png">]]></description><link>tema-3-nivel-físico-herramientas-de-transmisión/3.-medios-no-guiados.html</link><guid isPermaLink="false">Tema 3 - Nivel Físico - Herramientas de Transmisión/3. Medios No Guiados.md</guid><pubDate>Mon, 01 Jul 2024 16:22:53 GMT</pubDate><enclosure url="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-22-17.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-22-17.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.1 Antena Isotrópica o Omnidireccional]]></title><description><![CDATA[ 
+ <br>Transmite en todas las direcciones.<br>
+<br>La antena isotrópica es un concepto teórico de antena ideal que emite en todas las direcciones con igual potencia.
+<br>Se utiliza en múltiples dispositivos como routers, teléfonos, etc.
+<br><img alt="Captura de pantalla de 2024-07-01 18-17-23.png" src="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-17-23.png">]]></description><link>tema-3-nivel-físico-herramientas-de-transmisión/3.1-antena-isotrópica-o-omnidireccional.html</link><guid isPermaLink="false">Tema 3 - Nivel Físico - Herramientas de Transmisión/3.1 Antena Isotrópica o Omnidireccional.md</guid><pubDate>Mon, 01 Jul 2024 16:17:34 GMT</pubDate><enclosure url="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-17-23.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-17-23.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.2 Antena Unidireccional]]></title><description><![CDATA[ 
+ <br>Transmite en un haz determinado.<br>
+<br>Tiene un haz estrecho pero intenso, con más alcance que las antenas omnidireccionales.
+<br>Varios tipos incluyen antenas parabólicas, sectoriales, planares y de tipo tubo (yagi).
+<br><img alt="Captura de pantalla de 2024-07-01 18-18-33.png" src="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-18-33.png">]]></description><link>tema-3-nivel-físico-herramientas-de-transmisión/3.2-antena-unidireccional.html</link><guid isPermaLink="false">Tema 3 - Nivel Físico - Herramientas de Transmisión/3.2 Antena Unidireccional.md</guid><pubDate>Mon, 01 Jul 2024 16:18:48 GMT</pubDate><enclosure url="tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-18-33.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-18-33.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 3 - Nivel Físico - Herramientas de Transmisión]]></title><description><![CDATA[ 
+ <br>Cualquier camino físico entre transmisor y receptor por el que se propagará la señal que contiene el mensaje.
+Copy<br><a data-href="2. Medios Guiados" href="tema-3-nivel-físico-herramientas-de-transmisión/2.-medios-guiados.html" class="internal-link" target="_self" rel="noopener">2. Medios Guiados</a><br>
+<a data-href="3. Medios No Guiados" href="tema-3-nivel-físico-herramientas-de-transmisión/3.-medios-no-guiados.html" class="internal-link" target="_self" rel="noopener">3. Medios No Guiados</a>]]></description><link>tema-3-nivel-físico-herramientas-de-transmisión/tema-3-nivel-físico-herramientas-de-transmisión.html</link><guid isPermaLink="false">Tema 3 - Nivel Físico - Herramientas de Transmisión/Tema 3 - Nivel Físico - Herramientas de Transmisión.md</guid><pubDate>Mon, 01 Jul 2024 16:08:17 GMT</pubDate></item><item><title><![CDATA[2. Nociones Básicas de la Señal]]></title><description><![CDATA[ 
+ <br>Tipos de señales:<br>
+<br>Señales analógicas: Función que toma infinitos valores en un intervalo de tiempo.
+<br>Señales digitales: Función que toma un número finito de valores en cualquier intervalo de tiempo.
+<br>Señales periódicas: Función que repite sus valores a lo largo del tiempo. Pueden ser tanto analógicas como digitales.
+<br><img alt="Captura de pantalla de 2024-07-01 18-32-09.png" src="tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-32-09.png"><br><br>
+<br>Continuas y variables en el tiempo.
+<br>Suelen usar más energía en su transmisión.
+<br>Sensibles al ruido.
+<br>Encontrar problemas y recuperar la señal es complejo (requiere amplificadores).
+<br><br>
+<br>Dos o más estados a lo largo del tiempo.
+<br>Suelen usar menos energía en su transmisión.
+<br>Más estables al ruido.
+<br>Encontrar problemas y recuperar la señal es más sencillo (requiere repetidores).
+]]></description><link>tema-4-nivel-físico-teoría-de-la-señal/2.-nociones-básicas-de-la-señal.html</link><guid isPermaLink="false">Tema 4 - Nivel Físico - Teoría de la Señal/2. Nociones Básicas de la Señal.md</guid><pubDate>Mon, 01 Jul 2024 16:36:04 GMT</pubDate><enclosure url="tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-32-09.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-32-09.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Fundamentos de la Transmisión]]></title><description><![CDATA[ 
+ <br>En las comunicaciones de datos se emplean normalmente señales analógicas periódicas así como señales digitales no periódicas.<br>
+<br>Una función  es periódica si:  , donde  es el tiempo que tarda en repetirse la señal.
+<br>Se pueden distinguir entre señales simples y compuestas.
+<br><img alt="Captura de pantalla de 2024-07-01 18-39-50.png" src="tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-39-50.png"><br>Ciclo: compuesto de un arco simple en la parte positiva de la señal y uno negativo.<br><img alt="Captura de pantalla de 2024-07-01 18-43-43.png" src="tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-43-43.png"><br><br>La transformada de Fourier nos permite descomponer las señales compuestas en diferentes frecuencias en el dominio de la frecuencia.<br>Se puede aplicar a todas las señales.<br><img alt="Captura de pantalla de 2024-07-01 18-57-26.png" src="tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-57-26.png"><br>¿La transformada de Fourier sirve sólo para señales sinusoidales periódicas?<br>NO<br>
+<br>Para señales periódicas, la transformada de Fourier produce un espectro discreto de frecuencias.
+<br>Para señales no periódicas, la transformada de Fourier produce un espectro continuo de frecuencias.
+<br>En ambos casos, la transformada de Fourier nos permite analizar y representar la señal en términos de sus componentes de frecuencia.<br><img alt="Captura de pantalla de 2024-07-01 19-00-41.png" src="tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-00-41.png"><br>¿Y si no hay frecuencias en la señal?<br>
+<br>Es lo que se denomina componente continua. Es una señal cuya frecuencia es 0. Se intenta evitar, se verá más adelante.
+]]></description><link>tema-4-nivel-físico-teoría-de-la-señal/3.-fundamentos-de-la-transmisión.html</link><guid isPermaLink="false">Tema 4 - Nivel Físico - Teoría de la Señal/3. Fundamentos de la Transmisión.md</guid><pubDate>Mon, 01 Jul 2024 17:26:52 GMT</pubDate><enclosure url="tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-39-50.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-39-50.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4. Perturbaciones en la transmisión]]></title><description><![CDATA[ 
+ <br>
+<br>Ancho de banda limitado
+<br>Atenuación 
+<br>Ruido
+<br>Distorsión de retardo
+<br><img alt="Captura de pantalla de 2024-07-01 19-29-06.png" src="tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-29-06.png">]]></description><link>tema-4-nivel-físico-teoría-de-la-señal/4.-perturbaciones-en-la-transmisión.html</link><guid isPermaLink="false">Tema 4 - Nivel Físico - Teoría de la Señal/4. Perturbaciones en la transmisión.md</guid><pubDate>Mon, 01 Jul 2024 17:29:50 GMT</pubDate><enclosure url="tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-29-06.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-29-06.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 4 - Nivel Físico - Teoría de la Señal]]></title><description><![CDATA[ 
+ <br><a data-href="2. Nociones Básicas de la Señal" href="tema-4-nivel-físico-teoría-de-la-señal/2.-nociones-básicas-de-la-señal.html" class="internal-link" target="_self" rel="noopener">2. Nociones Básicas de la Señal</a><br>
+<a data-href="3. Fundamentos de la Transmisión" href="tema-4-nivel-físico-teoría-de-la-señal/3.-fundamentos-de-la-transmisión.html" class="internal-link" target="_self" rel="noopener">3. Fundamentos de la Transmisión</a><br>
+<a data-href="4. Perturbaciones en la transmisión" href="tema-4-nivel-físico-teoría-de-la-señal/4.-perturbaciones-en-la-transmisión.html" class="internal-link" target="_self" rel="noopener">4. Perturbaciones en la transmisión</a>]]></description><link>tema-4-nivel-físico-teoría-de-la-señal/tema-4-nivel-físico-teoría-de-la-señal.html</link><guid isPermaLink="false">Tema 4 - Nivel Físico - Teoría de la Señal/Tema 4 - Nivel Físico - Teoría de la Señal.md</guid><pubDate>Mon, 01 Jul 2024 17:44:58 GMT</pubDate></item><item><title><![CDATA[2. Datos Digitales, Señales Digitales]]></title><description><![CDATA[ 
+ <br>
+<br>
+Los 0 y 1 de los datos codificados mediante pulsos de tensión que pueden ser representados con diferentes elementos de señalización y secuencias que son propios de cada codificación.
+
+<br>
+La codificación de estos datos digitales nos permite cambiar la forma de la señal.
+
+<br>¿Para qué sirve?<br>
+<br>Aprovechar el ancho de banda del medio.
+<br>Dotar al nivel físico de la capacidad de detectar errores en la transmisión.
+<br>Permitir sincronismo en la transmisión entre emisor y receptor.
+<br>Eliminar en algunos casos la componente continua.
+<br><br>
+<br>Señal de banda base: señal que no sufre ningún proceso de<br>
+modulación a la salida de la fuente que la originó.
+<br>Cuando se transmite una señal de banda base la señal se<br>
+codifica (códigos de línea o banda base) previamente para<br>
+adaptarla al medio.
+<br>Clasificación de las señales de banda base:<br>
+<br>Según la polaridad del pulso.
+<br>Según el ancho del pulso.
+<br><a data-href="2.1 Señales según la Polaridad del pulso" href="tema-5-nivel-físico-transmisión-digital/2.1-señales-según-la-polaridad-del-pulso.html" class="internal-link" target="_self" rel="noopener">2.1 Señales según la Polaridad del pulso</a><br>
+<a data-href="2.2 Señales según el Ancho del pulso" href="tema-5-nivel-físico-transmisión-digital/2.2-señales-según-el-ancho-del-pulso.html" class="internal-link" target="_self" rel="noopener">2.2 Señales según el Ancho del pulso</a>]]></description><link>tema-5-nivel-físico-transmisión-digital/2.-datos-digitales,-señales-digitales.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/2. Datos Digitales, Señales Digitales.md</guid><pubDate>Tue, 02 Jul 2024 07:00:22 GMT</pubDate></item><item><title><![CDATA[2.1 Señales según la Polaridad del pulso]]></title><description><![CDATA[ 
+ <br><br>Usan una única polaridad para describir un estado:<br>
+<br>Si se usa lógica positiva cuando halla un pulso alto (positivo) representara un 1 y cuando haya pulso nulo sera 0
+<br>Si se usa lógica negativa cuando halla un pulso alto (positivo) representara un 0 y cuando haya pulso nulo sera 1
+<br>Este tipo de señales pueden traer muchos problemas ya que si se pierde la conexión se puede interpretar que se esta mandando  un 0 (lógica positiva)<br><img alt="Captura de pantalla de 2024-07-02 08-43-47.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-43-47.png"><br><br>Usan una polaridad para describir un estado, y la contraria para describir el otro:<br>
+<br>Con lógica positiva un pulso alto sería un 1, por lo tanto pulso bajo sera 0
+<br>Con lógica negativa un pulso alto sería un 0, por lo tanto pulso bajo sera 1
+<br><img alt="Captura de pantalla de 2024-07-02 08-51-59.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-51-59.png"><br><br>Se usan ambas polaridades para definir un estado y un pulso nulo para definir la otra:<br>
+<br>Con lógica positiva un pulso alto y/o bajo sera un 1, y el nulo sera el 0
+<br>Con lógica negativa un pulso alto y/o bajo sera un 0, y el nulo sera el 1
+<br><img alt="Captura de pantalla de 2024-07-02 08-56-06.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-56-06.png">]]></description><link>tema-5-nivel-físico-transmisión-digital/2.1-señales-según-la-polaridad-del-pulso.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/2.1 Señales según la Polaridad del pulso.md</guid><pubDate>Tue, 02 Jul 2024 06:59:49 GMT</pubDate><enclosure url="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-43-47.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-43-47.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.2 Señales según el Ancho del pulso]]></title><description><![CDATA[ 
+ <br><br>
+<br>Aquella señales cuyos bits al enviar una señal se mantienen constantes y no cambian a mitad de pulso.
+<br><br>
+<br>Aquellas señales cuyos bits al enviar la señal cambian a cero a mitad de su pulso.
+<br><img alt="Captura de pantalla de 2024-07-02 09-03-58.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-03-58.png">]]></description><link>tema-5-nivel-físico-transmisión-digital/2.2-señales-según-el-ancho-del-pulso.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/2.2 Señales según el Ancho del pulso.md</guid><pubDate>Tue, 02 Jul 2024 07:04:09 GMT</pubDate><enclosure url="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-03-58.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-03-58.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Códigos empleados en señales en Banda Base]]></title><description><![CDATA[ 
+ <br><br><br>Se cumple en todos que:<br>
+<br>Necesidad de realizar muestreo en el receptor para<br>
+determinar el valor de cada bit.
+<br>Presenta componente continua.
+<br><a data-href="3.1 Códigos de No retorno a cero" href="tema-5-nivel-físico-transmisión-digital/3.1-códigos-de-no-retorno-a-cero.html" class="internal-link" target="_self" rel="noopener">3.1 Códigos de No retorno a cero</a><br><br><br>No tienen componente continua<br>
+<a data-href="3.2 Binarios Multinivel" href="tema-5-nivel-físico-transmisión-digital/3.2-binarios-multinivel.html" class="internal-link" target="_self" rel="noopener">3.2 Binarios Multinivel</a><br><br><br>No hay componente continua y  Señal sincronizable (un pulso por bit).<br><a data-href="3.3 Códigos Bifase" href="tema-5-nivel-físico-transmisión-digital/3.3-códigos-bifase.html" class="internal-link" target="_self" rel="noopener">3.3 Códigos Bifase</a><br><br><br><br>
+<br>Bipolar with 8-zero substitution (B8ZS) se basa en la codificación AMI.
+<br>Se le conoce como técnica de Scrambling.
+<br>Solventa el problema de pérdida de sincronización y componente continua de AMI.
+<br>Cuando hay 8 ceros se reemplazan por 000VB0VB. V: bit de violación, B: bit de polaridad.
+<br><img alt="Captura de pantalla de 2024-07-02 11-14-35.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-14-35.png"><br><br>
+<br>High-Density Bipolar-3Zeros (HDB3) se basa en la codificación AMI.
+<br>Otra técnica de Scrambling, con el mismo objetivo que la anterior, pero reemplazando cadenas de 4 ceros.
+
+<br>000V: Si el número de pulsos diferentes de 0 desde la última sustitución es impar.
+<br>B00V: Si el número de pulsos diferentes de 0 desde la última sustitución es par.
+
+
+<br><img alt="Captura de pantalla de 2024-07-02 11-15-44.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-15-44.png">]]></description><link>tema-5-nivel-físico-transmisión-digital/3.-códigos-empleados-en-señales-en-banda-base.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/3. Códigos empleados en señales en Banda Base.md</guid><pubDate>Tue, 02 Jul 2024 14:42:02 GMT</pubDate><enclosure url="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-14-35.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-14-35.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.1 Códigos de No retorno a cero]]></title><description><![CDATA[ 
+ <br><br><img alt="Captura de pantalla de 2024-07-02 09-30-56.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-30-56.png"><br><br>
+<br>Simplemente se comporta como una polar sin retorna a 0, un valor para el 1 y el otro para el 0
+<br><img alt="Captura de pantalla de 2024-07-02 09-35-20.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-35-20.png"><br><br>
+<br>Se basa en el cambio de estado, con respecto al estado anterior, es decir si antes estamos en un pulso alto (0) , cambio a bajo (1), me mantengo (0), me mantengo (0), cambio (1). Todo esto con lógica negativa.
+<br><img alt="Captura de pantalla de 2024-07-02 09-40-36.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-40-36.png">]]></description><link>tema-5-nivel-físico-transmisión-digital/3.1-códigos-de-no-retorno-a-cero.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/3.1 Códigos de No retorno a cero.md</guid><pubDate>Tue, 02 Jul 2024 14:40:34 GMT</pubDate><enclosure url="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-30-56.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-30-56.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.2 Binarios Multinivel]]></title><description><![CDATA[ 
+ <br><br>
+<br>Solventa el problema de sincronización en el receptor.
+<br>Señal autosincronizante. El reloj del receptor queda<br>
+sincronizado por los pulsos que emita el emisor.
+<br>Requiere mayor ancho de banda.
+<br><img alt="Captura de pantalla de 2024-07-02 09-44-04.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-44-04.png"><br><br>
+<br>Utiliza tres valores: positivo, negativo y cero. 
+<br>Los unos se codifican con pulsos positivos y negativos alternados y<br>
+ocupan solo parte del bit. 
+<br>Los ceros son la ausencia de señal.
+<br>Requiere mayor ancho de banda.
+<br>Compleja de crear y discernir.
+<br><img alt="Captura de pantalla de 2024-07-02 09-50-50.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-50-50.png"><br><br>
+<br>También conocida como Alternate Mask Inversion (AMI).
+<br>Utiliza tres valores: positivo, negativo y cero. 
+<br>Los unos se codifican con pulsos positivos y negativos alternados. 
+<br>Los ceros son la ausencia de señal. 
+<br>Pseudoternaria comportamiento inverso.
+<br>Señal NO autosincronizante. 
+<br>Problemas con largas cadenas de 0.
+<br>Menor ancho de banda que NRZ.
+<br><img alt="Captura de pantalla de 2024-07-02 09-56-37.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-56-37.png">]]></description><link>tema-5-nivel-físico-transmisión-digital/3.2-binarios-multinivel.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/3.2 Binarios Multinivel.md</guid><pubDate>Tue, 02 Jul 2024 14:41:33 GMT</pubDate><enclosure url="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-44-04.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-44-04.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.3 Códigos Bifase]]></title><description><![CDATA[ 
+ <br><br>
+<br>Esquema bifásico donde la señal cambia en mitad del<br>
+intervalo de bit sin retornar a cero.
+<br>Combina las ideas de RZ y NRZ-L.
+<br>Los 0 van de positivo a negativo, los 1 de negativo a positivo.
+<br><br>
+<br>Combina las ideas de RZ y NRZ-I.
+<br>Siempre hay una transición en mitad del intervalo.
+<br>0 tiene transición al principio, 1 no tiene transición al principio.
+<br><img alt="Captura de pantalla de 2024-07-02 11-06-52.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-06-52.png">]]></description><link>tema-5-nivel-físico-transmisión-digital/3.3-códigos-bifase.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/3.3 Códigos Bifase.md</guid><pubDate>Tue, 02 Jul 2024 14:42:07 GMT</pubDate><enclosure url="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-06-52.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-06-52.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Transformación de Datos Analógicos a Señales Digitales]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+Los datos analógicos sufren un proceso de digitalización.
+
+<br>
+Se emplea un dispositivo denominado codec (codificador-decodificador).
+
+<br>
+Ejemplo:
+
+<br>Dato analógico → codec → señal digital → medio de transmisión → señal digital → codec → dato analógico.
+
+
+<br><br><a data-href="4.1 PCM" href="tema-5-nivel-físico-transmisión-digital/4.1-pcm.html" class="internal-link" target="_self" rel="noopener">4.1 PCM</a><br>
+<a data-href="4.2 DM" href="tema-5-nivel-físico-transmisión-digital/4.2-dm.html" class="internal-link" target="_self" rel="noopener">4.2 DM</a>]]></description><link>tema-5-nivel-físico-transmisión-digital/4.-datos-analógicos,-señales-digitales.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/4. Datos Analógicos, Señales Digitales.md</guid><pubDate>Tue, 02 Jul 2024 14:34:11 GMT</pubDate></item><item><title><![CDATA[4.1 PCM]]></title><description><![CDATA[ 
+ <br><br>Para realizar la conversión de una señal analógica a digital son necesarios tres pasos:<br>
+<br>Muestreo. 
+<br>Cuantización. 
+<br>Codificación.
+<br><img alt="Captura de pantalla de 2024-07-02 16-35-22.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-35-22.png">]]></description><link>tema-5-nivel-físico-transmisión-digital/4.1-pcm.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/4.1 PCM.md</guid><pubDate>Tue, 02 Jul 2024 14:42:33 GMT</pubDate><enclosure url="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-35-22.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-35-22.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4.2 DM]]></title><description><![CDATA[ 
+ <br><br>
+<br>Alternativa más simple que PCM.
+<br>Se representan los cambios en la señal analógica.
+<br>Se hace uso de la señal analógica y de una aproximación cuantizada en forma de escalera.
+<br>La señal de escalera depende del periodo de muestreo y del salto (δ).
+<br>Es necesario sobremuestrear la señal por encima de lo postulado en el teorema de muestreo de Nyquist.
+<br><img alt="Captura de pantalla de 2024-07-02 16-44-48.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-44-48.png">]]></description><link>tema-5-nivel-físico-transmisión-digital/4.2-dm.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/4.2 DM.md</guid><pubDate>Tue, 02 Jul 2024 14:45:02 GMT</pubDate><enclosure url="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-44-48.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-44-48.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[¿Qué tipos hay?]]></title><description><![CDATA[ 
+ <br><br><br>Paralelo :<br>
+<br>Se sincroniza con un reloj
+<br>Varios datos a la vez
+<br> veces más rápidos que en serie
+<br>Serie :<br>
+<br>Asincrona : 
+
+<br>Cada carácter se delimita por un carácter de inicio (0) y fin (1)
+<br>Posibilidad de bit de paridad
+
+
+<br>Sincrona : 
+
+<br>Aunenta el rendimineto de la asincrona
+<br>Usa delimitadores y sincronización a nivel de bit (preámbulo - terminación)
+
+
+<br><br>
+<br>Simplex.
+<br>Semi-Dúplex.
+<br>Dúplex.
+<br><img alt="Captura de pantalla de 2024-07-02 17-06-09.png" src="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-17-06-09.png">]]></description><link>tema-5-nivel-físico-transmisión-digital/5.-modos-de-transmisión-digital.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/5. Modos de transmisión digital.md</guid><pubDate>Tue, 02 Jul 2024 15:06:18 GMT</pubDate><enclosure url="tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-17-06-09.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-17-06-09.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 5 - Nivel Físico - Transmisión Digital]]></title><description><![CDATA[ 
+ <br><a data-href="2. Datos Digitales, Señales Digitales" href="tema-5-nivel-físico-transmisión-digital/2.-datos-digitales,-señales-digitales.html" class="internal-link" target="_self" rel="noopener">2. Datos Digitales, Señales Digitales</a><br>
+<a data-href="3. Códigos empleados en señales en Banda Base" href="tema-5-nivel-físico-transmisión-digital/3.-códigos-empleados-en-señales-en-banda-base.html" class="internal-link" target="_self" rel="noopener">3. Códigos empleados en señales en Banda Base</a><br>
+<a data-href="4. Datos Analógicos, Señales Digitales" href="tema-5-nivel-físico-transmisión-digital/4.-datos-analógicos,-señales-digitales.html" class="internal-link" target="_self" rel="noopener">4. Datos Analógicos, Señales Digitales</a><br>
+<a data-href="5. Modos de transmisión digital" href="tema-5-nivel-físico-transmisión-digital/5.-modos-de-transmisión-digital.html" class="internal-link" target="_self" rel="noopener">5. Modos de transmisión digital</a>]]></description><link>tema-5-nivel-físico-transmisión-digital/tema-5-nivel-físico-transmisión-digital.html</link><guid isPermaLink="false">Tema 5 - Nivel Físico - Transmisión Digital/Tema 5 - Nivel Físico - Transmisión Digital.md</guid><pubDate>Tue, 02 Jul 2024 15:01:07 GMT</pubDate></item><item><title><![CDATA[¿Qué necesitamos para la modulación?]]></title><description><![CDATA[ 
+ <br><br>
+<br>Se necesitan los siguientes elementos:
+
+<br>Una señal digital (moduladora).
+<br>Una señal a modular (portadora).
+<br>Receptor ajustado a la señal portadora.
+<br>La señal digital (moduladora) es la que modifica una de las características de la onda seno.
+
+
+<br>Tipos de modulaciones :<br><a data-href="2.1. ASK" href="tema-6-nivel-físico-transmisión-analógica/2.1.-ask.html" class="internal-link" target="_self" rel="noopener">2.1. ASK</a><br>
+<a data-href="2.2. FSK" href="tema-6-nivel-físico-transmisión-analógica/2.2.-fsk.html" class="internal-link" target="_self" rel="noopener">2.2. FSK</a><br>
+<a data-href="2.3. PSK" href="tema-6-nivel-físico-transmisión-analógica/2.3.-psk.html" class="internal-link" target="_self" rel="noopener">2.3. PSK</a><br>
+<a data-href="2.4. QAM" href="tema-6-nivel-físico-transmisión-analógica/2.4.-qam.html" class="internal-link" target="_self" rel="noopener">2.4. QAM</a>]]></description><link>tema-6-nivel-físico-transmisión-analógica/2.-datos-digitales,-señales-analógicas.html</link><guid isPermaLink="false">Tema 6 - Nivel Físico - Transmisión Analógica/2. Datos Digitales, Señales Analógicas.md</guid><pubDate>Tue, 02 Jul 2024 15:15:26 GMT</pubDate></item><item><title><![CDATA[2.1. ASK]]></title><description><![CDATA[ 
+ <br><br>El parametro de la señal que se modifica es la Amplitud.<br>(Bajo Baudrate)<br>
+<br>Existen dos tipos:
+
+<br>Por supresión de portadora (binaria).
+<br>Por variación del nivel de portadora (binaria).
+
+
+<br><img alt="Captura de pantalla de 2024-07-02 17-18-49.png" src="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-18-49.png">]]></description><link>tema-6-nivel-físico-transmisión-analógica/2.1.-ask.html</link><guid isPermaLink="false">Tema 6 - Nivel Físico - Transmisión Analógica/2.1. ASK.md</guid><pubDate>Tue, 02 Jul 2024 15:40:08 GMT</pubDate><enclosure url="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-18-49.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-18-49.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frequency-Shift Key (FSK)]]></title><description><![CDATA[ 
+ <br><br>(Alto Baudrate)<br>
+<br>El parámetro de la señal portadora que se modifica es la frecuencia. 
+<br>Amplitud y fase permanecen iguales.
+<br>Las amplitudes discretas de la señal moduladora se representan con diferentes frecuencias.
+<br><img alt="Captura de pantalla de 2024-07-02 17-20-53.png" src="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-20-53.png">]]></description><link>tema-6-nivel-físico-transmisión-analógica/2.2.-fsk.html</link><guid isPermaLink="false">Tema 6 - Nivel Físico - Transmisión Analógica/2.2. FSK.md</guid><pubDate>Tue, 02 Jul 2024 15:40:24 GMT</pubDate><enclosure url="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-20-53.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-20-53.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Phase-Shift Key (PSK)]]></title><description><![CDATA[ 
+ <br><br>(Alto Baudrate)<br>
+<br>El parámetro de la señal portadora que se modifica es la fase. 
+<br>Amplitud y frecuencia permanecen iguales.
+<br>Las discontinuidades de fase representarán las transiciones de los 0 y los 1.
+<br>Más tolerante al ruido que ASK y mejor que FSK (no necesita 2 portadoras para full-duplex).
+<br><img alt="Captura de pantalla de 2024-07-02 17-22-07.png" src="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-22-07.png">]]></description><link>tema-6-nivel-físico-transmisión-analógica/2.3.-psk.html</link><guid isPermaLink="false">Tema 6 - Nivel Físico - Transmisión Analógica/2.3. PSK.md</guid><pubDate>Tue, 02 Jul 2024 15:40:31 GMT</pubDate><enclosure url="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-22-07.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-22-07.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.4. QAM]]></title><description><![CDATA[ 
+ <br><br>(Muy Alto Baudrate)<br>• El parámetro de la señal portadora que se modifica es la fase y la amplitud. <br>
+<br>La frecuencia permanece constante.<br>
+• Es una combinación de ASK y PSK.<br>
+• Variedad de combinaciones.<br>
+• Basada en diagramas de constelación.
+<br><img alt="Captura de pantalla de 2024-07-02 17-24-43.png" src="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-24-43.png">]]></description><link>tema-6-nivel-físico-transmisión-analógica/2.4.-qam.html</link><guid isPermaLink="false">Tema 6 - Nivel Físico - Transmisión Analógica/2.4. QAM.md</guid><pubDate>Tue, 02 Jul 2024 15:40:42 GMT</pubDate><enclosure url="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-24-43.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-24-43.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[¿Por qué modular señales analógicas?]]></title><description><![CDATA[ 
+ <br><br>
+<br>Conseguir mayores frecuencias y transmisiones más efectivas.
+<br>En el caso de medios no guiados, las bajas frecuencias provocan que se tengan que emplear antenas del orden de kilómetros (problema con la banda base).
+<br>Es necesario cuando el medio sea de paso banda o cuando haya un único canal paso banda disponible.
+<br>Tipos de Modulaciones :<br><a data-href="3.1. AM" href="tema-6-nivel-físico-transmisión-analógica/3.1.-am.html" class="internal-link" target="_self" rel="noopener">3.1. AM</a><br>
+<a data-href="3.2. FM" href="tema-6-nivel-físico-transmisión-analógica/3.2.-fm.html" class="internal-link" target="_self" rel="noopener">3.2. FM</a><br>
+<a data-href="3.3. PM" href="tema-6-nivel-físico-transmisión-analógica/3.3.-pm.html" class="internal-link" target="_self" rel="noopener">3.3. PM</a>]]></description><link>tema-6-nivel-físico-transmisión-analógica/3.-datos-analógicos,-señales-analógicas.html</link><guid isPermaLink="false">Tema 6 - Nivel Físico - Transmisión Analógica/3. Datos Analógicos, Señales Analógicas.md</guid><pubDate>Tue, 02 Jul 2024 15:46:13 GMT</pubDate></item><item><title><![CDATA[3.1. AM]]></title><description><![CDATA[ 
+ <br>
+<br>Se varía la amplitud de la señal portadora a medida que la amplitud de la moduladora cambia.
+<br>Se genera una envoltura de la portadora.
+<br>Se mantiene la frecuencia y fase constante.
+<br>(Radio, sistemas de alta frecuencia ...)<br><img alt="Captura de pantalla de 2024-07-02 17-47-22.png" src="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-47-22.png">]]></description><link>tema-6-nivel-físico-transmisión-analógica/3.1.-am.html</link><guid isPermaLink="false">Tema 6 - Nivel Físico - Transmisión Analógica/3.1. AM.md</guid><pubDate>Tue, 02 Jul 2024 16:15:37 GMT</pubDate><enclosure url="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-47-22.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-47-22.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.2. FM]]></title><description><![CDATA[ 
+ <br>
+<br>Se modula la frecuencia de la señal portadora a medida que la amplitud de la señal de información cambia.
+<br>Se mantiene la amplitud y fase constante.
+<br>Los cambios instantáneos de la frecuencia portadora son proporcionales a la amplitud de la señal a modular.
+<br>(Radio, sistemas de telemetría)<br><img alt="Captura de pantalla de 2024-07-02 18-00-01.png" src="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-00-01.png">]]></description><link>tema-6-nivel-físico-transmisión-analógica/3.2.-fm.html</link><guid isPermaLink="false">Tema 6 - Nivel Físico - Transmisión Analógica/3.2. FM.md</guid><pubDate>Tue, 02 Jul 2024 16:15:52 GMT</pubDate><enclosure url="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-00-01.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-00-01.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.3. PM]]></title><description><![CDATA[ 
+ <br>
+<br>Se modula la fase de la señal portadora a medida que la amplitud de la señal de información cambia.
+<br>Los cambios instantáneos de la fase portadora son proporcionales a la derivada de la amplitud de la señal a modular.
+<br>Se mantiene la amplitud y frecuencia constantes.
+<br>(Wi-fi, TV por cable)<br><img alt="Captura de pantalla de 2024-07-02 18-02-21.png" src="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-02-21.png">]]></description><link>tema-6-nivel-físico-transmisión-analógica/3.3.-pm.html</link><guid isPermaLink="false">Tema 6 - Nivel Físico - Transmisión Analógica/3.3. PM.md</guid><pubDate>Tue, 02 Jul 2024 16:16:24 GMT</pubDate><enclosure url="tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-02-21.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-02-21.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 6 - Nivel Físico - Transmisión Analógica]]></title><description><![CDATA[ 
+ <br><a data-href="2. Datos Digitales, Señales Analógicas" href="tema-6-nivel-físico-transmisión-analógica/2.-datos-digitales,-señales-analógicas.html" class="internal-link" target="_self" rel="noopener">2. Datos Digitales, Señales Analógicas</a><br>
+<a data-href="3. Datos Analógicos, Señales Analógicas" href="tema-6-nivel-físico-transmisión-analógica/3.-datos-analógicos,-señales-analógicas.html" class="internal-link" target="_self" rel="noopener">3. Datos Analógicos, Señales Analógicas</a>]]></description><link>tema-6-nivel-físico-transmisión-analógica/tema-6-nivel-físico-transmisión-analógica.html</link><guid isPermaLink="false">Tema 6 - Nivel Físico - Transmisión Analógica/Tema 6 - Nivel Físico - Transmisión Analógica.md</guid><pubDate>Tue, 02 Jul 2024 15:12:21 GMT</pubDate></item><item><title><![CDATA[¿En qué consiste la multiplexación?]]></title><description><![CDATA[ 
+ <br><br>
+<br>Consiste en técnicas que permiten la transmisión simultánea de múltiples señales a través de un único enlace de datos.
+<br>Siempre que el ancho de banda de un medio que enlaza dos dispositivos es mayor que el ancho de banda que necesitan los dispositivos, el enlace se puede compartir.
+<br>Es empleado en transmisiones de largas distancias.
+<br>Se utiliza debido al incremento del tráfico de datos.
+<br><br>
+<br> líneas de entrada: Se dirigen al Multiplexor, que las combina en un único flujo.
+<br> líneas de salida: Proceden del Demultiplexor y dividen el flujo de datos.
+<br>El camino físico entre el Multiplexor y el Demultiplexor se denomina enlace.
+<br>Un canal es una porción de un enlace.
+<br><img alt="Captura de pantalla de 2024-07-02 18-57-51.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-18-57-51.png"><br><a data-href="2.1. FDM" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.1.-fdm.html" class="internal-link" target="_self" rel="noopener">2.1. FDM</a><br>
+<a data-href="2.2. WDM" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.2.-wdm.html" class="internal-link" target="_self" rel="noopener">2.2. WDM</a><br>
+<a data-href="2.3 TDM" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3-tdm.html" class="internal-link" target="_self" rel="noopener">2.3 TDM</a>]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.-multiplexación.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2. Multiplexación.md</guid><pubDate>Tue, 02 Jul 2024 16:58:26 GMT</pubDate><enclosure url="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-18-57-51.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-18-57-51.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.1. FDM]]></title><description><![CDATA[ 
+ <br><br>
+<br>Técnica analógica empleada cuando el ancho de banda del enlace es superior al de las señales a transmitir combinadas.
+<br>Se modula cada señal de entrada analógica a una banda de frecuencia diferente (canales).
+<br><br>
+<br>Cada canal usa una frecuencia portadora distinta ().
+<br>Las señales generadas por cada dispositivo emisor se modulan (ASK, PSK, QAM, etc.) a la frecuencia de cada canal.
+<br>Es necesario dejar bandas de guardia o de seguridad entre los distintos canales para evitar que se solapen las señales. Estos anchos de banda de guarda no se deben utilizar para transmitir señales.
+<br><img alt="Captura de pantalla de 2024-07-02 19-04-15.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-04-15.png"><br><br>
+<br>Cada fuente genera una señal con un rango de frecuencias similar.
+<br>El Multiplexor modula las señales en base a distintas frecuencias portadoras (, , ).
+<br>Las señales moduladas se combinan en una única señal compuesta que se envía sobre el enlace de datos.
+<br><img alt="Captura de pantalla de 2024-07-02 19-02-53.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-02-53.png"><br><br>
+<br>El demultiplexor emplea filtros para descomponer la señal compuesta en señales individuales.
+<br>Cada señal individual se demodula separando su frecuencia portadora y obteniendo la señal original.
+<br><img alt="Captura de pantalla de 2024-07-02 19-03-14.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-03-14.png"><br><br>
+<br>Uso eficiente del ancho de banda: múltiples señales a través de un único canal de comunicación.
+<br>No requiere sincronización entre emisor y receptor.
+<br>Bajo costo de implementación: es una técnica relativamente sencilla.
+<br><br>
+<br>Capacidad limitada de señales a transmitir en un único canal.
+<br>Susceptible a interferencias de otras señales transmitidas en frecuencias cercanas.
+<br>Dificultad para asignar frecuencias a cada señal para evitar las interferencias.
+]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.1.-fdm.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.1. FDM.md</guid><pubDate>Tue, 02 Jul 2024 17:07:15 GMT</pubDate><enclosure url="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-04-15.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-04-15.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.2. WDM]]></title><description><![CDATA[ 
+ <br><br>
+<br>Técnica analógica empleada para aprovechar la capacidad de alta transmisión de datos de la fibra óptica.
+<br>Es muy similar a FDM.
+<br><br>
+<br>Cada señal se transmite con una longitud de onda específica (), similar a frecuencias y canales.
+<br>El Multiplexor combina las diferentes longitudes de onda (,,), en una única luz combinada.
+<br>El demultiplexor emplea un prisma para separar el haz de luz en diferentes longitudes de onda individuales.
+<br><img alt="Captura de pantalla de 2024-07-02 19-10-37.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-10-37.png">]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.2.-wdm.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.2. WDM.md</guid><pubDate>Tue, 02 Jul 2024 17:10:44 GMT</pubDate><enclosure url="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-10-37.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-10-37.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.3 TDM]]></title><description><![CDATA[ 
+ <br><br>
+<br>Técnica digital empleada cuando la velocidad de transmisión de datos del enlace es superior a la de las fuentes generadoras de señales a transmitir.
+<br>A diferencia de FDM, TDM proporciona una porción de tiempo para transmitir los datos.
+<br><br>
+<br>Síncrono o estático: asigna un intervalo de tiempo fijo a cada fuente de datos.
+<br>Entrelazado: combina las señales de manera secuencial pero no necesariamente con tiempos fijos.
+<br>Asíncrono/dinámico/estadístico: asigna intervalos de tiempo de manera dinámica según las necesidades de cada fuente.
+<br><img alt="Captura de pantalla de 2024-07-02 19-11-34.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-11-34.png"><br><a data-href="2.3.1 TDM Estatico o Sincrono" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3.1-tdm-estatico-o-sincrono.html" class="internal-link" target="_self" rel="noopener">2.3.1 TDM Estatico o Sincrono</a><br>
+<a data-href="2.3.2 TDM Entrelazado" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3.2-tdm-entrelazado.html" class="internal-link" target="_self" rel="noopener">2.3.2 TDM Entrelazado</a><br>
+<a data-href="2.3.3 TDM Dinámico o Asincrono" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3.3-tdm-dinámico-o-asincrono.html" class="internal-link" target="_self" rel="noopener">2.3.3 TDM Dinámico o Asincrono</a><br><br>
+<br>Alta capacidad: permite transmitir un gran número de señales a través de un único canal de comunicación.
+<br>Implementación sencilla.
+<br>Sincronización precisa en el tiempo, lo que garantiza una transmisión precisa de señales.
+<br><br>
+<br>Uso ineficiente del ancho de banda.
+<br>Alto coste de implementación: TDM requiere hardware o software sofisticado para garantizar una sincronización temporal precisa.
+<br>Vulnerable a las fluctuaciones de tiempo.
+]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3-tdm.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3 TDM.md</guid><pubDate>Tue, 02 Jul 2024 17:25:40 GMT</pubDate><enclosure url="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-11-34.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-11-34.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.3.1 TDM Estatico o Sincrono]]></title><description><![CDATA[ 
+ <br>
+<br>El tiempo de transmisión en el enlace se divide en intervalos o ranuras de tiempo idénticos.
+<br>El flujo de datos de entrada se divide en unidades (bit, carácter o bloque de datos).
+<br>Cada unidad de entrada se convierte en una unidad de salida y ocupa una ranura de tiempo en la salida.
+<br>Para este tipo de TDM se usa un quantum para cada bit, se suelen utilizar técnicas como Round Robin<br><img alt="Captura de pantalla de 2024-07-02 19-18-01.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-18-01.png">]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3.1-tdm-estatico-o-sincrono.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3.1 TDM Estatico o Sincrono.md</guid><pubDate>Tue, 02 Jul 2024 17:18:05 GMT</pubDate><enclosure url="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-18-01.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-18-01.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.3.2 TDM Entrelazado]]></title><description><![CDATA[ 
+ <br>
+<br>Tanto el multiplexor como el demultiplexor se comportan como dos conmutadores que realizan rotaciones simultáneas en sentidos inversos.
+<br>En el multiplexor, abre la posibilidad de enviar información y conmuta dicha posibilidad a una conexión específica. Dicha conexión puede enviar una unidad.
+<br>En el demultiplexor, cuando el conmutador abre una conexión, se pueden recibir unidades de datos.
+<br><img alt="Captura de pantalla de 2024-07-02 19-19-35.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-19-35.png">]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3.2-tdm-entrelazado.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3.2 TDM Entrelazado.md</guid><pubDate>Tue, 02 Jul 2024 17:19:43 GMT</pubDate><enclosure url="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-19-35.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-19-35.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.3.3 TDM Dinámico o Asincrono]]></title><description><![CDATA[ 
+ <br>
+<br>Permite adaptación a las necesidades de transmisión de los dispositivos.
+<br>Existen mecanismos de reserva dinámica de las demandas de ranuras temporales (ej. Round robin).
+<br>El número de ranuras en cada trama es menor que el número de líneas de entradas.
+<br>No es necesaria la sincronización, pero se necesita direccionamiento.
+<br>En cada ranura se agrega la dirección del receptor. 
+<br>Se necesitan  bits para direccionar siendo ( líneas de salida).
+<br>Esto soluciona el problema de cuando por una linea no se envian datos<br><img alt="Captura de pantalla de 2024-07-02 19-23-32.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-23-32.png">]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3.3-tdm-dinámico-o-asincrono.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3.3 TDM Dinámico o Asincrono.md</guid><pubDate>Tue, 02 Jul 2024 17:24:43 GMT</pubDate><enclosure url="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-23-32.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-23-32.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Espectro Expandido]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+Principalmente, la multiplexación combina señales de varias fuentes para conseguir un uso eficiente del ancho de banda.
+
+<br>
+En cambio, las técnicas de espectro expandido combinan señales de varias fuentes para tener un ancho de banda mayor del necesario.
+
+<br><br>
+<br>El desaprovechar el ancho de banda y no emplearlo de forma eficiente permite:
+
+<br>Inmunidad frente al ruido.
+<br>Ocultar y cifrar señales.
+<br>Que varios usuarios puedan emplear el mismo ancho de banda.
+
+
+<br><br>
+<br>Se diseñó para aplicaciones inalámbricas (LAN y WAN).
+<br>Como las estaciones usan el mismo medio para transmitir (aire), deben ser capaces de compartir el medio sin ser interceptadas ni sufrir interferencias.
+<br>De forma general, si el ancho de banda de cada estación es , las técnicas de espectro expandido lo aumentan a , siendo .
+<br>Como el ancho de banda asignado a cada estación es bastante mayor que el necesario, se obtiene redundancia.
+<br>La expansión del ancho de banda debe ser independiente del ancho de banda de las señales originales.
+<br>Principalmente se emplean dos técnicas:
+<br><a data-href="3.1.  FHSS" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/3.1.-fhss.html" class="internal-link" target="_self" rel="noopener">3.1.  FHSS</a><br>
+<a data-href="3.2. DSSS" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/3.2.-dsss.html" class="internal-link" target="_self" rel="noopener">3.2. DSSS</a>]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/3.-espectro-expandido.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/3. Espectro Expandido.md</guid><pubDate>Tue, 02 Jul 2024 17:33:09 GMT</pubDate></item><item><title><![CDATA[3.1.  FHSS]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>La señal se emite en base a una serie de frecuencias aleatorias.
+<br>Se “salta” de una frecuencia a otra de forma sincronizada con el transmisor para componer la señal a transmitir.
+<br>Los receptores no autorizados no pueden obtener el mensaje completo.
+<br>El orden de saltos de frecuencias se asigna mediante una tabla de frecuencias pseudoaleatoria que es conocida entre emisor y receptor.
+<br>Se puede combinar con las técnicas de multiplexación.
+<br>Usada en transmisión Bluetooth.
+<br><br>
+<br>Se dispone de un generador pseudoaleatorio PN (también conocido como ruido pseudoaleatorio), que genera un patrón de K bits para cada periodo de salto TH.
+<br>Dicho patrón corresponde con una entrada en una tabla en la que se indexan las diferentes frecuencias de salto.
+<br>Una vez seleccionada la frecuencia se pasa al sintetizador de frecuencias.
+<br>El sintetizador de frecuencias crea una señal portadora para dicha frecuencia y la señal de origen se modula con la señal portadora para su envío.
+<br><img alt="Captura de pantalla de 2024-07-02 20-08-49.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-08-49.png">]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/3.1.-fhss.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/3.1.  FHSS.md</guid><pubDate>Tue, 02 Jul 2024 18:10:57 GMT</pubDate><enclosure url="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-08-49.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-08-49.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.2. DSSS]]></title><description><![CDATA[ 
+ <br><br>
+<br>Los bits de la señal original se reemplazan con secuencias de  bits que permiten generar un código de ensanchado. 
+<br>Normalmente, se aplica la operación XOR entre la señal original y la secuencia de bits.
+<br>Las secuencias de bits de sustitución deben ser conocidas entre emisor y receptor.
+<br>La secuencia de bits permite detectar errores en la transmisión y corregirlos, proporcionando tolerancia a interferencias.
+<br>Únicamente quienes conocen la secuencia de bits pueden interpretar la señal.
+<br><img alt="Captura de pantalla de 2024-07-02 20-12-46.png" src="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-12-46.png">]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/3.2.-dsss.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/3.2. DSSS.md</guid><pubDate>Tue, 02 Jul 2024 18:12:54 GMT</pubDate><enclosure url="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-12-46.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-12-46.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda]]></title><description><![CDATA[ 
+ <br> <a data-href="2. Multiplexación" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.-multiplexación.html" class="internal-link" target="_self" rel="noopener">2. Multiplexación</a><br>
+<a data-href="3. Espectro Expandido" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/3.-espectro-expandido.html" class="internal-link" target="_self" rel="noopener">3. Espectro Expandido</a><br>
+]]></description><link>tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda.html</link><guid isPermaLink="false">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda.md</guid><pubDate>Tue, 02 Jul 2024 16:23:29 GMT</pubDate></item><item><title><![CDATA[2. Definiciones]]></title><description><![CDATA[ 
+ <br>Definiciones:<br>
+<br>En el nivel de enlace manejamos la siguiente terminología:
+
+<br>Nodo: dispositivo intermedio o terminal que comparten<br>
+información a nivel de enlace.
+<br>Enlace: canal físico que conecta a dos nodos adyacentes<br>
+entre sí.
+<br>Trama: son las unidades (PDU) del nivel de enlace.
+<br>Protocolo de capa de enlace: define el modo de<br>
+comunicación entre nodos para intercambiar tramas por el<br>
+enlace. Además, define el comportamiento del flujo de<br>
+información entre nodos.
+
+
+<br><img alt="Captura de pantalla de 2024-07-03 08-42-43.png" src="tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-42-43.png">]]></description><link>tema-8-nivel-de-enlace-de-datos-introducción/2.-definiciones.html</link><guid isPermaLink="false">Tema 8 - Nivel de Enlace de Datos - Introducción/2. Definiciones.md</guid><pubDate>Wed, 03 Jul 2024 06:42:50 GMT</pubDate><enclosure url="tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-42-43.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-42-43.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Tipos de Enlace]]></title><description><![CDATA[ 
+ <br><br>Sólo existen dos nodos.<br>
+<br>Nodo emisor.
+<br>Nodo receptor.
+<br>Es por tanto una comunicación de 1 nodo a 1 nodo.
+<br>El enlace es usado exclusivamente por estos nodos sin compartir el medio físico de transmisión.
+<br>Empleados en: LAN (fast/gigabit Ethernet), protocolo punto a punto (PPP), enlace de control de alto nivel (HDLC), etc.
+<br><br>
+<br>Son los enlaces de broadcast.
+<br>Existen diferentes nodos:
+
+<br>Nodo emisor.
+<br>Nodos receptores.
+
+
+<br>Es por tanto una comunicación de 1 nodo a N nodos.
+<br>El enlace es compartido entre varios nodos.
+<br>Se requieren protocolos de contención de acceso al medio<br>
+para garantizar que los mensajes lleguen al nodo adecuado<br>
+sin colisiones entre tramas.
+<br>Empleados en: MAN, LAN (half-duplex), LAN<br>
+inalámbrica, etc.
+]]></description><link>tema-8-nivel-de-enlace-de-datos-introducción/3.-tipos-de-enlace.html</link><guid isPermaLink="false">Tema 8 - Nivel de Enlace de Datos - Introducción/3. Tipos de Enlace.md</guid><pubDate>Wed, 03 Jul 2024 06:49:35 GMT</pubDate></item><item><title><![CDATA[4. Funciones que Realiza la capa de enlace]]></title><description><![CDATA[ 
+ <br><br>
+<br>Es necesario que el nivel de enlace acceda a los bits de información del nivel físico y los convierta en tramas.
+<br>Las tramas se construyen siguiendo un protocolo específico.
+<br>Es necesario que se delimiten tanto el inicio como el fin de cada trama para que el nodo receptor pueda procesar cada trama.
+<br>Debe realizar sincronización a nivel de trama.
+<br><br>
+<br>Establece los mecanismos para la conexión y desconexión del enlace entre el nodo emisor y el nodo receptor.
+<br>Dependiendo del servicio que suministre a la capa de red trabajará con diferentes mecanismos de coordinación y mantenimiento del enlace.
+<br><br>
+<br>El nivel de enlace debe incorporar los mecanismos para detectar los errores de transmisión.
+<br>Se presupone que el medio físico es propenso a la generación de errores.
+<br>Utiliza los mecanismos necesarios para retransmitir toda trama perdida o errónea.
+<br><br>
+<br>El nivel de enlace debe incorporar los mecanismos necesarios para controlar el flujo de transmisión.
+<br>Se negocian los ritmos de compartición de información.
+<br>Debe garantizar que tanto emisor como receptor no se vean saturados por la comunicación de tramas.
+<br><br>
+<br>Empleado cuando el enlace es compartido.
+<br>El nivel de enlace debe garantizar que los mensajes lleguen a sus destinatarios.
+<br>Debe proporcionar mecanismos para arbitrar el acceso al medio compartido.
+<br>Debe proporcionar los mecanismos para priorizar que no se realicen transmisiones al mismo tiempo.
+<br>En caso de transmisiones simultáneas, debe proporcionar los mecanismos para solucionar el conflicto.
+<br><br>
+<br>El nivel, como se observa, es bastante complejo.
+<br>Realiza tareas críticas.
+<br>Sin el nivel de enlace, la información no llegaría adecuadamente a los nodos.
+<br>Dada su complejidad, las tareas se dividen en dos subcapas:
+
+<br>Control de enlace de datos (DLC) o Control lógico de datos (LLC).
+<br>Control de acceso al medio (MAC).
+
+
+<br>Control de enlace de datos (DLC) o Control lógico de datos (LLC):<br>
+<br>La subcapa de control de enlace de datos se ocupa de todos los problemas comunes a los enlaces punto a punto y de difusión.
+<br>Control de acceso al medio (MAC):<br>
+<br>La subcapa de control de acceso al medio se ocupa únicamente de los problemas específicos de los enlaces de difusión.
+]]></description><link>tema-8-nivel-de-enlace-de-datos-introducción/4.-funciones-que-realiza-la-capa-de-enlace.html</link><guid isPermaLink="false">Tema 8 - Nivel de Enlace de Datos - Introducción/4. Funciones que Realiza la capa de enlace.md</guid><pubDate>Wed, 03 Jul 2024 07:04:49 GMT</pubDate></item><item><title><![CDATA[5. Direcciones en el Enlace de Datos]]></title><description><![CDATA[ 
+ <br><br>Se la conoce como IP, se usa para reconocer a dicho nodo en Internet, pero dado a que Internet es una red sin enlaces fijos, estas pueden cambiar y en algunos caso los paquetes o datagramas no llegarían nunca a su destino o el destino nunca podría llegar a  confirmar la recepción al origen<br><br>DIrección MAC, asignada desde fabricación a todo dispositivo capaz de conectarse a Internet, es un identifcador de 48 bits, normalemete representado en un conjunto de 6 bits en hexadecimal.<br><img alt="Captura de pantalla de 2024-07-03 09-12-43.png" src="tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-12-43.png"><br>
+<br>Los primeros 24 bits son el OUI (Identificador Único Organizativo) 
+<br>Los otros 24 son el NIC (Valores Únicos asignados por el fabricante)
+<br><img alt="Captura de pantalla de 2024-07-03 09-16-56.png" src="tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-16-56.png"><br>Tipos de DIrecciones MAC:<br>
+<br>Unicast: El último bit de la primera de las seis secciones es 0
+<br>Multicast: El último bit de la primera de las seis secciones es 0
+<br>Broadcast: Todos los bits son 1
+<br><img alt="Captura de pantalla de 2024-07-03 09-18-10.png" src="tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-18-10.png">]]></description><link>tema-8-nivel-de-enlace-de-datos-introducción/5.-direcciones-en-el-enlace-de-datos.html</link><guid isPermaLink="false">Tema 8 - Nivel de Enlace de Datos - Introducción/5. Direcciones en el Enlace de Datos.md</guid><pubDate>Wed, 03 Jul 2024 07:19:53 GMT</pubDate><enclosure url="tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-12-43.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-12-43.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[6. Tarjeta de Interfaz de Red]]></title><description><![CDATA[ 
+ <br><br>
+<br>La tarjeta de interfaz de red (Network Interface Card - NIC) es uno de los elementos fundamentales en los dispositivos que establecen comunicaciones.
+<br>En la NIC se encuentran implementadas la mayoría de las funciones y protocolos de la capa de enlace de datos.
+<br>A nivel de arquitectura hardware, la NIC tiene los elementos básicos de un computador:
+
+<br>Tiene una CPU y memoria RAM.
+<br>Tiene conexión con el host y conexión con el enlace.
+
+
+<br>Además, tiene asociada una dirección física (dirección MAC).
+<br>Al disponer de funciones específicas y su propio hardware, tiene autonomía sin depender del host.
+<br><img alt="Captura de pantalla de 2024-07-03 09-23-24.png" src="tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-23-24.png">]]></description><link>tema-8-nivel-de-enlace-de-datos-introducción/6.-tarjeta-de-interfaz-de-red.html</link><guid isPermaLink="false">Tema 8 - Nivel de Enlace de Datos - Introducción/6. Tarjeta de Interfaz de Red.md</guid><pubDate>Wed, 03 Jul 2024 07:23:32 GMT</pubDate><enclosure url="tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-23-24.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-23-24.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 8 - Nivel de Enlace de Datos - Introducción]]></title><description><![CDATA[ 
+ <br><br>
+<br>Las técnicas de sincronización y transmisión vistas en el<br>
+nivel físico son insuficientes para controlar el flujo de<br>
+información y la posible aparición de errores.
+<br><br>
+<br>Pérdida de bits.
+<br>Cambio del valor de un bit.
+<br>Retardos en la entrega de los bits.
+<br>Etc.
+<br><br>
+<br>Proporcionar los mecanismos y servicios necesarios para<br>
+convertir el medio físico de transmisión, propenso a posibles<br>
+errores de transmisión, en un enlace de datos lógico libre<br>
+de errores.
+<br><img alt="Captura de pantalla de 2024-07-03 08-39-20.png" src="tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-39-20.png"><br><a data-href="2. Definiciones" href="tema-8-nivel-de-enlace-de-datos-introducción/2.-definiciones.html" class="internal-link" target="_self" rel="noopener">2. Definiciones</a><br>
+<a data-href="3. Tipos de Enlace" href="tema-8-nivel-de-enlace-de-datos-introducción/3.-tipos-de-enlace.html" class="internal-link" target="_self" rel="noopener">3. Tipos de Enlace</a><br>
+<a data-href="4. Funciones que Realiza la capa de enlace" href="tema-8-nivel-de-enlace-de-datos-introducción/4.-funciones-que-realiza-la-capa-de-enlace.html" class="internal-link" target="_self" rel="noopener">4. Funciones que Realiza la capa de enlace</a><br>
+<a data-href="5. Direcciones en el Enlace de Datos" href="tema-8-nivel-de-enlace-de-datos-introducción/5.-direcciones-en-el-enlace-de-datos.html" class="internal-link" target="_self" rel="noopener">5. Direcciones en el Enlace de Datos</a><br>
+<a data-href="6. Tarjeta de Interfaz de Red" href="tema-8-nivel-de-enlace-de-datos-introducción/6.-tarjeta-de-interfaz-de-red.html" class="internal-link" target="_self" rel="noopener">6. Tarjeta de Interfaz de Red</a>]]></description><link>tema-8-nivel-de-enlace-de-datos-introducción/tema-8-nivel-de-enlace-de-datos-introducción.html</link><guid isPermaLink="false">Tema 8 - Nivel de Enlace de Datos - Introducción/Tema 8 - Nivel de Enlace de Datos - Introducción.md</guid><pubDate>Wed, 03 Jul 2024 07:24:10 GMT</pubDate><enclosure url="tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-39-20.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-39-20.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2. Entramado]]></title><description><![CDATA[ 
+ <br><br>
+<br>El entramado o la generación de tramas es una tarea crítica en el nivel de enlace de datos.
+<br>Estandariza el método de transferencia de datos entre dos nodos conectados por un enlace.
+<br>Seguir un esquema de división de datos permite al receptor distinguir el comienzo y el final de una trama de datos.
+<br>El entramado simplifica la detección y corrección de errores.
+<br><br>
+<br>Las tramas son la unidad mínima de información en el nivel de enlace de datos.
+<br>Más concretamente, las tramas son la división de la información de los bits siguiendo un formato específico.
+<br>Esta división se realiza mediante campos de bits que aportan una función específica en la trama.
+<br>El formato de la trama dependerá del protocolo específico de comunicación empleado en el nivel de enlace de datos.
+<br><br>
+<br>De forma general, las tramas del nivel de enlace tienen las siguientes partes (pueden tener más campos dependiendo del protocolo):
+
+<br>Cabecera (header): Contiene direcciones físicas de origen y destino, así como bytes de control.
+<br>Carga útil de datos (data payload): Contiene el mensaje a transmitir.
+<br>Cierre de trama (Trailer): Contiene información sobre detección y corrección de errores.
+
+
+<br><img alt="Captura de pantalla de 2024-07-03 09-51-57.png" src="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-51-57.png">]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/2.-entramado.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/2. Entramado.md</guid><pubDate>Wed, 03 Jul 2024 07:52:18 GMT</pubDate><enclosure url="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-51-57.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-51-57.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Generación de Entramado]]></title><description><![CDATA[ 
+ <br>
+<br>Existen diferentes métodos que se pueden aplicar.<br>
+<a data-href="3.1 Byte Counting" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.1-byte-counting.html" class="internal-link" target="_self" rel="noopener">3.1 Byte Counting</a><br>
+<a data-href="3.2 Byte Stuffing" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.2-byte-stuffing.html" class="internal-link" target="_self" rel="noopener">3.2 Byte Stuffing</a><br>
+<a data-href="3.3 Bit Stuffing" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.3-bit-stuffing.html" class="internal-link" target="_self" rel="noopener">3.3 Bit Stuffing</a><br>
+<a data-href="3.4 Inserción de Violaciones" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.4-inserción-de-violaciones.html" class="internal-link" target="_self" rel="noopener">3.4 Inserción de Violaciones</a>
+<br>Con los tres últimos se consigue cierta sincronización entre emisor y receptor.
+]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.-generación-de-entramado.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3. Generación de Entramado.md</guid><pubDate>Wed, 03 Jul 2024 08:33:17 GMT</pubDate></item><item><title><![CDATA[3.1 Byte Counting]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+Se emplea un campo de la cabecera para especificar cuántos bytes tiene la trama.
+
+<br>
+Cuando se recibe la información de la cabecera, se puede determinar la longitud de la trama.
+
+<br>
+Problemas con este método:
+
+<br>Envío del recuento erróneo.
+<br>Recepción del recuento erróneo.
+
+
+<br>
+Si la cantidad de bytes no es correcta, puede haber problemas de sincronización para las siguientes tramas.
+
+<br>
+Imposibilidad de corregir errores.
+
+<br><img alt="Captura de pantalla de 2024-07-03 10-08-14.png" src="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-08-14.png">]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.1-byte-counting.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.1 Byte Counting.md</guid><pubDate>Wed, 03 Jul 2024 08:32:33 GMT</pubDate><enclosure url="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-08-14.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-08-14.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.2 Byte Stuffing]]></title><description><![CDATA[ 
+ <br><br>
+<br>Evita los errores de detectar los límites de una trama del método anterior.
+<br>En este caso se agregan unos bytes especiales de inicio y de final de trama.
+<br>En el caso de que los bytes de inicio y final coincidan, se denominan banderas (flags).
+<br>Si el receptor pierde la sincronización, simplemente debe buscar los flags.
+<br>En los últimos años suelen emplearse los mismos flags de inicio y de final. Ventaja, leer dos banderas seguidas delimita las tramas.
+<br>Si los datos reales contienen un dato igual que los flags, se le agrega un carácter de escape.
+<br><img alt="Captura de pantalla de 2024-07-03 10-20-13.png" src="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-20-13.png">]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.2-byte-stuffing.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.2 Byte Stuffing.md</guid><pubDate>Wed, 03 Jul 2024 08:32:53 GMT</pubDate><enclosure url="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-20-13.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-20-13.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.3 Bit Stuffing]]></title><description><![CDATA[ 
+ <br><br>
+<br>Evita los inconvenientes de las técnicas anteriores.
+<br>Permite que las tramas tengan un número arbitrario de bits por carácter.
+<br>En este caso se emplean bits en vez de bytes.
+<br>En concreto, se comienza y se termina con un patrón especial que corresponde con un flag de 1 byte:
+
+<br>Byte de inicio y terminación: 0x7E (hex) o 01111110 (binario).
+
+
+<br>Cuando la capa de enlace del emisor encuentra cinco 1 seguidos, se añade un bit 0 al final.
+<br>La capa de enlace del receptor deshace el proceso.
+<br><img alt="Captura de pantalla de 2024-07-03 10-22-53.png" src="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-22-53.png">]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.3-bit-stuffing.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.3 Bit Stuffing.md</guid><pubDate>Wed, 03 Jul 2024 08:33:07 GMT</pubDate><enclosure url="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-22-53.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-22-53.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.4 Inserción de Violaciones]]></title><description><![CDATA[ 
+ <br><br>
+<br>Es una técnica especial que requiere un mecanismo específico de transmisión de datos en el nivel físico.
+<br>En concreto, requiere esquemas de codificación que realicen transiciones entre bits (por ejemplo, Manchester).
+<br>Normalmente, estas técnicas requieren que un bit sea una transición de un valor bajo a alto y viceversa en mitad de cada bit.
+<br>El proceso de violación consiste en generar combinaciones de valores alto-alto y valores bajo-bajo no permitidos en el esquema de codificación original.
+<br>Requiere una alta dependencia entre nivel físico y nivel de enlace.
+<br>No es necesario añadir patrones delimitadores, aunque es recomendable.
+<br><img alt="Captura de pantalla de 2024-07-03 10-29-14.png" src="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-29-14.png"><br>Repaso de Manchester =&gt; <a data-href="3.3 Códigos Bifase" href="tema-5-nivel-físico-transmisión-digital/3.3-códigos-bifase.html" class="internal-link" target="_self" rel="noopener">3.3 Códigos Bifase</a>]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.4-inserción-de-violaciones.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.4 Inserción de Violaciones.md</guid><pubDate>Wed, 03 Jul 2024 08:33:49 GMT</pubDate><enclosure url="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-29-14.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-29-14.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4. Gestión de Enlace]]></title><description><![CDATA[ 
+ <br><br>
+<br>Cuando se establece una comunicación entre nodos a nivel de enlace, es necesario conocer:
+
+<br>Cómo inicializar y finalizar el enlace.
+<br>Cómo mantenerlo.
+<br>Saber si es necesario establecer una comunicación previa para enviar los datos.
+
+
+<br>No todas las comunicaciones emplean un mecanismo en el que se establece una conexión previa.
+<br><br>
+<br>Tenemos dos posibles tipos de protocolos a nivel de enlace :<br>
+<a data-href="4.1 Protocolos Orientados a la Conexión" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/4.1-protocolos-orientados-a-la-conexión.html" class="internal-link" target="_self" rel="noopener">4.1 Protocolos Orientados a la Conexión</a><br>
+<a data-href="4.2 Protocolos No Orientados a la Conexión" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/4.2-protocolos-no-orientados-a-la-conexión.html" class="internal-link" target="_self" rel="noopener">4.2 Protocolos No Orientados a la Conexión</a>
+]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/4.-gestión-de-enlace.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/4. Gestión de Enlace.md</guid><pubDate>Wed, 03 Jul 2024 09:20:34 GMT</pubDate></item><item><title><![CDATA[4.1 Protocolos Orientados a la Conexión]]></title><description><![CDATA[ 
+ <br>
+<br>Requieren una fase de inicialización del enlace.
+<br>La inicialización se debe hacer como primer paso antes de compartir tramas de información.
+<br>La inicialización permite negociar la compartición de tramas.
+<br>Requieren de una fase de desconexión que libera las memorias intermedias de emisión y recepción.
+<br>Emplean tramas especiales de control para la inicialización y desconexión.
+<br>Las tramas se suelen numerar si se emplea una transmisión con recuperación de errores.
+<br>Hay confirmaciones en la información por parte del receptor.
+<br><img alt="Captura de pantalla de 2024-07-03 11-19-48.png" src="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-11-19-48.png">]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/4.1-protocolos-orientados-a-la-conexión.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/4.1 Protocolos Orientados a la Conexión.md</guid><pubDate>Wed, 03 Jul 2024 09:19:55 GMT</pubDate><enclosure url="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-11-19-48.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-11-19-48.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4.2 Protocolos No Orientados a la Conexión]]></title><description><![CDATA[ 
+ <br>
+<br>Los nodos comparten tramas de información sin previo aviso.
+<br>No suelen emplear recuperación de errores.
+<br>Las tramas no suelen estar numeradas.
+<br>No se permite la retransmisión de tramas erróneas.
+<br>No hay confirmaciones en la información por parte del receptor.
+<br>Altamente empleados para transmisión de datos multimedia (vídeo o voz).
+]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/4.2-protocolos-no-orientados-a-la-conexión.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/4.2 Protocolos No Orientados a la Conexión.md</guid><pubDate>Wed, 03 Jul 2024 09:21:03 GMT</pubDate></item><item><title><![CDATA[5. Servicios del Nivel de Enlace]]></title><description><![CDATA[ 
+ <br><br>
+<br>El nivel de enlace debe proporcionar servicios al nivel de red.
+<br>Como existen dos tipos de protocolos (orientados y no orientados a la conexión), los servicios están relacionados con el modo de funcionamiento de los protocolos.
+<br>Generalmente se suele hablar de tres tipos de servicios principales a nivel de enlace:<br>
+<a data-href="5.1 Servicios No Orientados a la Conexión Sin Acuse de Recibo" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.1-servicios-no-orientados-a-la-conexión-sin-acuse-de-recibo.html" class="internal-link" target="_self" rel="noopener">5.1 Servicios No Orientados a la Conexión Sin Acuse de Recibo</a><br>
+<a data-href="5.2 Servicios No Orientados a la Conexión Con Acuse de Recibo" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.2-servicios-no-orientados-a-la-conexión-con-acuse-de-recibo.html" class="internal-link" target="_self" rel="noopener">5.2 Servicios No Orientados a la Conexión Con Acuse de Recibo</a><br>
+<a data-href="5.3 Servicios Orientados a la Conexión Con Acuse de Recibo" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.3-servicios-orientados-a-la-conexión-con-acuse-de-recibo.html" class="internal-link" target="_self" rel="noopener">5.3 Servicios Orientados a la Conexión Con Acuse de Recibo</a>
+]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.-servicios-del-nivel-de-enlace.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5. Servicios del Nivel de Enlace.md</guid><pubDate>Wed, 03 Jul 2024 10:06:47 GMT</pubDate></item><item><title><![CDATA[5.1 Servicios No Orientados a la Conexión Sin Acuse de Recibo]]></title><description><![CDATA[ 
+ <br>
+<br>El nodo transmisor envía tramas independientes al nodo de destino sin que el destino confirme la recepción de las tramas.
+<br>No se establece ni se termina el enlace de comunicación.
+<br>Si una trama se pierde debido al ruido en la línea o debido a errores en la transmisión, no se intenta recuperar la trama perdida.
+<br>La gestión de los errores se delega a las capas superiores.
+<br>Se emplea cuando el ratio de error es bajo y se requieren velocidades de transmisión altas (por ejemplo, tiempo real).
+]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.1-servicios-no-orientados-a-la-conexión-sin-acuse-de-recibo.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5.1 Servicios No Orientados a la Conexión Sin Acuse de Recibo.md</guid><pubDate>Wed, 03 Jul 2024 10:05:22 GMT</pubDate></item><item><title><![CDATA[5.2 Servicios No Orientados a la Conexión Con Acuse de Recibo]]></title><description><![CDATA[ 
+ <br>
+<br>Es un servicio fiable sin realizar conexión.
+<br>No se inicializa ni finaliza el enlace.
+<br>No obstante, cada trama individual que llega al receptor se confirma.
+<br>El emisor sabe si el receptor ha recibido la trama.
+<br>Empleados para sistemas donde los canales de comunicación son poco fiables a interferencias, como los sistemas inalámbricos.
+]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.2-servicios-no-orientados-a-la-conexión-con-acuse-de-recibo.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5.2 Servicios No Orientados a la Conexión Con Acuse de Recibo.md</guid><pubDate>Wed, 03 Jul 2024 10:05:18 GMT</pubDate></item><item><title><![CDATA[5.3 Servicios Orientados a la Conexión Con Acuse de Recibo]]></title><description><![CDATA[ 
+ <br>
+<br>Es el más seguro y sofisticado de los tres.
+<br>Se requiere inicialización y finalización del enlace.
+<br>Cada trama de datos se numera.
+<br>Cada trama de datos se transmite a la capa de red una única vez.
+]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.3-servicios-orientados-a-la-conexión-con-acuse-de-recibo.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5.3 Servicios Orientados a la Conexión Con Acuse de Recibo.md</guid><pubDate>Wed, 03 Jul 2024 10:06:50 GMT</pubDate></item><item><title><![CDATA[Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace]]></title><description><![CDATA[ 
+ <br>
+<br>El nivel de enlace de datos es el encargado de proporcionar un enlace de comunicación virtual entre dos dispositivos, garantizando que no hay errores en la transmisión.  
+<br>Para lograrlo, se necesitan realizar varias tareas.
+<br>En concreto, este tema se centra en la tarea de:
+
+<br>Generación de trama
+<br>Gestión del Enlace
+
+
+<br><img alt="Captura de pantalla de 2024-07-03 09-27-37.png" src="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-27-37.png"><br><a data-href="2. Entramado" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/2.-entramado.html" class="internal-link" target="_self" rel="noopener">2. Entramado</a><br>
+<a data-href="3. Generación de Entramado" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.-generación-de-entramado.html" class="internal-link" target="_self" rel="noopener">3. Generación de Entramado</a><br>
+<a data-href="4. Gestión de Enlace" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/4.-gestión-de-enlace.html" class="internal-link" target="_self" rel="noopener">4. Gestión de Enlace</a><br>
+<a data-href="5. Servicios del Nivel de Enlace" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.-servicios-del-nivel-de-enlace.html" class="internal-link" target="_self" rel="noopener">5. Servicios del Nivel de Enlace</a>]]></description><link>tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace.html</link><guid isPermaLink="false">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace.md</guid><pubDate>Wed, 03 Jul 2024 10:07:44 GMT</pubDate><enclosure url="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-27-37.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-27-37.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2. Parada y Espera]]></title><description><![CDATA[ 
+ <br><br>
+<br>Cada trama emitida por el transmisor es confirmada por el receptor.
+<br>El receptor envía confirmaciones con una trama especial ACK (Acknowledgement).
+<br>El emisor no transmite la siguiente trama hasta que no recibe la confirmación de que puede enviar información.
+<br>Se soluciona el problema de desbordamiento de memoria en el receptor.
+<br><img alt="Captura de pantalla de 2024-07-03 12-38-51.png" src="tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-12-38-51.png"><br>¿Importa el tamaño de la trama?<br>
+<br>El tamaño de las tramas tiene implicaciones directas en varios aspectos:
+
+<br>Tiempos.
+<br>Memoria.
+<br>Detección de errores.
+<br>Ocupación del canal en medios compartidos.
+
+
+]]></description><link>tema-10-nivel-de-enlace-de-datos-control-de-flujo/2.-parada-y-espera.html</link><guid isPermaLink="false">Tema 10 - Nivel de Enlace de Datos - Control de Flujo/2. Parada y Espera.md</guid><pubDate>Wed, 03 Jul 2024 11:02:16 GMT</pubDate><enclosure url="tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-12-38-51.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-12-38-51.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Ventana Deslizante]]></title><description><![CDATA[ 
+ <br><br>
+<br>Mejora la utilización del enlace.
+<br>Permite transmitir múltiples tramas sin confirmar cada una de ellas.
+<br>Cada trama necesita necesariamente un número de secuencia.
+<br>Se utiliza una memoria temporal a modo de buffer (ventana) tanto para la emisión como para la recepción de  tramas:
+
+<br>El emisor puede enviar hasta  tramas consecutivas sin recibir confirmación.
+<br>El receptor confirma las tramas de forma acumulada con un ACK especial                    (RR - Receive Ready) junto con el número de secuencia de la siguiente trama esperada.
+<br>El receptor puede detener la comunicación en cualquier momento con un ACK especial (RNR - Receive Not Ready). La comunicación se reanuda con un ACK normal (RR).
+
+
+<br><br>
+<br>El número de secuencia no puede ir hasta el infinito.
+<br>Al numerar cada trama, el campo de numeración está limitado.
+<br>De forma general, para  bits de números de secuencia:
+
+<br>Podemos numerar tramas del 0 a .
+<br>El tamaño de ventana máximo es  porque no hay errores ni ambigüedades.
+
+
+<br><br>
+<br>Podemos numerar tramas del 0 al 7.
+<br>El tamaño de ventana máximo es 7.
+<br><img alt="Captura de pantalla de 2024-07-03 13-57-53.png" src="tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-13-57-53.png">]]></description><link>tema-10-nivel-de-enlace-de-datos-control-de-flujo/3.-ventana-deslizante.html</link><guid isPermaLink="false">Tema 10 - Nivel de Enlace de Datos - Control de Flujo/3. Ventana Deslizante.md</guid><pubDate>Wed, 03 Jul 2024 11:59:25 GMT</pubDate><enclosure url="tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-13-57-53.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-13-57-53.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 10 - Nivel de Enlace de Datos - Control de Flujo]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+Problema:
+
+<br>¿Qué sucede si las tramas de datos se envían desde un dispositivo que tiene más recursos (más velocidad de procesamiento y envío) a un equipo que tiene recursos limitados (menor velocidad de procesamiento y recepción de tramas)?
+
+
+<br>
+Solución:
+
+<br>Hay que limitar la velocidad a la que se envían las tramas de información. ¿
+<br>Cómo se consigue esto?
+
+
+<br>
+¿Cuál es la utilidad del control de flujo?
+
+<br>El control de flujo de la capa de enlace de datos establece los protocolos que permiten que las máquinas se comuniquen entre sí sin saturar los recursos de los emisores y receptores.
+
+
+<br><br><a data-href="2. Parada y Espera" href="tema-10-nivel-de-enlace-de-datos-control-de-flujo/2.-parada-y-espera.html" class="internal-link" target="_self" rel="noopener">2. Parada y Espera</a><br>
+<a data-href="3. Ventana Deslizante" href="tema-10-nivel-de-enlace-de-datos-control-de-flujo/3.-ventana-deslizante.html" class="internal-link" target="_self" rel="noopener">3. Ventana Deslizante</a>]]></description><link>tema-10-nivel-de-enlace-de-datos-control-de-flujo/tema-10-nivel-de-enlace-de-datos-control-de-flujo.html</link><guid isPermaLink="false">Tema 10 - Nivel de Enlace de Datos - Control de Flujo/Tema 10 - Nivel de Enlace de Datos - Control de Flujo.md</guid><pubDate>Wed, 03 Jul 2024 10:26:23 GMT</pubDate></item><item><title><![CDATA[2. Detección de Errores]]></title><description><![CDATA[ 
+ <br><img alt="Captura de pantalla de 2024-07-03 14-11-36.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-11-36.png"><br><a data-href="2.1 Comprobación de Paridad" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.1-comprobación-de-paridad.html" class="internal-link" target="_self" rel="noopener">2.1 Comprobación de Paridad</a><br>
+<a data-href="2.2 Comprobación de Suma de Verificación" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.2-comprobación-de-suma-de-verificación.html" class="internal-link" target="_self" rel="noopener">2.2 Comprobación de Suma de Verificación</a><br>
+<a data-href="2.3 Comprobación de Redundancia Cíclica" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.3-comprobación-de-redundancia-cíclica.html" class="internal-link" target="_self" rel="noopener">2.3 Comprobación de Redundancia Cíclica</a>]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.-detección-de-errores.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2. Detección de Errores.md</guid><pubDate>Wed, 03 Jul 2024 13:47:13 GMT</pubDate><enclosure url="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-11-36.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-11-36.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.1 Comprobación de Paridad]]></title><description><![CDATA[ 
+ <br>
+<br>Es el método más sencillo
+<br>Se utiliza cuando el BER es muy pequeño
+<br>Permite detecta errores en un bit sin localizar el fallo
+<br><br>
+<br>**Paridad Par: Si el número de 1 es par se pone un 0 al final, en caso contrario un 1
+<br>**Paridad Impar: Si el número de 1 es impar se pone un 0 al final, en caso contrario un 1
+<br><img alt="Captura de pantalla de 2024-07-03 14-16-30.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-16-30.png">]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.1-comprobación-de-paridad.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2.1 Comprobación de Paridad.md</guid><pubDate>Wed, 03 Jul 2024 12:16:38 GMT</pubDate><enclosure url="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-16-30.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-16-30.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.2 Comprobación de Suma de Verificación]]></title><description><![CDATA[ 
+ <br><br>
+<br>Es un método similar a la adición de bits de paridad simple.
+<br>Consiste en agregar a los datos la suma de sus valores:
+
+<br>El transmisor agrega a los datos un campo adicional que corresponde con la suma complementada a uno.
+<br>Mismo problema que la paridad simple: no se detecta la posición del error.
+
+
+<br>El receptor recibe los datos y realiza el proceso inverso. Al comprobar los datos de suma de verificación, el receptor simplemente debe verificar si el campo de checksum es 0; en caso contrario, hay un error en la transmisión.
+<br>Cuando la suma es mayor que el bloque de datos que estamos tratando, se realiza un proceso de "envoltura (wrap)" donde los bits se añaden a los primeros de la suma.
+<br><img alt="Captura de pantalla de 2024-07-03 15-46-22.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-46-22.png">]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.2-comprobación-de-suma-de-verificación.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2.2 Comprobación de Suma de Verificación.md</guid><pubDate>Wed, 03 Jul 2024 13:46:40 GMT</pubDate><enclosure url="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-46-22.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-46-22.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.3 Comprobación de Redundancia Cíclica]]></title><description><![CDATA[ 
+ <br>
+<br>
+Surge ante la necesidad de detectar errores de tipo ráfaga.
+
+<br>
+Las técnicas anteriores no sirven del todo para ráfagas de bits.
+
+<br>
+Solución: Usar técnicas de redundancia cíclica.
+
+<br>
+Comúnmente conocido por sus siglas en inglés: CRC (Cyclic Redundancy Check).
+
+<br>
+Es el mecanismo más usado en el nivel de enlace.
+
+<br>
+También conocidas como secuencias de comprobación de trama:<br>
+FCS (Frame Check Sequence).
+
+<br>
+Emplean códigos polinomiales para la detección de varios bits.
+
+<br>
+Terminología previa:
+
+<br>: Trama a transmitir con  bits.
+<br>: Divisor polinomial de  bits.
+<br>: Resto de la división polinomial de  bits.
+
+
+<br>
+Los bits de información pueden verse como polinomios.
+
+<br><br>
+<br> → 101110
+<br> → 1001
+<br> → 101110000
+<br><img alt="Captura de pantalla de 2024-07-03 15-57-35.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-57-35.png">]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.3-comprobación-de-redundancia-cíclica.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2.3 Comprobación de Redundancia Cíclica.md</guid><pubDate>Wed, 03 Jul 2024 13:57:48 GMT</pubDate><enclosure url="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-57-35.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-57-35.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Corrección de Errores]]></title><description><![CDATA[ 
+ <br><br>
+<br>Son mecanismos que permiten corregir la información errónea que ha llegado a un nodo receptor.
+<br>Deben detectarse los errores y luego actuar sobre ellos.
+<br><br>
+<br>Métodos de corrección hacia delante - FEC (Forward Error Correction).
+<br>Métodos de detección y retransmisión automática - ARQ (Automatic Repeat-reQuest).
+<br><a data-href="3.1 FEC - Paridad Bidimensional" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.1-fec-paridad-bidimensional.html" class="internal-link" target="_self" rel="noopener">3.1 FEC - Paridad Bidimensional</a><br>
+<a data-href="3.2 FEC - Código Hamming" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.2-fec-código-hamming.html" class="internal-link" target="_self" rel="noopener">3.2 FEC - Código Hamming</a><br>
+<a data-href="3.3 ARQ - Parada y Espera" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.3-arq-parada-y-espera.html" class="internal-link" target="_self" rel="noopener">3.3 ARQ - Parada y Espera</a><br>
+<a data-href="3.4 ARQ - Vuelta Atrás" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.4-arq-vuelta-atrás.html" class="internal-link" target="_self" rel="noopener">3.4 ARQ - Vuelta Atrás</a><br>
+<a data-href="3.5 ARQ - Rechazo Selectivo" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.5-arq-rechazo-selectivo.html" class="internal-link" target="_self" rel="noopener">3.5 ARQ - Rechazo Selectivo</a>]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.-corrección-de-errores.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3. Corrección de Errores.md</guid><pubDate>Thu, 04 Jul 2024 14:55:55 GMT</pubDate></item><item><title><![CDATA[3.1 FEC - Paridad Bidimensional]]></title><description><![CDATA[ 
+ <br><br>
+<br>Se ordenan los bits en palabras de  bits y se organizan en una tabla.
+<br>Se calcula la paridad en las filas.
+<br>Se calcula la paridad en las columnas.
+<br>Se transmiten las palabras junto con los bits de paridad al nodo receptor.
+<br><br>
+<br>Se calcula la paridad por filas y por columnas de los datos recibidos (incluyendo la información y los bits de paridad).
+<br>Si el resultado del cálculo de la paridad es 0, la transmisión es correcta. En caso contrario, la fila y columna con el bit de paridad a 1 determina la posición del bit erróneo.
+<br><img alt="Captura de pantalla de 2024-07-03 16-18-47.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-18-47.png">]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.1-fec-paridad-bidimensional.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.1 FEC - Paridad Bidimensional.md</guid><pubDate>Wed, 03 Jul 2024 14:18:54 GMT</pubDate><enclosure url="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-18-47.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-18-47.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.2 FEC - Código Hamming]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+Se define como palabra a un conjunto de  bits.
+
+<br>
+Se denomina código a alguno de los sistemas de representación como ASCII, UNICODE, BCD, etc.
+
+<br>
+La distancia entre palabras es la diferencia en bits entre dos palabras. 
+
+<br>
+Ejemplo:
+
+<br>; ; .
+
+
+<br>
+Para que un código pueda detectar errores en  bits, debe cumplir que la distancia mínima .
+
+<br>
+Para que un código pueda corregir errores en  bits, debe cumplir que su distancia mínima sea .
+
+<br>
+Ejemplo: Para corregir 4 bits, un código debe tener una  bits para detectar errores y una  para corregirlos.
+
+<br><br>
+<br>Es un código de distancia mínima 3.
+<br>Se basa en utilizar códigos de  bits.
+<br>Añade  bits de paridad a la información (normalmente paridad par).
+<br>El código generado resultante tiene una longitud: .
+<br>¿Cuántos bits de paridad? Se cumple que .
+<br>El valor mínimo que cumple la desigualdad es 3 .
+<br>Los bits de paridad se colocan en las posiciones que son potencia de dos.
+<br>En el caso concreto de :
+
+<br>Tiene 3 bits de paridad .
+<br>4 bits de información .
+
+
+<br>Formato del código: .<br>
+El emisor envia <br>
+El receptor recibe  
+<br> 
+<br>
+<br>
+<br><img alt="Captura de pantalla de 2024-07-03 16-39-49.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-39-49.png">]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.2-fec-código-hamming.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.2 FEC - Código Hamming.md</guid><pubDate>Wed, 03 Jul 2024 14:41:54 GMT</pubDate><enclosure url="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-39-49.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-39-49.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.3 ARQ - Parada y Espera]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+El mecanismo es similar al protocolo de parada y espera sin errores.
+
+<br>
+Hay que considerar más casos y mecanismos:
+
+<br>¿Qué sucede si no llega una confirmación?
+<br>¿Qué sucede si no llega una trama de datos?
+<br>¿Qué sucede si no llegan varias confirmaciones?
+
+
+<br>
+Se necesitan temporizadores y contadores.
+
+<br>
+No es necesario numerar las tramas, con valores 0 y 1 son suficientes.
+
+<br>
+Dos tipos de tramas de confirmación:
+
+<br>ACK: Igual que en parada y espera sin errores.
+<br>NACK: Negative ACK. Especifica que una trama concreta no ha llegado correctamente.
+
+
+<br><img alt="Captura de pantalla de 2024-07-04 16-11-37.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-11-37.png">]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.3-arq-parada-y-espera.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.3 ARQ - Parada y Espera.md</guid><pubDate>Thu, 04 Jul 2024 14:11:45 GMT</pubDate><enclosure url="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-11-37.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-11-37.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.4 ARQ - Vuelta Atrás]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+El mecanismo es similar al protocolo de ventana deslizante.
+
+<br>
+Hay que considerar más casos y mecanismos:
+
+<br>¿Qué sucede si no llega una trama de datos?
+<br>¿Qué sucede si no llega una confirmación?
+
+
+<br>
+Se necesitan temporizadores y contadores de intentos.
+
+<br>
+Se necesitan  bits para numerar las tramas de información.
+
+<br>
+Tipos de tramas de confirmación:
+
+<br>**: Donde se espera recibir la trama  y se confirman las anteriores.
+<br>: Trama especial desde el emisor al receptor para el caso de pérdidas de tramas .
+<br>: El receptor rechaza la trama  y todas las siguientes a .
+
+
+<br><img alt="Captura de pantalla de 2024-07-04 16-55-34.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-55-34.png">]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.4-arq-vuelta-atrás.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.4 ARQ - Vuelta Atrás.md</guid><pubDate>Thu, 04 Jul 2024 14:55:41 GMT</pubDate><enclosure url="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-55-34.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-55-34.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.5 ARQ - Rechazo Selectivo]]></title><description><![CDATA[ 
+ <br><br>
+<br>El mecanismo es similar al protocolo ARQ de vuelta atrás.
+<br>Hay que considerar más casos y mecanismos:
+
+<br>Se necesitan temporizadores y contadores de intentos.
+<br>Se necesitan  bits para numerar las tramas de información.
+
+
+<br>Tipos de tramas de confirmación:
+
+<br>: Donde se espera recibir la trama  y se confirman las anteriores.
+<br>: Trama especial desde el emisor al receptor para el caso de pérdidas de tramas .
+<br>: El receptor rechaza únicamente la trama .
+
+
+<br>Su implementación es más compleja. La información no llega en orden.
+<br><img alt="Captura de pantalla de 2024-07-04 16-57-50.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-57-50.png">]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.5-arq-rechazo-selectivo.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.5 ARQ - Rechazo Selectivo.md</guid><pubDate>Thu, 04 Jul 2024 14:58:02 GMT</pubDate><enclosure url="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-57-50.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-57-50.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+Las tramas están compuestas de bits en su forma más básica. Cualquier alteración en uno o más bits se considera una corrupción de la trama. Las tramas corruptas son consideradas como errores de transmisión.
+
+<br>
+Existen principalmente dos tipos de errores:
+
+<br>Errores en un bit: Un único bit en una unidad de datos (bits, bytes, paquetes, etc) se altera en la transmisión.
+
+
+<br><img alt="Captura de pantalla de 2024-07-03 14-05-00.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-00.png"><br>
+<br>Errores en ráfaga: Dos o más bits de una unidad de dato cambian su valor. Pueden ser bits consecutivos o no. La longitud del error es la distancia entre errores.
+<br><img alt="Captura de pantalla de 2024-07-03 14-05-38.png" src="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-38.png"><br><br>
+<br>Principalmente dos mecanismos:
+
+<br>La detección.
+<br>La corrección.
+
+
+<br>La clave de ambos reside en la redundancia
+Copy<br><a data-href="2. Detección de Errores" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.-detección-de-errores.html" class="internal-link" target="_self" rel="noopener">2. Detección de Errores</a><br>
+<a data-href="3. Corrección de Errores" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.-corrección-de-errores.html" class="internal-link" target="_self" rel="noopener">3. Corrección de Errores</a>]]></description><link>tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores.html</link><guid isPermaLink="false">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores.md</guid><pubDate>Thu, 04 Jul 2024 15:00:14 GMT</pubDate><enclosure url="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-00.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-00.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2. BSC]]></title><description><![CDATA[ 
+ <br><br>
+<br>
+Protocolo de control síncrono binario (Binary Synchronous Communications - BSC).
+
+<br>
+También conocido como protocolo BISYN.
+
+<br>
+Desarrollado por IBM en 1967.
+
+<br>
+Orientado a caracteres:
+
+<br>Con código ASCII.
+<br>Con código EBCDIC.
+
+
+<br>
+Emplea ARQ de parada y espera (por tanto, Half-duplex).
+
+<br>
+Es un protocolo orientado a la conexión.
+
+<br>
+Las tramas se transmiten de forma síncrona.
+
+<br>
+Emplea caracteres de delimitación y sincronización de tramas.
+
+<br>
+Funcionamiento maestro-esclavo para transmisión multipunto.
+
+<br><img alt="Captura de pantalla de 2024-07-04 17-09-28.png" src="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-09-28.png"><br>Comunicación Punto a Punto dos Nodos :<br><img alt="Captura de pantalla de 2024-07-04 17-12-44.png" src="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-12-44.png"><br>Comunicación Maestro a Esclavo : <br><img alt="Captura de pantalla de 2024-07-04 17-13-49.png" src="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-13-49.png"><br>Comunicación esclavo a nodo pasando por Maestro:<br>
+<img alt="Captura de pantalla de 2024-07-04 17-14-15.png" src="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-14-15.png">]]></description><link>tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/2.-bsc.html</link><guid isPermaLink="false">Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/2. BSC.md</guid><pubDate>Thu, 04 Jul 2024 15:14:45 GMT</pubDate><enclosure url="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-09-28.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-09-28.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. HDLC]]></title><description><![CDATA[ 
+ <br><br>
+<br>Protocolo de control de enlace de datos de alto nivel (High-level Data Link Control - HDLC).
+<br>Estándar propuesto por ISO que se basa en el protocolo SDLC propuesto por IBM.
+<br>Es un protocolo orientado a bits.
+<br>Orientado a la conexión.
+<br>Tiene dos modos de funcionamiento:
+
+<br>NRM: Modo normal de respuesta (Normal Response Mode). Maestro-esclavo, half-duplex.
+<br>ABM: Modo equilibrado asíncrono (Asynchronous Balanced Mode). Nodos de misma categoría, full-duplex.
+
+
+<br><br>
+<br>I : Información
+<br>S :Supervisión
+<br>U : No numerada
+<br><img alt="Captura de pantalla de 2024-07-04 17-21-23.png" src="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-21-23.png"><br><br>
+<br>Transportan datos de usuario de las capas superiores.
+<br>Contienen número de secuencia de emisión  y de recepción . 
+
+<br>Técnica piggy-backing: Información en ambos sentidos para realizar comunicación full-duplex.
+
+
+<br>Bit P/F: Indica confirmaciones o cuando expiran temporizadores. 
+<br>En NMR, el maestro obliga al esclavo a confirmar tramas.
+<br><img alt="Captura de pantalla de 2024-07-04 17-24-30.png" src="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-24-30.png">]]></description><link>tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/3.-hdlc.html</link><guid isPermaLink="false">Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/3. HDLC.md</guid><pubDate>Thu, 04 Jul 2024 15:24:36 GMT</pubDate><enclosure url="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-21-23.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-21-23.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4. PPP]]></title><description><![CDATA[ 
+ <br><br>
+<br>Protocolo de comunicación punto a punto (Point to Point Protocol - PPP).
+<br>Es un protocolo de comunicación orientado a bytes.
+<br>Nace como una variante del protocolo HDLC.
+<br>La estructura de las tramas es similar, pero algunos campos carecen de utilidad.
+
+<br>Se emplean campos con valores predefinidos para poder reutilizar el formato de HDLC y permitir mayor compatibilidad.
+
+
+<br>Permite encapsular tráfico IP (u otros protocolos de red) sobre enlaces punto a punto, por ejemplo:
+
+<br>PPPoE (PPP over Ethernet)
+<br>Conexión de usuarios con proveedores ISP
+
+
+<br><br><img alt="Captura de pantalla de 2024-07-04 17-26-58.png" src="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-26-58.png"><br>
+<br>Flag: Igual que en HDLC. Patrón de bits: 01111110.
+<br>Dirección: Siempre broadcast.
+<br>Control: Siempre tramas sin numerar de tipo U de HDLC.
+<br>FCS: Campo de CRC.
+]]></description><link>tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/4.-ppp.html</link><guid isPermaLink="false">Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/4. PPP.md</guid><pubDate>Thu, 04 Jul 2024 15:28:10 GMT</pubDate><enclosure url="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-26-58.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-26-58.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[5. LCP]]></title><description><![CDATA[ 
+ <br><br>
+<br>Es uno de los protocolos usados en PPP.
+<br>Se emplea para realizar el control del enlace.
+<br>Es el protocolo más importante de PPP.
+<br>LCP (Protocolo de Control de Enlace - Link Control Protocol) es el encargado de:
+
+<br>Iniciar el enlace.
+<br>Mantener el enlace.
+<br>Finalizar el enlace.
+
+
+<br>LCP se encuentra encapsulado dentro de las tramas PPP.
+<br>Una de las tareas más importantes que lleva a cabo es la negociación de parámetros del enlace.
+<br><img alt="Captura de pantalla de 2024-07-04 17-30-04.png" src="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-30-04.png"><br>
+<br>Código: Especifica una de las acciones de LCP.
+<br>Id: Identificador para asociar solicitudes y respuestas de LCP.
+<br>Longitud: Longitud de los datos a transmitir.
+<br>Información LCP: Contiene el conjunto de datos/parámetros a transmitir por LCP.
+]]></description><link>tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/5.-lcp.html</link><guid isPermaLink="false">Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/5. LCP.md</guid><pubDate>Thu, 04 Jul 2024 15:30:20 GMT</pubDate><enclosure url="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-30-04.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-30-04.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos]]></title><description><![CDATA[ 
+ <br><br>
+<br>Para garantizar y confirmar que los bits y los bytes que se transmiten coinciden exactamente con los que se reciben.
+<br>Incorporan varios mecanismos vistos en temas anteriores.
+<br>Existen protocolos específicos para redes de área local (LAN) y para redes de área extensa (WAN).
+<br><br>
+<br>Control síncrono binario - BSC.
+<br>Protocolo de enlace de datos de alto nivel - HDLC.
+<br>Protocolo punto a punto - PPP.
+<br>Protocolo de control de enlace - LCP.
+<br><a data-href="2. BSC" href="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/2.-bsc.html" class="internal-link" target="_self" rel="noopener">2. BSC</a><br>
+<a data-href="3. HDLC" href="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/3.-hdlc.html" class="internal-link" target="_self" rel="noopener">3. HDLC</a><br>
+<a data-href="4. PPP" href="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/4.-ppp.html" class="internal-link" target="_self" rel="noopener">4. PPP</a><br>
+<a data-href="5. LCP" href="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/5.-lcp.html" class="internal-link" target="_self" rel="noopener">5. LCP</a>]]></description><link>tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos.html</link><guid isPermaLink="false">Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos.md</guid><pubDate>Thu, 04 Jul 2024 15:29:31 GMT</pubDate></item><item><title><![CDATA[2. Acceso por Canales (repartición)]]></title><description><![CDATA[ 
+ <br><img alt="Captura de pantalla de 2024-07-04 17-58-37.png" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-17-58-37.png"><br><br>
+<br>El ancho de banda se divide en  bandas/canales privados, siendo  el número de usuarios.
+<br>Si hay más de  usuarios, se deniega el acceso al medio a algunos usuarios.
+<br>Si hay menos de  usuarios, se desperdicia el ancho de banda.
+<br>Problema de canales inactivos.
+<br><br>
+<br>A cada usuario se le asigna una ranura temporal utilizando todo el ancho de banda.
+<br>Se envía información de las ranuras temporales de los usuarios una detrás de otra.
+<br>Si un usuario no tiene información para enviar en su turno temporal, se envía una ranura vacía.
+<br>Problemas de desperdicio del ancho de banda.
+<br>Solución: Multiplexación por tiempo asincrónica (TDMA).
+<br>En TDM, cada usuario tiene acceso exclusivo a una parte del tiempo total disponible para la transmisión. Sin embargo, si un usuario no tiene datos que transmitir en su ranura asignada, se desperdicia esa parte del tiempo. TDMA (Acceso Múltiple por División de Tiempo) es una variante que asigna dinámicamente las ranuras de tiempo según la necesidad de cada usuario, reduciendo así el desperdicio de ancho de banda.<br><br><br>
+<br>No existe interferencia entre usuarios.
+<br>No hay posibilidad de colisión de tramas.
+<br>Son métodos simples.
+<br>Eficientes cuando el número de nodos N es pequeño.
+<br><br>
+<br>Ineficientes, especialmente cuando N es alto.
+<br>No óptimos en redes LAN y MAN debido al desperdicio de recursos.
+<br>Incapaces de manejar nodos con comportamiento impredecible.
+<br>Estas son algunas consideraciones generales sobre los métodos de reparto de canal como FDM (Multiplexación por División en Frecuencia), TDM (Multiplexación por División en Tiempo) y TDMA (Acceso Múltiple por División de Tiempo). Cada uno tiene sus aplicaciones y limitaciones dependiendo del escenario y el número de usuarios involucrados.]]></description><link>tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/2.-acceso-por-canales-(repartición).html</link><guid isPermaLink="false">Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/2. Acceso por Canales (repartición).md</guid><pubDate>Thu, 04 Jul 2024 16:00:37 GMT</pubDate><enclosure url="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-17-58-37.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-17-58-37.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3. Acceso Aleatorio (compartición)]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Las estaciones que quieren usar el medio lanzan sus tramas al medio de forma "aleatoria".
+<br>Las tramas se envían cuando un nodo las tiene listas para enviar.
+<br>Si se produce una colisión, se desencadena un proceso de "contienda" para resolver la posesión del medio.
+<br><br><br>
+<br>Con escucha: Los nodos pueden detectar si existen señales en el medio de transmisión antes de enviar.
+<br>Sin escucha: Los nodos no poseen información del estado actual del canal antes de enviar.
+<br>Este método de acceso al medio es típico en protocolos de acceso múltiple como CSMA (Acceso Múltiple por Detección de Portadora) y sus variantes como CSMA/CD (Acceso Múltiple por Detección de Portadora con Detección de Colisiones), que se utiliza en redes Ethernet.<br><img alt="Captura de pantalla de 2024-07-04 18-02-38.png" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-02-38.png"><br><a data-href="3.1 Aloha Puro y Ranurado" href="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/3.1-aloha-puro-y-ranurado.html" class="internal-link" target="_self" rel="noopener">3.1 Aloha Puro y Ranurado</a><br>
+<a data-href="3.2 CSMA" href="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/3.2-csma.html" class="internal-link" target="_self" rel="noopener">3.2 CSMA</a>]]></description><link>tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/3.-acceso-aleatorio-(compartición).html</link><guid isPermaLink="false">Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/3. Acceso Aleatorio (compartición).md</guid><pubDate>Thu, 04 Jul 2024 16:08:22 GMT</pubDate><enclosure url="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-02-38.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-02-38.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.1 Aloha Puro y Ranurado]]></title><description><![CDATA[ 
+ <br><br>
+<br>Origen: Originario en la Universidad de Hawai (1970).
+<br>Funcionamiento: Los nodos transmiten cuando tienen tramas que mandar.
+<br>Colisiones: Existen colisiones (totales o parciales).
+<br>Manejo de colisiones: En caso de colisión, se espera un tiempo aleatorio y se retransmite la trama.
+<br><img alt="Captura de pantalla de 2024-07-04 18-04-29.png" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-04-29.png"><br><br>
+<br>Propuesto en 1972: Es una mezcla entre Aloha y TDM.
+<br>División del tiempo: Se divide el tiempo en intervalos discretos llamados ranuras  (similar a TDM).
+<br>Transmisión de tramas: Las tramas solo se transmiten al principio de la ranura, no entre medias ni al final. Las tramas deben completarse dentro de la ranura.
+<br><img alt="Captura de pantalla de 2024-07-04 18-06-59.png" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-06-59.png">]]></description><link>tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/3.1-aloha-puro-y-ranurado.html</link><guid isPermaLink="false">Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/3.1 Aloha Puro y Ranurado.md</guid><pubDate>Thu, 04 Jul 2024 16:07:07 GMT</pubDate><enclosure url="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-04-29.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-04-29.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3.2 CSMA]]></title><description><![CDATA[ 
+ <br>
+<br>Método de acceso múltiple con detección de portadora (Carrier-Sense Multiple Access).
+<br>Intenta mejorar el desempeño del canal realizando escuchas antes de transmitir.
+<br>Se comprueba primero si el canal está ocupado detectando señales portadoras en el medio.
+<br>Si hay señales portadoras, se espera a que se libere el canal antes de transmitir.
+<br>Existen diferentes variantes de CSMA.
+<br><br><br>
+<br>Se escucha el canal.
+<br>Si está ocupado, se espera continuamente a que el canal esté libre.
+<br>Si está libre, se inicia la transmisión de la trama.
+<br>En caso de colisión:
+
+<br>Se espera un tiempo aleatorio y se reinicia el proceso de escucha del canal.
+
+
+<br>Las colisiones pueden ocurrir cuando dos nodos encuentran el medio libre simultáneamente para transmitir.
+<br><img alt="Captura de pantalla de 2024-07-04 18-09-31.png" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-09-31.png"><br><br><br>
+<br>Se escucha el canal.
+<br>Si está ocupado, se espera un tiempo aleatorio y luego se vuelve a escuchar el canal.
+<br>Si está libre, se inicia la transmisión de la trama.
+<br>En caso de colisión:
+
+<br>Se espera un tiempo aleatorio y se reinicia el proceso de escucha del canal.
+
+
+<br><img alt="Captura de pantalla de 2024-07-04 18-10-23.png" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-10-23.png"><br><br>
+<br>Empleado para canales que están ranurados en el tiempo.
+<br>Funcionamiento:
+
+<br>Se escucha el canal.
+<br>Si el canal no está libre, se permanece escuchando hasta que esté libre.
+<br>Si el canal está libre, se transmitirá con una probabilidad  la trama en dicha ranura.
+<br>Con una probabilidad    (donde  ), se espera por una nueva ranura temporal.
+
+<br>En esta nueva ranura temporal, si el canal está libre se vuelve a comprobar la probabilidad (  ).
+<br>Si el canal está ocupado, se empieza el proceso desde el principio.
+
+
+
+
+<br><img alt="Captura de pantalla de 2024-07-04 18-12-05.png" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-12-05.png"><br><br>
+<br>Carrier-Sense Multiple Access with Collision Detection (CSMA/CD).
+<br>Propuesto por Xerox.
+<br>Se emplea en redes de área local (LAN) cableadas.
+<br>En CSMA siguen ocurriendo colisiones.
+<br>Ante una colisión, los nodos dejan de transmitir inmediatamente y liberan el canal.
+<br><br>
+<br>Se escucha el medio.
+<br>Si el medio está libre, se transmite la información.
+<br>Si el medio está ocupado, se espera a que esté libre y luego se transmite.
+<br>Si se detecta una colisión (por ejemplo, un voltaje mayor en un medio cableado):
+
+<br>Se detiene la transmisión.
+<br>Luego se espera un tiempo aleatorio e intenta retransmitir.
+
+
+<br>El tiempo durante el cual se deja de transmitir después de detectar una colisión se denomina intervalo de contención.
+<br>Tiempo máximo para detectar una colisión =&gt; ]]></description><link>tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/3.2-csma.html</link><guid isPermaLink="false">Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/3.2 CSMA.md</guid><pubDate>Thu, 04 Jul 2024 16:15:02 GMT</pubDate><enclosure url="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-09-31.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-09-31.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[4. Acceso Controlado]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Evitan las colisiones.
+<br>Empleados en medios con división temporal.
+<br>El acceso al medio está organizado.
+<br><br><br>
+<br>Existe un nodo con autoridad para conceder acceso al medio.
+<br><br>
+<br>Los propios nodos realizan conjuntamente la función de acceso al medio para determinar el orden de transmisión entre los nodos implicados.
+<br><br>
+<br>Sigue un esquema distribuido.
+<br>Se divide el intervalo de contención en tramos temporales ranurados.
+<br>Si existen N nodos para transmitir, el intervalo se divide en N partes.
+<br>Cuando un nodo desea transmitir, lo indica añadiendo un bit igual a 1 en su intervalo de contención correspondiente.
+<br>Las tramas se transmiten en orden.
+<br>Después de que el último nodo haya transmitido, se vuelve a realizar la consulta de transmisión mediante el intervalo de contención.
+<br><br>
+<br>Cada estación tiene asignada una dirección desde 0 hasta N-1.
+<br>Primer intervalo de contención:
+
+<br>Quieren transmitir los nodos 1, 3 y 7.
+<br>Los bits de contención serían: 00101001 (indicando que los nodos 1, 3 y 7 desean transmitir).
+
+
+<br>Segundo intervalo de contención:
+
+<br>Quieren transmitir los nodos 1 y 5.
+<br>Los bits de contención serían: 00100100 (indicando que los nodos 1 y 5 desean transmitir).
+
+
+<br><img alt="Captura de pantalla de 2024-07-04 18-32-07.png" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-32-07.png"><br><br>
+<br>También denominado polling.
+<br>Sigue un esquema centralizado.
+<br>Un nodo es el primario y TODAS las conexiones pasan por él.
+<br>Los nodos secundarios no pueden transmitir a menos que sean sondeados por el nodo primario.
+<br>Existen dos tramas especiales:
+
+<br>SEL: Empleadas por el nodo primario para enviar información a un nodo secundario.
+<br>POLL: Empleadas por el nodo primario para sondear a los nodos secundarios.
+
+
+<br><br>
+<br>Sobrecarga o cuellos de botella si el nodo primario no puede manejar el tráfico de manera eficiente.
+<br>Fallo del nodo primario puede afectar toda la comunicación en la red.
+<br>Si el nodo primario falla, puede haber interrupción en la comunicación hasta que se establezca un mecanismo de recuperación.
+<br><br>
+<br>El nodo primario envía una trama POLL a cada nodo secundario de manera secuencial.
+<br>Cada nodo secundario, al ser sondeado, responde con un NACK si no tiene tramas que recibir o transmitir.
+<br>Cuando un nodo secundario tiene datos que transmitir, envía directamente la trama de información al nodo primario.
+<br>Cuando una trama de información llega al nodo primario, este envía una trama SEL al nodo secundario correspondiente para indicarle que transmita la trama de información de otro nodo secundario.
+<br><img alt="Captura de pantalla de 2024-07-04 18-34-28.png" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-34-28.png"><br><br><img alt="Captura de pantalla de 2024-07-04 18-34-58.png" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-34-58.png"><br><br>
+<br>También conocido como Token Ring o Token Bus, dependiendo de la topología física de los equipos.
+<br>Los nodos se organizan lógicamente formando un anillo.
+<br>El orden de los nodos en el anillo está predefinido.
+<br>En la red existe una trama especial llamada testigo (token).
+<br>Solo el nodo que posee el token puede transmitir.
+<br>El token se transmite por la red a nodos adyacentes siguiendo un orden específico.
+<br>Una estación no puede liberar el token hasta que éste le sea devuelto nuevamente.
+<br><img alt="youtube-video-gif.gif" src="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/youtube-video-gif.gif"><br><br><br>
+<br>Si el nodo no tiene datos que transmitir, pasa la trama de token al nodo adyacente.
+<br>Si el nodo tiene datos que transmitir, agrega los datos a la trama del token y la convierte en una trama de datos.
+<br><br>
+<br>Si el nodo es el emisor original de los datos:
+
+<br>Libera el token y transmite la trama al siguiente nodo en el anillo.
+
+
+<br>Si el nodo es el destinatario de la trama de datos:
+
+<br>Copia la trama en la memoria del nodo y luego la transmite al siguiente nodo en el anillo.
+
+
+<br>Si el nodo no es el destinatario de la trama de datos:
+
+<br>Reenvía la trama al nodo adyacente en el anillo.
+
+
+]]></description><link>tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/4.-acceso-controlado.html</link><guid isPermaLink="false">Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/4. Acceso Controlado.md</guid><pubDate>Thu, 04 Jul 2024 16:41:44 GMT</pubDate><enclosure url="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-32-07.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-32-07.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio]]></title><description><![CDATA[ 
+ <br><br>
+<br>A nivel de enlace, conocemos:
+
+<br>Que existen diferentes tipos de enlace: Punto a punto o difusión.
+<br>El formato que pueden seguir las tramas.
+<br>Los mecanismos para detectar errores.
+<br>Los mecanismos para corregir errores.
+<br>Cómo realizar una comunicación efectiva entre dos nodos.
+
+
+<br><br>
+<br>¿Qué ocurre cuando hay más nodos en el medio de transmisión?
+<br>Las tramas pueden colisionar entre ellas y no llegar correctamente a sus destinos.
+<br><a data-href="2. Acceso por Canales (repartición)" href="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/2.-acceso-por-canales-(repartición).html" class="internal-link" target="_self" rel="noopener">2. Acceso por Canales (repartición)</a><br>
+<a data-href="3. Acceso Aleatorio (compartición)" href="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/3.-acceso-aleatorio-(compartición).html" class="internal-link" target="_self" rel="noopener">3. Acceso Aleatorio (compartición)</a><br>
+<a data-href="4. Acceso Controlado" href="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/4.-acceso-controlado.html" class="internal-link" target="_self" rel="noopener">4. Acceso Controlado</a>]]></description><link>tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio.html</link><guid isPermaLink="false">Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio.md</guid><pubDate>Thu, 04 Jul 2024 17:16:50 GMT</pubDate></item><item><title><![CDATA[2. Topologías LAN]]></title><description><![CDATA[ 
+ <br><br>La topología se refiere a la propiedad que indica la forma física de la red y la manera en que se transmite la información en dicha red.<br><br><br>
+<br>Es la distribución física del cableado y la forma de interconexión con los dispositivos físicos.
+<br><br>
+<br>Es la forma en que circulan las tramas de un nodo a otro en la red.
+<br><br>
+<br>
+Bus: Todos los dispositivos están conectados a un solo cable de transmisión central.
+
+<br>
+Anillo: Los dispositivos están conectados en un anillo cerrado, donde cada dispositivo está conectado directamente a otros dos dispositivos formando un círculo.
+
+<br>
+Estrella: Todos los dispositivos están conectados a un punto central (hub o switch).
+
+<br>
+Árbol: Los dispositivos están organizados en una estructura jerárquica tipo árbol.
+
+<br>
+Malla: Cada dispositivo está conectado directamente a todos los demás dispositivos.
+
+<br>
+Híbrida: Combinación de dos o más topologías.
+
+<br><a data-href="2.1 Topologías Físicas" href="tema-14-redes-de-área-local/2.1-topologías-físicas.html" class="internal-link" target="_self" rel="noopener">2.1 Topologías Físicas</a><br>
+<a data-href="2.2 Topologías Lógicas" href="tema-14-redes-de-área-local/2.2-topologías-lógicas.html" class="internal-link" target="_self" rel="noopener">2.2 Topologías Lógicas</a>]]></description><link>tema-14-redes-de-área-local/2.-topologías-lan.html</link><guid isPermaLink="false">Tema 14 - Redes de Área Local/2. Topologías LAN.md</guid><pubDate>Thu, 04 Jul 2024 16:59:26 GMT</pubDate></item><item><title><![CDATA[2.1 Topologías Físicas]]></title><description><![CDATA[ 
+ <br><br>
+<br>Unidad mínima de topología física de red
+<br>Conexión entre dos dispositivos.
+<br>Utilizadas en redes LAN.
+<br><img alt="Captura de pantalla de 2024-07-04 18-48-43.png" src="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-48-43.png"><br><br>
+<br>Conexión de un dispositivo a varios dispositivos
+<br>Es una combinación de varios enlaces punto a punto.
+<br><img alt="Captura de pantalla de 2024-07-04 18-52-03.png" src="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-52-03.png">]]></description><link>tema-14-redes-de-área-local/2.1-topologías-físicas.html</link><guid isPermaLink="false">Tema 14 - Redes de Área Local/2.1 Topologías Físicas.md</guid><pubDate>Thu, 04 Jul 2024 16:59:08 GMT</pubDate><enclosure url="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-48-43.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-48-43.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.2 Topologías Lógicas]]></title><description><![CDATA[ 
+ <br><a data-href="2.2.1 Bus" href="tema-14-redes-de-área-local/2.2.1-bus.html" class="internal-link" target="_self" rel="noopener">2.2.1 Bus</a><br>
+<a data-href="2.2.2 Anillo" href="tema-14-redes-de-área-local/2.2.2-anillo.html" class="internal-link" target="_self" rel="noopener">2.2.2 Anillo</a><br>
+<a data-href="2.2.3 Estrella" href="tema-14-redes-de-área-local/2.2.3-estrella.html" class="internal-link" target="_self" rel="noopener">2.2.3 Estrella</a><br>
+<a data-href="2.2.4 Árbol" href="tema-14-redes-de-área-local/2.2.4-árbol.html" class="internal-link" target="_self" rel="noopener">2.2.4 Árbol</a><br>
+<a data-href="2.2.5 Malla" href="tema-14-redes-de-área-local/2.2.5-malla.html" class="internal-link" target="_self" rel="noopener">2.2.5 Malla</a><br>
+<a data-href="2.2.6 Híbrida" href="tema-14-redes-de-área-local/2.2.6-híbrida.html" class="internal-link" target="_self" rel="noopener">2.2.6 Híbrida</a>]]></description><link>tema-14-redes-de-área-local/2.2-topologías-lógicas.html</link><guid isPermaLink="false">Tema 14 - Redes de Área Local/2.2 Topologías Lógicas.md</guid><pubDate>Thu, 04 Jul 2024 17:13:03 GMT</pubDate></item><item><title><![CDATA[2.2.1 Bus]]></title><description><![CDATA[ 
+ <br>
+<br>Todos los dispositivos se unen mediante un único medio físico y continuo.
+<br>El medio tiene tomas de conexión para los dispositivos.
+<br>Los dispositivos tienen transceptores para unirse al medio.
+<br>Se utilizan impedancias en terminales del bus para evitar que las señales reboten.
+<br>La información se transmite SIEMPRE por broadcast.
+<br>La información viaja en ambos sentidos.
+<br>Se requieren métodos del Tema 13 para evitar colisiones.
+<br><img alt="Captura de pantalla de 2024-07-04 19-00-17.png" src="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-00-17.png"><br><br>
+<br>Bajo coste.
+<br>Sencillas de implementar.
+<br>Se requiere poca electrónica para conectar equipos.
+<br>Fácilmente ampliable.
+<br>Permite un número de dispositivos indeterminado.
+<br><br>
+<br>Sensibles a problemas de colisiones.
+<br>Roturas que pueden dejar sin conexión a equipos.
+]]></description><link>tema-14-redes-de-área-local/2.2.1-bus.html</link><guid isPermaLink="false">Tema 14 - Redes de Área Local/2.2.1 Bus.md</guid><pubDate>Thu, 04 Jul 2024 17:06:29 GMT</pubDate><enclosure url="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-00-17.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-00-17.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.2.2 Anillo]]></title><description><![CDATA[ 
+ <br>
+<br>Todos los dispositivos se unen físicamente unos con otros de forma consecutiva.
+<br>Cada dispositivo envía o transmite datos, pero no ambas cosas a la vez.
+<br>La información circula en una única dirección.
+<br>No hay un principio o final como en la topología tipo bus.
+<br>Existe una variante denominada en cadena (daisy chain).
+<br>Es una topología intermedia entre bus y anillo.
+<br><img alt="Captura de pantalla de 2024-07-04 19-01-55.png" src="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-01-55.png"><br><br>
+<br>Rápida localización de fallos.
+<br>Permiten más de un anillo → robustez.
+<br>La topología en anillo es más robusta que daisy chain.
+<br><br>
+<br>Fallo en un enlace provoca el fallo de todo el anillo (anillo simple).
+<br>La velocidad de transmisión se ve perjudicada por la repetición en cada dispositivo.
+]]></description><link>tema-14-redes-de-área-local/2.2.2-anillo.html</link><guid isPermaLink="false">Tema 14 - Redes de Área Local/2.2.2 Anillo.md</guid><pubDate>Thu, 04 Jul 2024 17:06:25 GMT</pubDate><enclosure url="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-01-55.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-01-55.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.2.3 Estrella]]></title><description><![CDATA[ 
+ <br>
+<br>Todos los dispositivos conectados a un nodo central.
+<br>El nodo central se denomina concentrador.
+<br>El concentrador puede ser un hub o un switch.
+<br>Cuando una trama llega a un concentrador hay dos formas de funcionamiento:
+
+<br>Repetidor (hub/switch): se comporta como topología tipo bus, transmite la trama a todos los equipos por broadcast.
+<br>Conmutación (switch): procesa la dirección MAC de origen y destino para activar y desactivar la línea y transmitir solo a un equipo.
+
+
+<br>Variante estrella extendida: múltiples concentradores anidados.
+<br><img alt="Captura de pantalla de 2024-07-04 19-03-40.png" src="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-03-40.png"><br><br>
+<br>Permite agregar y eliminar nodos sin complicación.
+<br>Fácil de administrar.
+<br>Fallos de nodos no afectan a la red.
+<br><br>
+<br>Punto de fallo en el concentrador.
+<br>Instalación costosa: requiere un cable (par trenzado) para cada equipo.
+<br>El hardware del concentrador puede ser un cuello de botella.
+<br>Usada en redes 10Base-T, Fast Ethernet y Gigabit Ethernet.
+]]></description><link>tema-14-redes-de-área-local/2.2.3-estrella.html</link><guid isPermaLink="false">Tema 14 - Redes de Área Local/2.2.3 Estrella.md</guid><pubDate>Thu, 04 Jul 2024 17:07:51 GMT</pubDate><enclosure url="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-03-40.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-03-40.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.2.4 Árbol]]></title><description><![CDATA[ 
+ <br>Mezcla entre topología de tipo bus y de estrella:<br>
+<br>Las ramas nacen de un nodo concentrador (estrella).
+<br>Las ramificaciones pueden ser redes de tipo bus o de estrella.
+<br>Existe jerarquía entre los niveles del árbol.
+<br>Se suelen identificar varias capas o niveles:
+
+<br>Núcleo.
+<br>Distribución.
+<br>Acceso.
+
+
+<br>Son empleadas comúnmente en sistemas de control.
+<br><img alt="Captura de pantalla de 2024-07-04 19-08-16.png" src="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-08-16.png"><br><br>
+<br>Ramas independientes.
+<br>Fácil localización de fallos.
+<br>Fácil extensión.
+<br><br>
+<br>Más compleja de administrar.
+<br>Más costosa en términos de hardware.
+<br>Requiere más mantenimiento.
+<br>Fallos en ramas pueden causar la caída de redes.
+]]></description><link>tema-14-redes-de-área-local/2.2.4-árbol.html</link><guid isPermaLink="false">Tema 14 - Redes de Área Local/2.2.4 Árbol.md</guid><pubDate>Thu, 04 Jul 2024 17:09:50 GMT</pubDate><enclosure url="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-08-16.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-08-16.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.2.5 Malla]]></title><description><![CDATA[ 
+ <br>
+<br>Todos los dispositivos están interconectados entre sí.
+<br>No existe ningún dispositivo central.
+<br>Dependiendo del tipo de conexión física:
+
+<br>Malla completa: Todos los dispositivos están conectados entre sí.
+<br>Malla parcial: Algunos dispositivos no están conectados directamente a todos los demás.
+
+
+<br>En una malla completa, la cantidad mínima de conexiones entre  nodos debe ser mayor o igual a .
+<br>No es muy común su uso en LAN; normalmente se utilizan en WAN debido a los caminos redundantes que proporcionan.
+<br><img alt="Captura de pantalla de 2024-07-04 19-12-16.png" src="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-12-16.png"><br><br>
+<br>Conexiones independientes entre dispositivos.
+<br>No hay problemas de congestión de tráfico en dispositivos.
+<br>Mayor privacidad y seguridad debido a la ausencia de broadcast para alcanzar dispositivos.
+<br>Si un dispositivo falla, el resto puede continuar comunicándose.
+<br><br>
+<br>Costosa en términos de instalación y mantenimiento.
+<br>Difícil de gestionar debido a la complejidad de las conexiones.
+<br>Requiere un mantenimiento más cuidadoso debido a la interconexión compleja.
+]]></description><link>tema-14-redes-de-área-local/2.2.5-malla.html</link><guid isPermaLink="false">Tema 14 - Redes de Área Local/2.2.5 Malla.md</guid><pubDate>Thu, 04 Jul 2024 17:12:38 GMT</pubDate><enclosure url="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-12-16.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-12-16.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2.2.6 Híbrida]]></title><description><![CDATA[ 
+ <br><br>
+<br>Flexibilidad al aprovechar las fortalezas de diferentes topologías.
+<br>Capacidad para manejar un número indeterminado de nodos.
+<br>Mejora en seguridad y privacidad debido a la configuración diversificada.
+<br>Tolerancia a fallos mejorada gracias a la redundancia proporcionada por la mezcla de topologías.
+<br><br>
+<br>Diseño y gestión altamente complejos debido a la combinación de varias topologías.
+<br>Costosa en términos de implementación y mantenimiento.
+<br>Cada sub-topología puede heredar desventajas individuales, sumando complejidad.
+<br>En resumen, una topología híbrida combina las ventajas de diversas estructuras de red, pero requiere un esfuerzo significativo en términos de planificación, implementación y mantenimiento.<br><img alt="Captura de pantalla de 2024-07-04 19-13-30.png" src="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-13-30.png">]]></description><link>tema-14-redes-de-área-local/2.2.6-híbrida.html</link><guid isPermaLink="false">Tema 14 - Redes de Área Local/2.2.6 Híbrida.md</guid><pubDate>Thu, 04 Jul 2024 17:13:56 GMT</pubDate><enclosure url="tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-13-30.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-13-30.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tema 14 - Redes de Área Local]]></title><description><![CDATA[ 
+ <br><br>Una red de área local (Local Area Network - LAN) es un conjunto de elementos tanto físicos como lógicos que proporcionan una interconexión entre dispositivos en un área privada y restringida.<br><br>
+<br>Campo de cobertura: No suele ser mayor de 1 km.
+<br>Velocidad de transmisión: Suele ser elevada, típicamente en Mbps (Megabits por segundo) o Gbps (Gigabits por segundo).
+<br>Pertenencia: Las LAN suelen pertenecer a una única organización.
+<br>Tasa de error: La tasa de error en las transmisiones suele ser muy baja.
+<br><a data-href="2. Topologías LAN" href="tema-14-redes-de-área-local/2.-topologías-lan.html" class="internal-link" target="_self" rel="noopener">2. Topologías LAN</a>]]></description><link>tema-14-redes-de-área-local/tema-14-redes-de-área-local.html</link><guid isPermaLink="false">Tema 14 - Redes de Área Local/Tema 14 - Redes de Área Local.md</guid><pubDate>Thu, 04 Jul 2024 16:45:43 GMT</pubDate></item><item><title><![CDATA[Formulario]]></title><description><![CDATA[ 
+ <br><br><a data-tooltip-position="top" aria-label="Tema 4 - Nivel Físico - Teoría de la Señal" data-href="Tema 4 - Nivel Físico - Teoría de la Señal" href="tema-4-nivel-físico-teoría-de-la-señal/tema-4-nivel-físico-teoría-de-la-señal.html" class="internal-link" target="_self" rel="noopener">Tema 4 - Nivel Físico - Teoría de la Señal</a><br><br>Teorema<br> Una función  es periódica si:  , donde  es el tiempo que tarda en repetirse la señal.<br><br>Periodo =&gt;  : Tiempo en segundo que tarda en  trascurrir un ciclo.<br>Frecuencia =&gt;  : Es la inversa del periodo, Número de ciclos de la señal por segundo.<br>Amplitud =&gt;  : Máximo valor de intensidad alcanzado por la señal en valor absoluto<br>Fase =&gt;  : Describe el desplazamiento de la onda con respecto a su posición en el tiempo 0<br>Longitud de Onda =&gt;  : Vincula la frecuencia () o periodo () de una señal con su velocidad de propagación en el medio.  <br>
+<br>
+<br>
+<br>Ancho de Banda =&gt; La anchura total del espectro, las frecuencias que compone una señal:<br>
+<br> 
+<br>
+<br><br>Perturbaciones en la transmisión<br>Atenuación =&gt;   (General) : Perdida de potencia de una señal a medida que aumenta la distancia<br>
+<br>Medios No Guiados =&gt; 
+<br>Medios Guiados =&gt;  
+<br>Ruido =&gt;  : Fenómeno de adición a la señal<br>
+<br> Potencia de la señal
+<br> Potencia del ruido
+<br><br>Límites de velocidad de datos<br>Sin presencia de ruido:<br>
+Teorema de Nyquist =&gt;  : Capacidad teórica máxima de un canal<br>
+<br> Ancho de banda
+<br> Número de niveles a representar, objetos de señalización
+<br>Con presencia de ruido:<br>
+Teorema de Shannon =&gt;  <br>Longitud de Bits =&gt;  : Similiar a la longintud de onda<br><br><br><a data-tooltip-position="top" aria-label="Tema 5 - Nivel Físico - Transmisión Digital" data-href="Tema 5 - Nivel Físico - Transmisión Digital" href="tema-5-nivel-físico-transmisión-digital/tema-5-nivel-físico-transmisión-digital.html" class="internal-link" target="_self" rel="noopener">Tema 5 - Nivel Físico - Transmisión Digital</a><br>Ruido de Cuantización =&gt; <br>
+<br>Siendo  el número de bits para los niveles de cuantización.
+<br><br><br><a data-tooltip-position="top" aria-label="Tema 6 - Nivel Físico - Transmisión Analógica" data-href="Tema 6 - Nivel Físico - Transmisión Analógica" href="tema-6-nivel-físico-transmisión-analógica/tema-6-nivel-físico-transmisión-analógica.html" class="internal-link" target="_self" rel="noopener">Tema 6 - Nivel Físico - Transmisión Analógica</a><br><br><br>Ancho de Banda :<br>ASK =&gt; <br>FSK =&gt; <br>PSK =&gt; <br>QAM =&gt; <br>Siendo :<br>
+<br> =&gt; la velocidad de transmisión.
+<br>  =&gt; relacionado con la frecuencia de filtrado =&gt; .
+<br> =&gt; el desplazamiento de la señal modulada respecto a la portadora 
+<br>=&gt;  
+<br> =&gt; la tasa de baudios =&gt; 
+<br> =&gt; número de bits por elemento de señal =&gt; 
+<br> =&gt; Número de elementos de señal
+<br><br><br>Ancho de Banda : <br>AM =&gt; <br>FM =&gt; <br>PM =&gt; <br>Siendo :<br>
+<br> =&gt; Ancho de banda de la señal a modular.
+<br> =&gt; Es el factor del que depende la técnica de modulación =&gt;  , 
+<br><br><br><a data-href="Tema 10 - Nivel de Enlace de Datos - Control de Flujo" href="tema-10-nivel-de-enlace-de-datos-control-de-flujo/tema-10-nivel-de-enlace-de-datos-control-de-flujo.html" class="internal-link" target="_self" rel="noopener">Tema 10 - Nivel de Enlace de Datos - Control de Flujo</a><br>Tiempo de Trama =&gt;  : <br>
+<br> es el número de bits de la trama
+<br> es la velocidad de transmisión de la trama
+<br>Tiempo de Propagación =&gt;  :<br>
+<br> es la distancia del enlace
+<br> es la velocidad de propagación 
+<br> en medios no guiados
+<br> en medios guiados
+<br>Longitud del enlace de bits =&gt; <br>Tiempo de propagación normalizado =&gt; :<br>
+<br>Si  enlace siempre infrautilizado
+<br>Si  enlace infrautilizado pero en largas distancias
+<br>Tiempo de  ciclos =&gt; <br><br>Tamaño de Ventana:<br>Ventana deslizante =&gt; <br>Eficiencia:<br>
+<br>
+Parada y Espera =&gt; 
+
+<br>
+Ventana Deslizante =&gt; 
+
+<br><br><br><a data-href="Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores.html" class="internal-link" target="_self" rel="noopener">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores</a><br>Cuantificación del Error =&gt;  <br>Número de Retransmisiones :<br>
+<br>ARQ - Parada y Espera =&gt;  = 
+<br>ARQ - Vuelta atras =&gt; 
+<br>ARQ - Rechazo Selectivo =&gt;  = 
+<br> es la probabilidad de que ocurra un error en la trama<br><br>Tamaño de Ventana<br>
+<br>ARQ - Vuelta Atras =&gt; 
+<br>ARQ - Rechazo Selectivo =&gt; 
+<br><br>Eficiencia :<br>
+<br>ARQ - Parada y Espera =&gt; 
+<br>ARQ - Vuelta Atras  :
+
+<br> -&gt; Siendo 
+<br> -&gt; Siendo 
+
+
+<br>ARQ - Rechazo Selectivo :
+
+<br> -&gt; Siendo 
+<br> -&gt; _Siendo 
+
+
+<br>]]></description><link>formulario.html</link><guid isPermaLink="false">Formulario.md</guid><pubDate>Thu, 04 Jul 2024 16:26:32 GMT</pubDate></item><item><title><![CDATA[Índice]]></title><description><![CDATA[ 
+ <br><a data-tooltip-position="top" aria-label="Tema 1 - Introducción a las Redes" data-href="Tema 1 - Introducción a las Redes" href="tema-1-introducción-a-las-redes/tema-1-introducción-a-las-redes.html" class="internal-link" target="_self" rel="noopener">Tema 1 - Introducción a las Redes</a><br>
+<a data-tooltip-position="top" aria-label="Tema 2 - Modelos de Redes" data-href="Tema 2 - Modelos de Redes" href="tema-2-modelos-de-redes/tema-2-modelos-de-redes.html" class="internal-link" target="_self" rel="noopener">Tema 2 - Modelos de Redes</a><br>
+<a data-tooltip-position="top" aria-label="Tema 3 - Nivel Físico - Herramientas de Transmisión" data-href="Tema 3 - Nivel Físico - Herramientas de Transmisión" href="tema-3-nivel-físico-herramientas-de-transmisión/tema-3-nivel-físico-herramientas-de-transmisión.html" class="internal-link" target="_self" rel="noopener">Tema 3 - Nivel Físico - Herramientas de Transmisión</a><br>
+<a data-tooltip-position="top" aria-label="Tema 4 - Nivel Físico - Teoría de la Señal" data-href="Tema 4 - Nivel Físico - Teoría de la Señal" href="tema-4-nivel-físico-teoría-de-la-señal/tema-4-nivel-físico-teoría-de-la-señal.html" class="internal-link" target="_self" rel="noopener">Tema 4 - Nivel Físico - Teoría de la Señal</a><br>
+<a data-tooltip-position="top" aria-label="Tema 5 - Nivel Físico - Transmisión Digital" data-href="Tema 5 - Nivel Físico - Transmisión Digital" href="tema-5-nivel-físico-transmisión-digital/tema-5-nivel-físico-transmisión-digital.html" class="internal-link" target="_self" rel="noopener">Tema 5 - Nivel Físico - Transmisión Digital</a><br>
+<a data-tooltip-position="top" aria-label="Tema 6 - Nivel Físico - Transmisión Analógica" data-href="Tema 6 - Nivel Físico - Transmisión Analógica" href="tema-6-nivel-físico-transmisión-analógica/tema-6-nivel-físico-transmisión-analógica.html" class="internal-link" target="_self" rel="noopener">Tema 6 - Nivel Físico - Transmisión Analógica</a><br>
+<a data-tooltip-position="top" aria-label="Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda" data-href="Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda" href="tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda.html" class="internal-link" target="_self" rel="noopener">Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda</a><br>
+<a data-href="Tema 8 - Nivel de Enlace de Datos - Introducción" href="tema-8-nivel-de-enlace-de-datos-introducción/tema-8-nivel-de-enlace-de-datos-introducción.html" class="internal-link" target="_self" rel="noopener">Tema 8 - Nivel de Enlace de Datos - Introducción</a><br>
+<a data-href="Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace" href="tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace.html" class="internal-link" target="_self" rel="noopener">Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace</a><br>
+<a data-href="Tema 10 - Nivel de Enlace de Datos - Control de Flujo" href="tema-10-nivel-de-enlace-de-datos-control-de-flujo/tema-10-nivel-de-enlace-de-datos-control-de-flujo.html" class="internal-link" target="_self" rel="noopener">Tema 10 - Nivel de Enlace de Datos - Control de Flujo</a><br>
+<a data-href="Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores" href="tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores.html" class="internal-link" target="_self" rel="noopener">Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores</a><br>
+<a data-href="Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos" href="tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos.html" class="internal-link" target="_self" rel="noopener">Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos</a><br>
+<a data-href="Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio" href="tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio.html" class="internal-link" target="_self" rel="noopener">Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio</a><br>
+<a data-href="Tema 14 - Redes de Área Local" href="tema-14-redes-de-área-local/tema-14-redes-de-área-local.html" class="internal-link" target="_self" rel="noopener">Tema 14 - Redes de Área Local</a><br><a data-href="Formulario" href="formulario.html" class="internal-link" target="_self" rel="noopener">Formulario</a>]]></description><link>índice.html</link><guid isPermaLink="false">Índice.md</guid><pubDate>Thu, 04 Jul 2024 17:15:11 GMT</pubDate></item></channel></rss>

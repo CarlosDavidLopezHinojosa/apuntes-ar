@@ -1,0 +1,2862 @@
+{
+  "vaultName": "AR",
+  "lastExport": 1720116606712,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Tema 1 - Introducción a las Redes/Imágenes/Captura de pantalla de 2024-06-23 20-20-34.png",
+    "Tema 1 - Introducción a las Redes/Imágenes/Captura de pantalla de 2024-06-23 20-24-45.png",
+    "Tema 1 - Introducción a las Redes/Imágenes/Captura de pantalla de 2024-06-23 20-29-22.png",
+    "Tema 1 - Introducción a las Redes/Imágenes/Captura de pantalla de 2024-06-23 20-34-26.png",
+    "Tema 1 - Introducción a las Redes/2. Generalidades.md",
+    "Tema 1 - Introducción a las Redes/3. Redes basadas en distancias.md",
+    "Tema 1 - Introducción a las Redes/4. Redes basadas en hasta donde llegan las comunicaciones.md",
+    "Tema 1 - Introducción a las Redes/5. Redes basadas en tipos de servicios.md",
+    "Tema 1 - Introducción a las Redes/Tema 1 - Introducción a las Redes.md",
+    "Tema 2 - Modelos de Redes/Imágenes/Captura de pantalla de 2024-07-01 17-32-44.png",
+    "Tema 2 - Modelos de Redes/Imágenes/Captura de pantalla de 2024-07-01 17-38-30.png",
+    "Tema 2 - Modelos de Redes/Imágenes/Captura de pantalla de 2024-07-01 17-42-40.png",
+    "Tema 2 - Modelos de Redes/Imágenes/Captura de pantalla de 2024-07-01 17-46-58.png",
+    "Tema 2 - Modelos de Redes/2. Modelo OSI.md",
+    "Tema 2 - Modelos de Redes/3. Modelo TCP-IP.md",
+    "Tema 2 - Modelos de Redes/4. Diferencias entre el los modelos OSI y TCP-IP.md",
+    "Tema 2 - Modelos de Redes/5. Problemas de Ambos Modelos.md",
+    "Tema 2 - Modelos de Redes/Tema 2 - Modelos de Redes.md",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 17-56-02.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-02-12.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-05-07.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-05-24.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-06-13.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-07-35.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-09-20.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-10-06.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-10-36.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-17-23.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-18-33.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-22-17.png",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/2. Medios Guiados.md",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/2.1 Par Trenzado.md",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/2.2 Coaxial.md",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/2.3 Fibra Óptica.md",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/3. Medios No Guiados.md",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/3.1 Antena Isotrópica o Omnidireccional.md",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/3.2 Antena Unidireccional.md",
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Tema 3 - Nivel Físico - Herramientas de Transmisión.md",
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 18-32-09.png",
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 18-39-50.png",
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 18-43-43.png",
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 18-57-26.png",
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 19-00-41.png",
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 19-29-06.png",
+    "Tema 4 - Nivel Físico - Teoría de la Señal/2. Nociones Básicas de la Señal.md",
+    "Tema 4 - Nivel Físico - Teoría de la Señal/3. Fundamentos de la Transmisión.md",
+    "Tema 4 - Nivel Físico - Teoría de la Señal/4. Perturbaciones en la transmisión.md",
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Tema 4 - Nivel Físico - Teoría de la Señal.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 08-43-47.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 08-51-59.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 08-56-06.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-03-58.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-30-56.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-34-56.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-35-20.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-40-36.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-44-04.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-50-50.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-56-37.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 11-06-52.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 11-14-35.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 11-15-44.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 16-35-22.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 16-44-48.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 17-06-09.png",
+    "Tema 5 - Nivel Físico - Transmisión Digital/2. Datos Digitales, Señales Digitales.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/2.1 Señales según la Polaridad del pulso.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/2.2 Señales según el Ancho del pulso.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/3. Códigos empleados en señales en Banda Base.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/3.1 Códigos de No retorno a cero.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/3.2 Binarios Multinivel.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/3.3 Códigos Bifase.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/4. Datos Analógicos, Señales Digitales.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/4.1 PCM.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/4.2 DM.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/5. Modos de transmisión digital.md",
+    "Tema 5 - Nivel Físico - Transmisión Digital/Tema 5 - Nivel Físico - Transmisión Digital.md",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 17-18-49.png",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 17-20-53.png",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 17-22-07.png",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 17-24-43.png",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 17-47-22.png",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 18-00-01.png",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 18-02-21.png",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/2. Datos Digitales, Señales Analógicas.md",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/2.1. ASK.md",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/2.2. FSK.md",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/2.3. PSK.md",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/2.4. QAM.md",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/3. Datos Analógicos, Señales Analógicas.md",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/3.1. AM.md",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/3.2. FM.md",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/3.3. PM.md",
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Tema 6 - Nivel Físico - Transmisión Analógica.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 18-57-51.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-02-53.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-03-14.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-04-15.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-10-37.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-11-34.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-18-01.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-19-35.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-23-32.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 20-08-49.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 20-12-46.png",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2. Multiplexación.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.1. FDM.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.2. WDM.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3 TDM.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3.1 TDM Estatico o Sincrono.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3.2 TDM Entrelazado.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3.3 TDM Dinámico o Asincrono.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/3. Espectro Expandido.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/3.1.  FHSS.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/3.2. DSSS.md",
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda.md",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 08-39-20.png",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 08-42-43.png",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 09-12-43.png",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 09-16-56.png",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 09-18-10.png",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 09-23-24.png",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/2. Definiciones.md",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/3. Tipos de Enlace.md",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/4. Funciones que Realiza la capa de enlace.md",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/5. Direcciones en el Enlace de Datos.md",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/6. Tarjeta de Interfaz de Red.md",
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Tema 8 - Nivel de Enlace de Datos - Introducción.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 09-27-37.png",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 09-51-57.png",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 10-08-14.png",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 10-20-13.png",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 10-22-53.png",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 10-29-14.png",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 11-19-48.png",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/2. Entramado.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3. Generación de Entramado.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.1 Byte Counting.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.2 Byte Stuffing.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.3 Bit Stuffing.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.4 Inserción de Violaciones.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/4. Gestión de Enlace.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/4.1 Protocolos Orientados a la Conexión.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/4.2 Protocolos No Orientados a la Conexión.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5. Servicios del Nivel de Enlace.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5.1 Servicios No Orientados a la Conexión Sin Acuse de Recibo.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5.2 Servicios No Orientados a la Conexión Con Acuse de Recibo.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5.3 Servicios Orientados a la Conexión Con Acuse de Recibo.md",
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace.md",
+    "Tema 10 - Nivel de Enlace de Datos - Control de Flujo/Imágenes/Captura de pantalla de 2024-07-03 12-38-51.png",
+    "Tema 10 - Nivel de Enlace de Datos - Control de Flujo/Imágenes/Captura de pantalla de 2024-07-03 13-57-53.png",
+    "Tema 10 - Nivel de Enlace de Datos - Control de Flujo/2. Parada y Espera.md",
+    "Tema 10 - Nivel de Enlace de Datos - Control de Flujo/3. Ventana Deslizante.md",
+    "Tema 10 - Nivel de Enlace de Datos - Control de Flujo/Tema 10 - Nivel de Enlace de Datos - Control de Flujo.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 14-05-00.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 14-05-38.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 14-11-36.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 14-16-30.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 15-46-22.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 15-57-35.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 16-18-47.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 16-39-49.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-04 16-11-37.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-04 16-55-34.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-04 16-57-50.png",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2. Detección de Errores.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2.1 Comprobación de Paridad.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2.2 Comprobación de Suma de Verificación.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2.3 Comprobación de Redundancia Cíclica.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3. Corrección de Errores.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.1 FEC - Paridad Bidimensional.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.2 FEC - Código Hamming.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.3 ARQ - Parada y Espera.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.4 ARQ - Vuelta Atrás.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.5 ARQ - Rechazo Selectivo.md",
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores.md",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-09-28.png",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-12-44.png",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-13-49.png",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-14-15.png",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-21-23.png",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-24-30.png",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-26-58.png",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-30-04.png",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/2. BSC.md",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/3. HDLC.md",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/4. PPP.md",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/5. LCP.md",
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos.md",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 17-58-37.png",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-02-38.png",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-04-29.png",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-06-59.png",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-09-31.png",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-10-23.png",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-12-05.png",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-32-07.png",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-34-28.png",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-34-58.png",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/youtube-video-gif.gif",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/2. Acceso por Canales (repartición).md",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/3. Acceso Aleatorio (compartición).md",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/3.1 Aloha Puro y Ranurado.md",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/3.2 CSMA.md",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/4. Acceso Controlado.md",
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio.md",
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 18-48-43.png",
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 18-52-03.png",
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-00-17.png",
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-01-55.png",
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-03-40.png",
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-08-16.png",
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-12-16.png",
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-13-30.png",
+    "Tema 14 - Redes de Área Local/2. Topologías LAN.md",
+    "Tema 14 - Redes de Área Local/2.1 Topologías Físicas.md",
+    "Tema 14 - Redes de Área Local/2.2 Topologías Lógicas.md",
+    "Tema 14 - Redes de Área Local/2.2.1 Bus.md",
+    "Tema 14 - Redes de Área Local/2.2.2 Anillo.md",
+    "Tema 14 - Redes de Área Local/2.2.3 Estrella.md",
+    "Tema 14 - Redes de Área Local/2.2.4 Árbol.md",
+    "Tema 14 - Redes de Área Local/2.2.5 Malla.md",
+    "Tema 14 - Redes de Área Local/2.2.6 Híbrida.md",
+    "Tema 14 - Redes de Área Local/Tema 14 - Redes de Área Local.md",
+    "Formulario.md",
+    "Índice.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Tema 1 - Introducción a las Redes/Imágenes/Captura de pantalla de 2024-06-23 20-20-34.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 118918,
+      "exportedPath": "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-20-34.png",
+      "dependencies": []
+    },
+    "Tema 1 - Introducción a las Redes/Imágenes/Captura de pantalla de 2024-06-23 20-24-45.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 256005,
+      "exportedPath": "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-24-45.png",
+      "dependencies": []
+    },
+    "Tema 1 - Introducción a las Redes/Imágenes/Captura de pantalla de 2024-06-23 20-29-22.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 42962,
+      "exportedPath": "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-29-22.png",
+      "dependencies": []
+    },
+    "Tema 1 - Introducción a las Redes/Imágenes/Captura de pantalla de 2024-06-23 20-34-26.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 56194,
+      "exportedPath": "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-34-26.png",
+      "dependencies": []
+    },
+    "Tema 1 - Introducción a las Redes/2. Generalidades.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1070,
+      "exportedPath": "tema-1-introducción-a-las-redes/2.-generalidades.html",
+      "dependencies": [
+        "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-20-34.png",
+        "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-24-45.png"
+      ]
+    },
+    "Tema 1 - Introducción a las Redes/3. Redes basadas en distancias.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 164,
+      "exportedPath": "tema-1-introducción-a-las-redes/3.-redes-basadas-en-distancias.html",
+      "dependencies": []
+    },
+    "Tema 1 - Introducción a las Redes/4. Redes basadas en hasta donde llegan las comunicaciones.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 399,
+      "exportedPath": "tema-1-introducción-a-las-redes/4.-redes-basadas-en-hasta-donde-llegan-las-comunicaciones.html",
+      "dependencies": [
+        "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-29-22.png"
+      ]
+    },
+    "Tema 1 - Introducción a las Redes/5. Redes basadas en tipos de servicios.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1022,
+      "exportedPath": "tema-1-introducción-a-las-redes/5.-redes-basadas-en-tipos-de-servicios.html",
+      "dependencies": [
+        "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-34-26.png"
+      ]
+    },
+    "Tema 1 - Introducción a las Redes/Tema 1 - Introducción a las Redes.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 161,
+      "exportedPath": "tema-1-introducción-a-las-redes/tema-1-introducción-a-las-redes.html",
+      "dependencies": []
+    },
+    "Tema 2 - Modelos de Redes/Imágenes/Captura de pantalla de 2024-07-01 17-32-44.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 43298,
+      "exportedPath": "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-32-44.png",
+      "dependencies": []
+    },
+    "Tema 2 - Modelos de Redes/Imágenes/Captura de pantalla de 2024-07-01 17-38-30.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 26902,
+      "exportedPath": "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-38-30.png",
+      "dependencies": []
+    },
+    "Tema 2 - Modelos de Redes/Imágenes/Captura de pantalla de 2024-07-01 17-42-40.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 69030,
+      "exportedPath": "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-42-40.png",
+      "dependencies": []
+    },
+    "Tema 2 - Modelos de Redes/Imágenes/Captura de pantalla de 2024-07-01 17-46-58.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 27066,
+      "exportedPath": "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-46-58.png",
+      "dependencies": []
+    },
+    "Tema 2 - Modelos de Redes/2. Modelo OSI.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 998,
+      "exportedPath": "tema-2-modelos-de-redes/2.-modelo-osi.html",
+      "dependencies": [
+        "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-32-44.png"
+      ]
+    },
+    "Tema 2 - Modelos de Redes/3. Modelo TCP-IP.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 699,
+      "exportedPath": "tema-2-modelos-de-redes/3.-modelo-tcp-ip.html",
+      "dependencies": [
+        "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-38-30.png"
+      ]
+    },
+    "Tema 2 - Modelos de Redes/4. Diferencias entre el los modelos OSI y TCP-IP.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 437,
+      "exportedPath": "tema-2-modelos-de-redes/4.-diferencias-entre-el-los-modelos-osi-y-tcp-ip.html",
+      "dependencies": [
+        "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-42-40.png"
+      ]
+    },
+    "Tema 2 - Modelos de Redes/5. Problemas de Ambos Modelos.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 582,
+      "exportedPath": "tema-2-modelos-de-redes/5.-problemas-de-ambos-modelos.html",
+      "dependencies": [
+        "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-46-58.png"
+      ]
+    },
+    "Tema 2 - Modelos de Redes/Tema 2 - Modelos de Redes.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 125,
+      "exportedPath": "tema-2-modelos-de-redes/tema-2-modelos-de-redes.html",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 17-56-02.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 319781,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-17-56-02.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-02-12.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 178679,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-02-12.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-05-07.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 81298,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-05-07.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-05-24.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 197558,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-05-24.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-06-13.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 292171,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-06-13.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-07-35.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 319575,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-07-35.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-09-20.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 250979,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-09-20.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-10-06.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 235233,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-10-06.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-10-36.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 312079,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-10-36.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-17-23.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 196766,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-17-23.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-18-33.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 292656,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-18-33.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Imágenes/Captura de pantalla de 2024-07-01 18-22-17.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 103812,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-22-17.png",
+      "dependencies": []
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/2. Medios Guiados.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 395,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/2.-medios-guiados.html",
+      "dependencies": [
+        "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-17-56-02.png"
+      ]
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/2.1 Par Trenzado.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 794,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/2.1-par-trenzado.html",
+      "dependencies": [
+        "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-02-12.png"
+      ]
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/2.2 Coaxial.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 518,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/2.2-coaxial.html",
+      "dependencies": [
+        "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-06-13.png",
+        "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-07-35.png"
+      ]
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/2.3 Fibra Óptica.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 404,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/2.3-fibra-óptica.html",
+      "dependencies": [
+        "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-09-20.png",
+        "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-10-06.png",
+        "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-10-36.png"
+      ]
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/3. Medios No Guiados.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1054,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/3.-medios-no-guiados.html",
+      "dependencies": [
+        "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-22-17.png"
+      ]
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/3.1 Antena Isotrópica o Omnidireccional.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 279,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/3.1-antena-isotrópica-o-omnidireccional.html",
+      "dependencies": [
+        "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-17-23.png"
+      ]
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/3.2 Antena Unidireccional.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 266,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/3.2-antena-unidireccional.html",
+      "dependencies": [
+        "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-18-33.png"
+      ]
+    },
+    "Tema 3 - Nivel Físico - Herramientas de Transmisión/Tema 3 - Nivel Físico - Herramientas de Transmisión.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 169,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/tema-3-nivel-físico-herramientas-de-transmisión.html",
+      "dependencies": []
+    },
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 18-32-09.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 77327,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-32-09.png",
+      "dependencies": []
+    },
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 18-39-50.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 21757,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-39-50.png",
+      "dependencies": []
+    },
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 18-43-43.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 25764,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-43-43.png",
+      "dependencies": []
+    },
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 18-57-26.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 125898,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-57-26.png",
+      "dependencies": []
+    },
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 19-00-41.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 49308,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-00-41.png",
+      "dependencies": []
+    },
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Imágenes/Captura de pantalla de 2024-07-01 19-29-06.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 54023,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-29-06.png",
+      "dependencies": []
+    },
+    "Tema 4 - Nivel Físico - Teoría de la Señal/2. Nociones Básicas de la Señal.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 817,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/2.-nociones-básicas-de-la-señal.html",
+      "dependencies": [
+        "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-32-09.png"
+      ]
+    },
+    "Tema 4 - Nivel Físico - Teoría de la Señal/3. Fundamentos de la Transmisión.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1423,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/3.-fundamentos-de-la-transmisión.html",
+      "dependencies": [
+        "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-39-50.png",
+        "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-43-43.png",
+        "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-57-26.png",
+        "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-00-41.png"
+      ]
+    },
+    "Tema 4 - Nivel Físico - Teoría de la Señal/4. Perturbaciones en la transmisión.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 129,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/4.-perturbaciones-en-la-transmisión.html",
+      "dependencies": [
+        "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-29-06.png"
+      ]
+    },
+    "Tema 4 - Nivel Físico - Teoría de la Señal/Tema 4 - Nivel Físico - Teoría de la Señal.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 118,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/tema-4-nivel-físico-teoría-de-la-señal.html",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 08-43-47.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 15321,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-43-47.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 08-51-59.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 19085,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-51-59.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 08-56-06.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 23755,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-56-06.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-03-58.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 93266,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-03-58.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-30-56.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 35829,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-30-56.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-34-56.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 35507,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-34-56.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-35-20.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 26749,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-35-20.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-40-36.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 50384,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-40-36.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-44-04.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 23806,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-44-04.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-50-50.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 94721,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-50-50.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 09-56-37.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 31101,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-56-37.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 11-06-52.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 71237,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-06-52.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 11-14-35.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 56620,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-14-35.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 11-15-44.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 52600,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-15-44.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 16-35-22.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 46533,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-35-22.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 16-44-48.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 298853,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-44-48.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Imágenes/Captura de pantalla de 2024-07-02 17-06-09.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 127426,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-17-06-09.png",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/2. Datos Digitales, Señales Digitales.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1040,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/2.-datos-digitales,-señales-digitales.html",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/2.1 Señales según la Polaridad del pulso.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1162,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/2.1-señales-según-la-polaridad-del-pulso.html",
+      "dependencies": [
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-43-47.png",
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-51-59.png",
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-56-06.png"
+      ]
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/2.2 Señales según el Ancho del pulso.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 303,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/2.2-señales-según-el-ancho-del-pulso.html",
+      "dependencies": [
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-03-58.png"
+      ]
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/3. Códigos empleados en señales en Banda Base.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1250,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/3.-códigos-empleados-en-señales-en-banda-base.html",
+      "dependencies": [
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-14-35.png",
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-15-44.png"
+      ]
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/3.1 Códigos de No retorno a cero.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 533,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/3.1-códigos-de-no-retorno-a-cero.html",
+      "dependencies": [
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-30-56.png",
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-35-20.png",
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-40-36.png"
+      ]
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/3.2 Binarios Multinivel.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1054,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/3.2-binarios-multinivel.html",
+      "dependencies": [
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-44-04.png",
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-50-50.png",
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-56-37.png"
+      ]
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/3.3 Códigos Bifase.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 462,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/3.3-códigos-bifase.html",
+      "dependencies": [
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-06-52.png"
+      ]
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/4. Datos Analógicos, Señales Digitales.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 405,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/4.-datos-analógicos,-señales-digitales.html",
+      "dependencies": []
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/4.1 PCM.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 234,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/4.1-pcm.html",
+      "dependencies": [
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-35-22.png"
+      ]
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/4.2 DM.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 438,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/4.2-dm.html",
+      "dependencies": [
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-44-48.png"
+      ]
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/5. Modos de transmisión digital.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 574,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/5.-modos-de-transmisión-digital.html",
+      "dependencies": [
+        "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-17-06-09.png"
+      ]
+    },
+    "Tema 5 - Nivel Físico - Transmisión Digital/Tema 5 - Nivel Físico - Transmisión Digital.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 177,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/tema-5-nivel-físico-transmisión-digital.html",
+      "dependencies": []
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 17-18-49.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 39771,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-18-49.png",
+      "dependencies": []
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 17-20-53.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 104328,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-20-53.png",
+      "dependencies": []
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 17-22-07.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 54917,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-22-07.png",
+      "dependencies": []
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 17-24-43.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 49885,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-24-43.png",
+      "dependencies": []
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 17-47-22.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 75613,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-47-22.png",
+      "dependencies": []
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 18-00-01.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 71923,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-00-01.png",
+      "dependencies": []
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Imágenes/Captura de pantalla de 2024-07-02 18-02-21.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 70484,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-02-21.png",
+      "dependencies": []
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/2. Datos Digitales, Señales Analógicas.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 386,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/2.-datos-digitales,-señales-analógicas.html",
+      "dependencies": []
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/2.1. ASK.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 276,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/2.1.-ask.html",
+      "dependencies": [
+        "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-18-49.png"
+      ]
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/2.2. FSK.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 310,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/2.2.-fsk.html",
+      "dependencies": [
+        "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-20-53.png"
+      ]
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/2.3. PSK.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 388,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/2.3.-psk.html",
+      "dependencies": [
+        "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-22-07.png"
+      ]
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/2.4. QAM.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 347,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/2.4.-qam.html",
+      "dependencies": [
+        "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-24-43.png"
+      ]
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/3. Datos Analógicos, Señales Analógicas.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 432,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/3.-datos-analógicos,-señales-analógicas.html",
+      "dependencies": []
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/3.1. AM.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 288,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/3.1.-am.html",
+      "dependencies": [
+        "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-47-22.png"
+      ]
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/3.2. FM.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 358,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/3.2.-fm.html",
+      "dependencies": [
+        "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-00-01.png"
+      ]
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/3.3. PM.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 357,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/3.3.-pm.html",
+      "dependencies": [
+        "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-02-21.png"
+      ]
+    },
+    "Tema 6 - Nivel Físico - Transmisión Analógica/Tema 6 - Nivel Físico - Transmisión Analógica.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 92,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/tema-6-nivel-físico-transmisión-analógica.html",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 18-57-51.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 26474,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-18-57-51.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-02-53.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 86339,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-02-53.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-03-14.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 74229,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-03-14.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-04-15.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 36192,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-04-15.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-10-37.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 13973,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-10-37.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-11-34.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 19652,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-11-34.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-18-01.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 121813,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-18-01.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-19-35.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 116923,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-19-35.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 19-23-32.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 191855,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-23-32.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 20-08-49.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 70873,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-08-49.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Imágenes/Captura de pantalla de 2024-07-02 20-12-46.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 92315,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-12-46.png",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2. Multiplexación.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 870,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.-multiplexación.html",
+      "dependencies": [
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-18-57-51.png"
+      ]
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.1. FDM.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1890,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.1.-fdm.html",
+      "dependencies": [
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-04-15.png",
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-02-53.png",
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-03-14.png"
+      ]
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.2. WDM.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 618,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.2.-wdm.html",
+      "dependencies": [
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-10-37.png"
+      ]
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3 TDM.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1257,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3-tdm.html",
+      "dependencies": [
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-11-34.png"
+      ]
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3.1 TDM Estatico o Sincrono.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 451,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3.1-tdm-estatico-o-sincrono.html",
+      "dependencies": [
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-18-01.png"
+      ]
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3.2 TDM Entrelazado.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 456,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3.2-tdm-entrelazado.html",
+      "dependencies": [
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-19-35.png"
+      ]
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/2.3.3 TDM Dinámico o Asincrono.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 603,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/2.3.3-tdm-dinámico-o-asincrono.html",
+      "dependencies": [
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-23-32.png"
+      ]
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/3. Espectro Expandido.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1211,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/3.-espectro-expandido.html",
+      "dependencies": []
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/3.1.  FHSS.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1146,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/3.1.-fhss.html",
+      "dependencies": [
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-08-49.png"
+      ]
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/3.2. DSSS.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 612,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/3.2.-dsss.html",
+      "dependencies": [
+        "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-12-46.png"
+      ]
+    },
+    "Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda/Tema 7 - Nivel Físico - Técnicas de Aprovechamiento del Ancho de Banda.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 52,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda.html",
+      "dependencies": []
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 08-39-20.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 58007,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-39-20.png",
+      "dependencies": []
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 08-42-43.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 71042,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-42-43.png",
+      "dependencies": []
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 09-12-43.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 93959,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-12-43.png",
+      "dependencies": []
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 09-16-56.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 58389,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-16-56.png",
+      "dependencies": []
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 09-18-10.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 35196,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-18-10.png",
+      "dependencies": []
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Imágenes/Captura de pantalla de 2024-07-03 09-23-24.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 37085,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-23-24.png",
+      "dependencies": []
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/2. Definiciones.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 556,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/2.-definiciones.html",
+      "dependencies": [
+        "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-42-43.png"
+      ]
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/3. Tipos de Enlace.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 809,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/3.-tipos-de-enlace.html",
+      "dependencies": []
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/4. Funciones que Realiza la capa de enlace.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 2392,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/4.-funciones-que-realiza-la-capa-de-enlace.html",
+      "dependencies": []
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/5. Direcciones en el Enlace de Datos.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1047,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/5.-direcciones-en-el-enlace-de-datos.html",
+      "dependencies": [
+        "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-12-43.png",
+        "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-16-56.png",
+        "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-18-10.png"
+      ]
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/6. Tarjeta de Interfaz de Red.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 684,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/6.-tarjeta-de-interfaz-de-red.html",
+      "dependencies": [
+        "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-23-24.png"
+      ]
+    },
+    "Tema 8 - Nivel de Enlace de Datos - Introducción/Tema 8 - Nivel de Enlace de Datos - Introducción.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 756,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/tema-8-nivel-de-enlace-de-datos-introducción.html",
+      "dependencies": [
+        "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-39-20.png"
+      ]
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 09-27-37.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 51798,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-27-37.png",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 09-51-57.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 32035,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-51-57.png",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 10-08-14.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 74620,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-08-14.png",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 10-20-13.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 55981,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-20-13.png",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 10-22-53.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 60126,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-22-53.png",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 10-29-14.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 45549,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-29-14.png",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Imágenes/Captura de pantalla de 2024-07-03 11-19-48.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 74357,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-11-19-48.png",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/2. Entramado.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1357,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/2.-entramado.html",
+      "dependencies": [
+        "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-51-57.png"
+      ]
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3. Generación de Entramado.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 247,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.-generación-de-entramado.html",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.1 Byte Counting.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 506,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.1-byte-counting.html",
+      "dependencies": [
+        "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-08-14.png"
+      ]
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.2 Byte Stuffing.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 661,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.2-byte-stuffing.html",
+      "dependencies": [
+        "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-20-13.png"
+      ]
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.3 Bit Stuffing.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 596,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.3-bit-stuffing.html",
+      "dependencies": [
+        "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-22-53.png"
+      ]
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/3.4 Inserción de Violaciones.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 829,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/3.4-inserción-de-violaciones.html",
+      "dependencies": [
+        "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-29-14.png"
+      ]
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/4. Gestión de Enlace.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 550,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/4.-gestión-de-enlace.html",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/4.1 Protocolos Orientados a la Conexión.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 602,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/4.1-protocolos-orientados-a-la-conexión.html",
+      "dependencies": [
+        "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-11-19-48.png"
+      ]
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/4.2 Protocolos No Orientados a la Conexión.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 348,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/4.2-protocolos-no-orientados-a-la-conexión.html",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5. Servicios del Nivel de Enlace.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 584,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.-servicios-del-nivel-de-enlace.html",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5.1 Servicios No Orientados a la Conexión Sin Acuse de Recibo.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 507,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.1-servicios-no-orientados-a-la-conexión-sin-acuse-de-recibo.html",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5.2 Servicios No Orientados a la Conexión Con Acuse de Recibo.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 346,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.2-servicios-no-orientados-a-la-conexión-con-acuse-de-recibo.html",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/5.3 Servicios Orientados a la Conexión Con Acuse de Recibo.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 207,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/5.3-servicios-orientados-a-la-conexión-con-acuse-de-recibo.html",
+      "dependencies": []
+    },
+    "Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace/Tema 9 - Nivel de Enlace de Datos - Entramado y Gestión del Enlace.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 495,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace.html",
+      "dependencies": [
+        "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-27-37.png"
+      ]
+    },
+    "Tema 10 - Nivel de Enlace de Datos - Control de Flujo/Imágenes/Captura de pantalla de 2024-07-03 12-38-51.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 70812,
+      "exportedPath": "tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-12-38-51.png",
+      "dependencies": []
+    },
+    "Tema 10 - Nivel de Enlace de Datos - Control de Flujo/Imágenes/Captura de pantalla de 2024-07-03 13-57-53.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 81811,
+      "exportedPath": "tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-13-57-53.png",
+      "dependencies": []
+    },
+    "Tema 10 - Nivel de Enlace de Datos - Control de Flujo/2. Parada y Espera.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 630,
+      "exportedPath": "tema-10-nivel-de-enlace-de-datos-control-de-flujo/2.-parada-y-espera.html",
+      "dependencies": [
+        "tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-12-38-51.png"
+      ]
+    },
+    "Tema 10 - Nivel de Enlace de Datos - Control de Flujo/3. Ventana Deslizante.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1293,
+      "exportedPath": "tema-10-nivel-de-enlace-de-datos-control-de-flujo/3.-ventana-deslizante.html",
+      "dependencies": [
+        "tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-13-57-53.png"
+      ]
+    },
+    "Tema 10 - Nivel de Enlace de Datos - Control de Flujo/Tema 10 - Nivel de Enlace de Datos - Control de Flujo.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 743,
+      "exportedPath": "tema-10-nivel-de-enlace-de-datos-control-de-flujo/tema-10-nivel-de-enlace-de-datos-control-de-flujo.html",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 14-05-00.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 38888,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-00.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 14-05-38.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 92870,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-38.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 14-11-36.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 40673,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-11-36.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 14-16-30.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 43161,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-16-30.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 15-46-22.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 141693,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-46-22.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 15-57-35.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 110908,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-57-35.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 16-18-47.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 121950,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-18-47.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-03 16-39-49.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 41296,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-39-49.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-04 16-11-37.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 70342,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-11-37.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-04 16-55-34.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 75486,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-55-34.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Imágenes/Captura de pantalla de 2024-07-04 16-57-50.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 67367,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-57-50.png",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2. Detección de Errores.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 181,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.-detección-de-errores.html",
+      "dependencies": [
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-11-36.png"
+      ]
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2.1 Comprobación de Paridad.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 392,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.1-comprobación-de-paridad.html",
+      "dependencies": [
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-16-30.png"
+      ]
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2.2 Comprobación de Suma de Verificación.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 804,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.2-comprobación-de-suma-de-verificación.html",
+      "dependencies": [
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-46-22.png"
+      ]
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/2.3 Comprobación de Redundancia Cíclica.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 919,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/2.3-comprobación-de-redundancia-cíclica.html",
+      "dependencies": [
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-57-35.png"
+      ]
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3. Corrección de Errores.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 547,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.-corrección-de-errores.html",
+      "dependencies": []
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.1 FEC - Paridad Bidimensional.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 635,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.1-fec-paridad-bidimensional.html",
+      "dependencies": [
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-18-47.png"
+      ]
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.2 FEC - Código Hamming.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1581,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.2-fec-código-hamming.html",
+      "dependencies": [
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-39-49.png"
+      ]
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.3 ARQ - Parada y Espera.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 652,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.3-arq-parada-y-espera.html",
+      "dependencies": [
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-11-37.png"
+      ]
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.4 ARQ - Vuelta Atrás.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 712,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.4-arq-vuelta-atrás.html",
+      "dependencies": [
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-55-34.png"
+      ]
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/3.5 ARQ - Rechazo Selectivo.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 670,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/3.5-arq-rechazo-selectivo.html",
+      "dependencies": [
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-57-50.png"
+      ]
+    },
+    "Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores/Tema 11 - Nivel de Enlace de Datos - Detección y Corrección de Errores.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 942,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores.html",
+      "dependencies": [
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-00.png",
+        "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-38.png"
+      ]
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-09-28.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 353427,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-09-28.png",
+      "dependencies": []
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-12-44.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 60353,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-12-44.png",
+      "dependencies": []
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-13-49.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 97587,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-13-49.png",
+      "dependencies": []
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-14-15.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 65947,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-14-15.png",
+      "dependencies": []
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-21-23.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 64444,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-21-23.png",
+      "dependencies": []
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-24-30.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 131156,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-24-30.png",
+      "dependencies": []
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-26-58.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 36184,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-26-58.png",
+      "dependencies": []
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Imágenes/Captura de pantalla de 2024-07-04 17-30-04.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 58494,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-30-04.png",
+      "dependencies": []
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/2. BSC.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 889,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/2.-bsc.html",
+      "dependencies": [
+        "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-09-28.png",
+        "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-12-44.png",
+        "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-13-49.png",
+        "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-14-15.png"
+      ]
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/3. HDLC.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1105,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/3.-hdlc.html",
+      "dependencies": [
+        "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-21-23.png",
+        "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-24-30.png"
+      ]
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/4. PPP.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 843,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/4.-ppp.html",
+      "dependencies": [
+        "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-26-58.png"
+      ]
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/5. LCP.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 815,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/5.-lcp.html",
+      "dependencies": [
+        "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-30-04.png"
+      ]
+    },
+    "Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos/Tema 12 - Nivel de Enlace de Datos - Protocolos de Enlace de Datos.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 567,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos.html",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 17-58-37.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 15730,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-17-58-37.png",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-02-38.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 49037,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-02-38.png",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-04-29.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 125752,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-04-29.png",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-06-59.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 136286,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-06-59.png",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-09-31.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 43130,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-09-31.png",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-10-23.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 57176,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-10-23.png",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-12-05.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 121543,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-12-05.png",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-32-07.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 68042,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-32-07.png",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-34-28.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 160914,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-34-28.png",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/Captura de pantalla de 2024-07-04 18-34-58.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 54512,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-34-58.png",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Imágenes/youtube-video-gif.gif": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 411489,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/youtube-video-gif.gif",
+      "dependencies": []
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/2. Acceso por Canales (repartición).md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 2041,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/2.-acceso-por-canales-(repartición).html",
+      "dependencies": [
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-17-58-37.png"
+      ]
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/3. Acceso Aleatorio (compartición).md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 996,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/3.-acceso-aleatorio-(compartición).html",
+      "dependencies": [
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-02-38.png"
+      ]
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/3.1 Aloha Puro y Ranurado.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 780,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/3.1-aloha-puro-y-ranurado.html",
+      "dependencies": [
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-04-29.png",
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-06-59.png"
+      ]
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/3.2 CSMA.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 2759,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/3.2-csma.html",
+      "dependencies": [
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-09-31.png",
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-10-23.png",
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-12-05.png"
+      ]
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/4. Acceso Controlado.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 4337,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/4.-acceso-controlado.html",
+      "dependencies": [
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-32-07.png",
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-34-28.png",
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-34-58.png",
+        "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/youtube-video-gif.gif"
+      ]
+    },
+    "Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio/Tema 13 - Nivel de Enlace de Datos - Control de Acceso al Medio.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 591,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio.html",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 18-48-43.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 41610,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-48-43.png",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 18-52-03.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 48666,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-52-03.png",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-00-17.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 98020,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-00-17.png",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-01-55.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 60170,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-01-55.png",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-03-40.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 87213,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-03-40.png",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-08-16.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 84852,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-08-16.png",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-12-16.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 144174,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-12-16.png",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/Imágenes/Captura de pantalla de 2024-07-04 19-13-30.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 80328,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-13-30.png",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/2. Topologías LAN.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1122,
+      "exportedPath": "tema-14-redes-de-área-local/2.-topologías-lan.html",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/2.1 Topologías Físicas.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 370,
+      "exportedPath": "tema-14-redes-de-área-local/2.1-topologías-físicas.html",
+      "dependencies": [
+        "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-48-43.png",
+        "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-52-03.png"
+      ]
+    },
+    "Tema 14 - Redes de Área Local/2.2 Topologías Lógicas.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 109,
+      "exportedPath": "tema-14-redes-de-área-local/2.2-topologías-lógicas.html",
+      "dependencies": []
+    },
+    "Tema 14 - Redes de Área Local/2.2.1 Bus.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 795,
+      "exportedPath": "tema-14-redes-de-área-local/2.2.1-bus.html",
+      "dependencies": [
+        "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-00-17.png"
+      ]
+    },
+    "Tema 14 - Redes de Área Local/2.2.2 Anillo.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 767,
+      "exportedPath": "tema-14-redes-de-área-local/2.2.2-anillo.html",
+      "dependencies": [
+        "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-01-55.png"
+      ]
+    },
+    "Tema 14 - Redes de Área Local/2.2.3 Estrella.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 993,
+      "exportedPath": "tema-14-redes-de-área-local/2.2.3-estrella.html",
+      "dependencies": [
+        "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-03-40.png"
+      ]
+    },
+    "Tema 14 - Redes de Área Local/2.2.4 Árbol.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 708,
+      "exportedPath": "tema-14-redes-de-área-local/2.2.4-árbol.html",
+      "dependencies": [
+        "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-08-16.png"
+      ]
+    },
+    "Tema 14 - Redes de Área Local/2.2.5 Malla.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1117,
+      "exportedPath": "tema-14-redes-de-área-local/2.2.5-malla.html",
+      "dependencies": [
+        "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-12-16.png"
+      ]
+    },
+    "Tema 14 - Redes de Área Local/2.2.6 Híbrida.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 828,
+      "exportedPath": "tema-14-redes-de-área-local/2.2.6-híbrida.html",
+      "dependencies": [
+        "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-13-30.png"
+      ]
+    },
+    "Tema 14 - Redes de Área Local/Tema 14 - Redes de Área Local.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 613,
+      "exportedPath": "tema-14-redes-de-área-local/tema-14-redes-de-área-local.html",
+      "dependencies": []
+    },
+    "Formulario.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 5612,
+      "exportedPath": "formulario.html",
+      "dependencies": []
+    },
+    "Índice.md": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1137,
+      "exportedPath": "índice.html",
+      "dependencies": []
+    },
+    "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-20-34.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 118918,
+      "exportedPath": "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-20-34.png",
+      "dependencies": []
+    },
+    "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-24-45.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 256005,
+      "exportedPath": "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-24-45.png",
+      "dependencies": []
+    },
+    "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-29-22.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 42962,
+      "exportedPath": "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-29-22.png",
+      "dependencies": []
+    },
+    "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-34-26.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 56194,
+      "exportedPath": "tema-1-introducción-a-las-redes/imágenes/captura-de-pantalla-de-2024-06-23-20-34-26.png",
+      "dependencies": []
+    },
+    "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-32-44.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 43298,
+      "exportedPath": "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-32-44.png",
+      "dependencies": []
+    },
+    "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-38-30.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 26902,
+      "exportedPath": "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-38-30.png",
+      "dependencies": []
+    },
+    "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-42-40.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 69030,
+      "exportedPath": "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-42-40.png",
+      "dependencies": []
+    },
+    "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-46-58.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 27066,
+      "exportedPath": "tema-2-modelos-de-redes/imágenes/captura-de-pantalla-de-2024-07-01-17-46-58.png",
+      "dependencies": []
+    },
+    "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-17-56-02.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 319781,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-17-56-02.png",
+      "dependencies": []
+    },
+    "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-02-12.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 178679,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-02-12.png",
+      "dependencies": []
+    },
+    "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-06-13.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 292171,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-06-13.png",
+      "dependencies": []
+    },
+    "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-07-35.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 319575,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-07-35.png",
+      "dependencies": []
+    },
+    "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-09-20.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 250979,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-09-20.png",
+      "dependencies": []
+    },
+    "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-10-06.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 235233,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-10-06.png",
+      "dependencies": []
+    },
+    "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-10-36.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 312079,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-10-36.png",
+      "dependencies": []
+    },
+    "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-22-17.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 103812,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-22-17.png",
+      "dependencies": []
+    },
+    "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-17-23.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 196766,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-17-23.png",
+      "dependencies": []
+    },
+    "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-18-33.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 292656,
+      "exportedPath": "tema-3-nivel-físico-herramientas-de-transmisión/imágenes/captura-de-pantalla-de-2024-07-01-18-18-33.png",
+      "dependencies": []
+    },
+    "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-32-09.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 77327,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-32-09.png",
+      "dependencies": []
+    },
+    "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-39-50.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 21757,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-39-50.png",
+      "dependencies": []
+    },
+    "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-43-43.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 25764,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-43-43.png",
+      "dependencies": []
+    },
+    "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-57-26.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 125898,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-18-57-26.png",
+      "dependencies": []
+    },
+    "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-00-41.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 49308,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-00-41.png",
+      "dependencies": []
+    },
+    "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-29-06.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 54023,
+      "exportedPath": "tema-4-nivel-físico-teoría-de-la-señal/imágenes/captura-de-pantalla-de-2024-07-01-19-29-06.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-43-47.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 15321,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-43-47.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-51-59.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 19085,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-51-59.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-56-06.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 23755,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-08-56-06.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-03-58.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 93266,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-03-58.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-14-35.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 56620,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-14-35.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-15-44.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 52600,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-15-44.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-30-56.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 35829,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-30-56.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-35-20.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 26749,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-35-20.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-40-36.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 50384,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-40-36.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-44-04.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 23806,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-44-04.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-50-50.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 94721,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-50-50.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-56-37.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 31101,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-09-56-37.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-06-52.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 71237,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-11-06-52.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-35-22.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 46533,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-35-22.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-44-48.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 298853,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-16-44-48.png",
+      "dependencies": []
+    },
+    "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-17-06-09.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 127426,
+      "exportedPath": "tema-5-nivel-físico-transmisión-digital/imágenes/captura-de-pantalla-de-2024-07-02-17-06-09.png",
+      "dependencies": []
+    },
+    "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-18-49.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 39771,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-18-49.png",
+      "dependencies": []
+    },
+    "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-20-53.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 104328,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-20-53.png",
+      "dependencies": []
+    },
+    "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-22-07.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 54917,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-22-07.png",
+      "dependencies": []
+    },
+    "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-24-43.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 49885,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-24-43.png",
+      "dependencies": []
+    },
+    "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-47-22.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 75613,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-17-47-22.png",
+      "dependencies": []
+    },
+    "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-00-01.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 71923,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-00-01.png",
+      "dependencies": []
+    },
+    "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-02-21.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 70484,
+      "exportedPath": "tema-6-nivel-físico-transmisión-analógica/imágenes/captura-de-pantalla-de-2024-07-02-18-02-21.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-18-57-51.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 26474,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-18-57-51.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-04-15.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 36192,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-04-15.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-02-53.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 86339,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-02-53.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-03-14.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 74229,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-03-14.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-10-37.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 13973,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-10-37.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-11-34.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 19652,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-11-34.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-18-01.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 121813,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-18-01.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-19-35.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 116923,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-19-35.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-23-32.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 191855,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-19-23-32.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-08-49.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 70873,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-08-49.png",
+      "dependencies": []
+    },
+    "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-12-46.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 92315,
+      "exportedPath": "tema-7-nivel-físico-técnicas-de-aprovechamiento-del-ancho-de-banda/imágenes/captura-de-pantalla-de-2024-07-02-20-12-46.png",
+      "dependencies": []
+    },
+    "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-42-43.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 71042,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-42-43.png",
+      "dependencies": []
+    },
+    "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-12-43.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 93959,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-12-43.png",
+      "dependencies": []
+    },
+    "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-16-56.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 58389,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-16-56.png",
+      "dependencies": []
+    },
+    "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-18-10.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 35196,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-18-10.png",
+      "dependencies": []
+    },
+    "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-23-24.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 37085,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-09-23-24.png",
+      "dependencies": []
+    },
+    "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-39-20.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 58007,
+      "exportedPath": "tema-8-nivel-de-enlace-de-datos-introducción/imágenes/captura-de-pantalla-de-2024-07-03-08-39-20.png",
+      "dependencies": []
+    },
+    "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-51-57.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 32035,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-51-57.png",
+      "dependencies": []
+    },
+    "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-08-14.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 74620,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-08-14.png",
+      "dependencies": []
+    },
+    "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-20-13.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 55981,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-20-13.png",
+      "dependencies": []
+    },
+    "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-22-53.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 60126,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-22-53.png",
+      "dependencies": []
+    },
+    "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-29-14.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 45549,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-10-29-14.png",
+      "dependencies": []
+    },
+    "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-11-19-48.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 74357,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-11-19-48.png",
+      "dependencies": []
+    },
+    "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-27-37.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 51798,
+      "exportedPath": "tema-9-nivel-de-enlace-de-datos-entramado-y-gestión-del-enlace/imágenes/captura-de-pantalla-de-2024-07-03-09-27-37.png",
+      "dependencies": []
+    },
+    "tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-12-38-51.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 70812,
+      "exportedPath": "tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-12-38-51.png",
+      "dependencies": []
+    },
+    "tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-13-57-53.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 81811,
+      "exportedPath": "tema-10-nivel-de-enlace-de-datos-control-de-flujo/imágenes/captura-de-pantalla-de-2024-07-03-13-57-53.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-11-36.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 40673,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-11-36.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-16-30.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 43161,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-16-30.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-46-22.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 141693,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-46-22.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-57-35.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 110908,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-15-57-35.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-18-47.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 121950,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-18-47.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-39-49.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 41296,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-16-39-49.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-11-37.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 70342,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-11-37.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-55-34.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 75486,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-55-34.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-57-50.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 67367,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-04-16-57-50.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-00.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 38888,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-00.png",
+      "dependencies": []
+    },
+    "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-38.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 92870,
+      "exportedPath": "tema-11-nivel-de-enlace-de-datos-detección-y-corrección-de-errores/imágenes/captura-de-pantalla-de-2024-07-03-14-05-38.png",
+      "dependencies": []
+    },
+    "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-09-28.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 353427,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-09-28.png",
+      "dependencies": []
+    },
+    "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-12-44.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 60353,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-12-44.png",
+      "dependencies": []
+    },
+    "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-13-49.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 97587,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-13-49.png",
+      "dependencies": []
+    },
+    "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-14-15.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 65947,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-14-15.png",
+      "dependencies": []
+    },
+    "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-21-23.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 64444,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-21-23.png",
+      "dependencies": []
+    },
+    "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-24-30.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 131156,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-24-30.png",
+      "dependencies": []
+    },
+    "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-26-58.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 36184,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-26-58.png",
+      "dependencies": []
+    },
+    "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-30-04.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 58494,
+      "exportedPath": "tema-12-nivel-de-enlace-de-datos-protocolos-de-enlace-de-datos/imágenes/captura-de-pantalla-de-2024-07-04-17-30-04.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-17-58-37.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 15730,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-17-58-37.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-02-38.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 49037,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-02-38.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-04-29.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 125752,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-04-29.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-06-59.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 136286,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-06-59.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-09-31.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 43130,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-09-31.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-10-23.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 57176,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-10-23.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-12-05.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 121543,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-12-05.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-32-07.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 68042,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-32-07.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-34-28.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 160914,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-34-28.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-34-58.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 54512,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/captura-de-pantalla-de-2024-07-04-18-34-58.png",
+      "dependencies": []
+    },
+    "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/youtube-video-gif.gif": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 411489,
+      "exportedPath": "tema-13-nivel-de-enlace-de-datos-control-de-acceso-al-medio/imágenes/youtube-video-gif.gif",
+      "dependencies": []
+    },
+    "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-48-43.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 41610,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-48-43.png",
+      "dependencies": []
+    },
+    "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-52-03.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 48666,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-18-52-03.png",
+      "dependencies": []
+    },
+    "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-00-17.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 98020,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-00-17.png",
+      "dependencies": []
+    },
+    "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-01-55.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 60170,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-01-55.png",
+      "dependencies": []
+    },
+    "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-03-40.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 87213,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-03-40.png",
+      "dependencies": []
+    },
+    "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-08-16.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 84852,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-08-16.png",
+      "dependencies": []
+    },
+    "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-12-16.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 144174,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-12-16.png",
+      "dependencies": []
+    },
+    "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-13-30.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 80328,
+      "exportedPath": "tema-14-redes-de-área-local/imágenes/captura-de-pantalla-de-2024-07-04-19-13-30.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 116505,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 15443,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1720116606712,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
